@@ -1,0 +1,34 @@
+	{% for post in site.posts limit:1 %}
+
+<section class="relative pt-20 pb-20 lg:pb-40">
+<div class="container px-4 mx-auto">
+  <div class="w-full lg:w-1/2 mb-10 lg:mb-0">
+	<div class="flex flex-wrap lg:pt-10">
+	  <div class="flex items-center justify-center mb-8">
+		<div class="flex items-center justify-center text-xs text-gray-500 font-semibold">
+		  <a href="/">Home</a>
+		  <span class="inline-block px-1">/</span>
+		  <a href="{{ site.site_url }}/blog/">Blog</a>
+		  <span class="inline-block px-1">/</span>
+		  <a href="{{ site.site_url }}/blog/">Articles</a>
+		</div>
+	  </div>
+	  <h2 class="mb-10 text-4xl font-semibold font-heading"><a href="{{ post.url | prepend: site.site_url }}">{{ post.title }}</a></h2>
+	  <div class="flex items-center justify-center">
+		<div class="mr-6">
+		  <img class="w-16 h-16 object-cover object-top rounded-full" src="{{ site.site_url }}/assets/images/avatars/team/new/website_jon.png" alt="Jon Brown - {{ post.title }} - Author">
+		</div>
+		<div class="text-left">
+		  <h3 class="mb-2 text-2xl font-semibold font-heading">{{ post.author }}</h3>
+		  <p class="text-gray-500">{{ post.date | date: "%b %-d, %Y" }}</p>
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+<div class="lg:absolute lg:top-0 lg:pl-8 lg:right-0 lg:w-1/2 h-full overflow-hidden">
+  <img class="h-full w-full ml-auto object-cover" src="{{ site.site_url }}{{ post.thumbnail }}" alt="Blog Post - {{ post.title }}">
+</div>
+</section>
+      
+	{% endfor %}

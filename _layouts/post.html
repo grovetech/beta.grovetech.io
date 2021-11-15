@@ -1,0 +1,68 @@
+{% include head.html %}
+{% include /nav/nav_slim.html %}
+
+
+<section class="relative py-20">
+
+<div class="relative h-112 lg:h-1/2 border-t border-b bg-cover bg-center overflow-hidden" style="background-image: url({{ site.site_url }}{{ page.thumbnail }})">
+
+
+<div class="absolute top-0 right-0 bottom-0 left-0 bg-black opacity-75"></div>
+
+  
+<img class="hidden lg:block absolute top-0 left-0 mt-24" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot">
+<img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Yellow Shield">
+<div class="container px-4 mx-auto mb-16 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+  <div class="max-w-4xl mx-auto text-center">
+	<h2 class="mb-10 lg:text-5xl text-4xl font-semibold font-heading text-white">{{ page.title }}</h2>
+  </div>
+</div>
+
+
+</div>
+</section>
+
+<section class="relative -mt-20 mb-10 hidden md:block">
+<div class="relative py-10 bg-green-500 text-center text-white text-xl font-semibold font-heading">
+Grove Technologies Ranked #6 Nationwide best Managed Service Provider <a class="inline-block mr-auto w-full md:w-auto px-12 py-2 text-green-500 text-center text-lg font-medium leading-normal bg-white rounded transition duration-200 cursor-pointer ml-4" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Book Demo</a>
+</div>
+</section>
+
+<section class="py-20 border-b">
+<div class="container px-4 mx-auto">
+  <div class="max-w-5xl mx-auto blog-post">
+  
+              <div class="float-right -mt-20">
+
+                <!-- Share -->
+                <span>
+					<!-- AddToAny BEGIN -->
+					<div class="a2a_kit a2a_kit_size_32 a2a_default_style d-none d-md-block" data-a2a-url="{{ site.site_cdn }}{{ page.url }}" data-a2a-title="{{ page.title }}">
+					<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+					<a class="a2a_button_facebook"></a>
+					<a class="a2a_button_pinterest"></a>
+					<a class="a2a_button_twitter"></a>
+					<a class="a2a_button_linkedin"></a>
+					</div>
+					<script async src="https://static.addtoany.com/menu/page.js"></script>
+					<script>
+					var a2a_config = a2a_config || {};
+					a2a_config.counts = { recover_domain: 'imamac.guru', recover_protocol: 'http' };
+					</script>
+                </span>
+
+                
+
+              </div>
+  
+  
+{{ content }}
+
+  </div>
+</div>
+</section>
+
+{% include lead.html %}   
+{% include forms/contact.html %}  
+
+{% include footer.html %}

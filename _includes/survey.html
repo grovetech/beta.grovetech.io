@@ -1,0 +1,56 @@
+<section>
+
+
+
+<div class="fixed z-50 overflow-y-auto top-0 w-full left-0" id="modal">
+
+  <div class="flex items-center justify-center min-height-100vh pt-4 px-4 pb-20 text-center sm:block sm:p-0">
+    <div class="fixed inset-0 transition-opacity">
+      <div class="absolute inset-0 bg-green-100 opacity-90" />
+    </div>
+    <span class="sm:inline-block sm:align-middle sm:h-screen">&#8203;</span>
+    <div class="h-screen w-full inline-block align-center bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle lg:max-w-xl lg:h-96" role="dialog" aria-modal="true" aria-labelledby="modal-headline">
+      <div class="sticky top-0 left-0 w-full text-center text-lg py-5 bg-green-500 text-white font-semibold z-30">Grove Survey</div>
+      <div class="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4 h-full overflow-auto">
+        
+        <div id="tripetto"></div>
+		<script src="https://cdn.jsdelivr.net/npm/tripetto-runner-foundation"></script>
+		<script src="https://cdn.jsdelivr.net/npm/tripetto-runner-chat"></script>
+		<script src="https://cdn.jsdelivr.net/npm/tripetto-services"></script>
+		<script>
+		var tripetto = TripettoServices.init({ token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoicG1KbzVuNjNodzZmVnc4aVBwazh5R3k0clZUSVpGMkJYcVRkajFwck5RRT0iLCJkZWZpbml0aW9uIjoiTExBR3A5cDdMU0dUTjdCcHJXVGFUSFU4ZEJpOURlcHNqc2tWWTRmK29EVT0iLCJ0eXBlIjoiY29sbGVjdCJ9.WhdZeAtL-GoLdOGjRtnlwnPfz_0D17NLjDxbqO10yXU" });
+
+		TripettoChat.run({
+			element: document.getElementById("tripetto"),
+			definition: tripetto.definition,
+			styles: tripetto.styles,
+			l10n: tripetto.l10n,
+			locale: tripetto.locale,
+			translations: tripetto.translations,
+			attachments: tripetto.attachments,
+			onSubmit: tripetto.onSubmit
+		});
+		
+		function toggleModal() {
+		  var x = document.getElementById("modal");
+		  if (x.style.display === "none") {
+			x.style.display = "block";
+		  } else {
+			x.style.display = "none";
+		  }
+		}
+		</script>  
+        
+      </div>
+      <div class="bg-gray-200 px-4 py-3 text-right sticky bottom-0 left-0">
+        <button type="button" class="py-2 px-4 bg-gray-500 text-white rounded hover:bg-gray-700 mr-2" onclick="toggleModal()">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+</section>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<meta charset="utf-8">
+  	<meta http-equiv="refresh" content="5;url={{ site.site_url }}{{ page.redirect }}" />
+  	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="apple-itunes-app" content="app-id=892102469">
+	
+	{% if site.production == true and page.sitemap != false  %}
+    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+  	{% else %}
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+	{% endif %}
+	<link rel="preconnect" href="https://www.google-analytics.com">
+	<link rel="preconnect" href="https://stats.g.doubleclick.net">
+	<link rel="preconnect" href="https://www.google.com">
+	
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.site_url }}/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ site.site_url }}/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ site.site_url }}/assets/images/favicons/favicon-16x16.png">
+	<link rel="mask-icon" href="{{ site.site_url }}/assets/images/favicons/safari-pinned-tab.png" color="#1abd6f">
+	<meta name="msapplication-TileColor" content="#1abd6f">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="keywords" content="{{ page.keywords }}">
+  	<meta name="twitter:description" content="{{ page.description }}">
+	<meta property="og:type" content="{{ page.ogtype }}">
+	
+	{% seo %}
+    
+	<link rel="manifest" href="{{ site.site_cdn }}/assets/js/manifest.json">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400&amp;subset=latin">
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+    <link rel="stylesheet" href="{{ site.site_url }}/assets/tailwind/tailwind.min.css">
+    <link rel="stylesheet" href="{{ site.site_url }}/assets/css/main.css">
+    
+    <script src="https://cdn.pushwoosh.com/webpush/v3/pushwoosh-service-worker.js"></script>
+    <script src="{{ site.site_url }}/assets/js/main.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js"></script>
+    
+
+    
+  </head>
+  <body class="antialiased bg-body text-body font-body">

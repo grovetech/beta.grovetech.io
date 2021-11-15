@@ -1,0 +1,85 @@
+# SEO settings
+title: " - Mac Support DC" 
+tagline: "Premium Mac Support for DC, MD & VA"
+description: "Grove Technologies - Washington DC's best Mac Support company for Digital Agencies, Creative Professionals & Non Profits." 
+url: "https://grovetech.co"
+author: "Jon Brown"
+name: "Grove Technologies"
+type: LocalBusiness
+twitter:
+  username: thegrovetech
+  card: summary
+facebook:
+ app_id: 2013404878733742
+ publisher: https://www.facebook.com/grovetechnologies
+ admins: https://www.facebook.com/grovetechnologies
+logo: /img/favicons/android-chrome-512x512.png
+social:
+  name: Grove Technologies
+  links:
+    - https://www.facebook.com/grovetechnologies
+    - https://twitter.com/thegrovetech
+    - https://www.linkedin.com/company/grove-tech
+    - https://www.instagram.com/thegrovetech/
+    - https://www.youtube.com/channel/UCCOQs9nbtG4YWmj5GouMViw
+    - https://foursquare.com/v/grove-technologies/5647d5c0498e42030b961c62
+    - https://consultants.apple.com/us/profile/2045642
+    - https://www.yelp.com/biz/grove-technologies-washington-4
+webmaster_verifications:
+  google: google3e4955832745f7b9
+  bing: C72803331AF77124C6D411BDE1FD13B3
+lang: en_US
+future: false
+port: 5000
+host: 192.168.208.4
+email: support@grovetech.co
+paginate: 6
+paginate_path: /blog/page/:num
+enforce_ssl: grovetech.co   # without any protocol
+helpdesk_basedn: grovetech.co   # without any protocol
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+permalink: /blog/:categories/:year/:month/:day/:title.html
+exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'package-lock.json', 'node_modules', 'compiler', 'gulpfile.js', 'package.json', 'scss', 'devices.sh', 'node_modules', 'deploy.sh', 'CNAME', 'functions', 'storage.rules', 'firebase.json']
+
+# https://maps.developer.apple.com/token-maker
+
+avatar:             
+site_url:           https://secure.grovetech.co/site
+base_href:          https://secure.grovetech.co/site
+site_cdn:           https://secure.grovetech.co/site
+baseurl:             /site
+#map_token:          eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjlDQTZRU05UOEYifQ.eyJpc3MiOiIyRDRaN1dRN1JTIiwiaWF0IjoxNjM1MDkxNDAyLCJleHAiOjE2NjY1Njk2MDAsIm9yaWdpbiI6Imh0dHBzOi8vZ3JvdmV0ZWNoLmNvLyJ9.0v3q5-ccwgh8_fhyCmwW-ge9IMZwfccQuhYzshCz13RGh-J5HA4WW0seJOZlgcfeCL3dW68J7WH3jevt-E7odg
+
+production:          true
+
+#site_url:           http://192.168.208.4:5000
+#base_href:          http://192.168.208.4:5000
+#site_cdn:           http://192.168.208.4:5000
+map_token:          eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjlDQTZRU05UOEYifQ.eyJpc3MiOiIyRDRaN1dRN1JTIiwiaWF0IjoxNjM1MDgxMjUxLCJleHAiOjE2NjY1Njk2MDB9.jVQVc7lCS7UW-QgtO2pNoLAkMPJ9aJAIIwbud-dyk9OTKwkAMlna8c64aULH0iUgUfOpiX6E_7XTaG4mgEiG6w
+
+compress_images:
+  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
+  
+imageoptim:
+  # Disabling svgo because it throws some error
+  pngout: true
+  svgo: false
+  jpegrecompress:
+    allow_lossy: true
+    quality: 2
+    max_quality: 80 
+
+feed:
+  path: atom.xml
+  
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-compress-images
+  - jekyll-feed

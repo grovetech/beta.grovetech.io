@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: humans.txt
+---
+/* TEAM */
+                            
+Your title: Jon Brown.                        
+Site: support@grovetech.co                                               
+Location: Washington D.C., USA.
+
+
+/* THANKS */
+
+Grove Technologies
+Name: https://grovetech.co
+
+                            
+/* SITE */
+                          
+Last update: {{ site.time | date: '%F' }}              
+Standards: HTML5, CSS3                  
+Components: Javascript, Tailwind                          
+Software: BBEdit, Jekyll, GitHub
