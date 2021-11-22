@@ -30,17 +30,32 @@
 		<div class="relative flex flex-wrap mb-6">
 		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="text" placeholder="Full Name" name="Contact[name]" id="contact_name" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Full Name</span>
 		</div>
-		<div class="relative flex flex-wrap mb-6">
+		<div class="flow-root">
+		<div class="relative flex float-left flex-wrap mb-6 w-1/2 pr-2">
 		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="email" name="Contact[email]" id="contact_email" placeholder="e.g hello@example.io" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Your email address</span>
 		</div>
-		<div class="relative flex flex-wrap mb-6">
+		<div class="relative flex float-right flex-wrap mb-6 w-1/2 pl-2">
 		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="text" placeholder="Phone Number" name="Contact[phone]" id="contact_phone" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Phone Number</span>
 		</div>
-		<div class="relative flex flex-wrap mb-6">
+		</div>
+		<div class="flow-root">
+		<div class="relative flex flex-wrap float-left mb-6 w-1/2 pr-2">
 		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="text" placeholder="Company Name" name="Contact[subject]" id="contact_subject" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Company Name</span>
 		</div>
+		<div class="relative flex flex-wrap float-right mb-6 w-1/2 pl-2">
+		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="text" placeholder="PC / Mac Ratio" name="Contact[ratio]" id="contact_ratio" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Ho many Mac's & PC's do you have?</span>
+		</div>
+		</div>
+		<div class="flow-root">  
+		<div class="relative mb-6 float-left w-1/2 pr-2">
+		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="text" placeholder="Employee Count" name="Contact[employee]" id="contact_employee" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">How many employees do you have?</span>
+		</div>
+		<div class="relative mb-6 float-right w-1/2 pl-2">
+		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="text" placeholder="Company Headquarters" name="Contact[location]" id="contact_location" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Where are you located?</span>
+		</div>
+		</div>
 		<div class="relative flex flex-wrap mb-6">
-		  <textarea class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded resize-none border-green-500 focus:outline-none focus:ring focus:border-blue-300" id="1" type="message" cols="30" rows="10" placeholder="What challenges are you facing?" name="Contact[message]" id="contact_message" required></textarea><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">What challenges are you facing?</span>
+		  <textarea class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded resize-none border-green-500 focus:outline-none focus:ring focus:border-blue-300" id="1" type="message" cols="30" rows="5" placeholder="What challenges are you facing?" name="Contact[message]" id="contact_message" required></textarea><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">What challenges are you facing?</span>
 		  <input type="text" name="_gotcha" style="display:none">
 		</div>
 	    <div class="relative flex flex-wrap mb-6">

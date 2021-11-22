@@ -111,7 +111,7 @@ ogtype: page
 		  <span class="inline-block mb-4 px-3 py-1 bg-green-50 rounded">
 			<h3 class="text-xs font-semibold text-green-500">Custom Packages Available</h3>
 		  </span>
-		  <p class="mb-6 lg:mb-12 text-gray-500">Average CMMC Project is 40 hours a month for 6-12 Months.</p>
+		  <p class="mb-6 lg:mb-12 text-gray-500">Average CMMC Project is 40 hours a month for 6-12 Months not to exceed 24 Months.</p>
 		  <div class="flex justify-center mb-12">
 			<span class="self-start inline-block mr-1 text-xl font-semibold text-gray-500">$</span>
 			<p class="self-end text-4xl font-semibold font-heading">200/ hr</p>

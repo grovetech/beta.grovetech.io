@@ -30,8 +30,8 @@ webmaster_verifications:
   bing: C72803331AF77124C6D411BDE1FD13B3
 lang: en_US
 future: false
-port: 5000
-host: 192.168.208.4
+#port: 4000
+#host: localhost
 email: support@grovetech.co
 paginate: 6
 paginate_path: /blog/page/:num
@@ -53,14 +53,14 @@ avatar:
 site_url:           https://beta.grovetech.co/
 base_href:          https://beta.grovetech.co/
 site_cdn:           https://beta.grovetech.co/
-#baseurl:             /site
+baseurl:             /site
 #map_token:          eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjlDQTZRU05UOEYifQ.eyJpc3MiOiIyRDRaN1dRN1JTIiwiaWF0IjoxNjM1MDkxNDAyLCJleHAiOjE2NjY1Njk2MDAsIm9yaWdpbiI6Imh0dHBzOi8vZ3JvdmV0ZWNoLmNvLyJ9.0v3q5-ccwgh8_fhyCmwW-ge9IMZwfccQuhYzshCz13RGh-J5HA4WW0seJOZlgcfeCL3dW68J7WH3jevt-E7odg
 
 production:          true
 
-#site_url:           http://192.168.208.4:5000
-#base_href:          http://192.168.208.4:5000
-#site_cdn:           http://192.168.208.4:5000
+#site_url:           http://localhost:4000
+#base_href:          http://localhost:4000
+#site_cdn:           http://localhost:4000
 map_token:          eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjlDQTZRU05UOEYifQ.eyJpc3MiOiIyRDRaN1dRN1JTIiwiaWF0IjoxNjM1MDgxMjUxLCJleHAiOjE2NjY1Njk2MDB9.jVQVc7lCS7UW-QgtO2pNoLAkMPJ9aJAIIwbud-dyk9OTKwkAMlna8c64aULH0iUgUfOpiX6E_7XTaG4mgEiG6w
 
 compress_images:

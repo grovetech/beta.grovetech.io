@@ -74,6 +74,21 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
+		  <div class="w-full md:w-1/3 px-5 mb-4 lg:mb-0">
+			<img class="w-full md:w-40 h-52 object-cover object-top rounded-xl" src="{{ site.site_url }}/assets/images/avatars/team/new/rich.jpg" alt="Jon Brown CEO & Founder">
+		  </div>
+		  <div class="w-full md:w-2/3 px-5">
+			<h3 class="text-2xl font-semibold font-heading mb-1">Richard Durfee</h3>
+			<p class="mb-6 text-gray-500">Sr Mac Expert</p>
+			<p class="text-gray-500">Chad is our in house ZOOM certified implementation specialist as well as Apple certified technical coordinator and support professional.</p>
+		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">JAMF Associate</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Mosyle Administrator</span></p>
+		  </div>
+		</div>
+	  </div>
+	</div>
+	<div class="w-full lg:w-1/2 p-3">
+	  <div class="p-6 border rounded-xl">
+		<div class="flex flex-wrap items-stretch -mx-5">
 		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-indigo-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CG</span>
 		  </div>
@@ -197,7 +212,7 @@ ogtype: page
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
 		  <div class="w-full md:w-1/3 px-5 mb-4 lg:mb-0">
-			<img class="w-full md:w-40 h-52 object-cover object-top rounded-xl" src="{{ site.site_url }}/assets/images/avatars/team/new/website_jon.png" alt="Jon Brown CEO & Founder">
+			<img class="w-full md:w-40 h-52 object-cover object-top rounded-xl" src="{{ site.site_url }}/assets/images/avatars/team/new/jon.jpg" alt="Jon Brown CEO & Founder">
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Jon Brown</h3>
