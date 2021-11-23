@@ -29,14 +29,47 @@ ogtype: page
   <div class="flex flex-wrap -m-3">
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
+		<div class="flex flex-wrap items-stretch -mx-5 relative">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
 			<span class="text-white text-2xl">MD</span>
+			
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/mikaela-donelan/phone-call'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/mikaela-donelan/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/mikaela-donelan'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
+			
+			
 		  </div>
+		  			
+					
+					
 		  <div class="w-full md:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Mikaela Donelan</h3>
 			<p class="mb-6 text-gray-500">Client Success & Project Manager</p>
 			<p class="text-gray-500">Mikaela partners with clients to develop strategic solutions for their business needs. During project development, she is the voice of our clients!</p>
+			
+			
+					
+					
 		  </div>
 		</div>
 	  </div>
@@ -44,8 +77,37 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-red-500 flex items-center justify-center">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-red-500 flex items-center justify-center">
 			<span class="text-white text-2xl">TT</span>
+			
+			
+			
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/tiaratgrovetech/phone-call'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/tiaratgrovetech/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/tiaratgrovetech'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
+			
+			
+			
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Tiara Thornton</h3>
@@ -59,8 +121,35 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center">
 			<span class="text-white text-2xl">NL</span>
+			
+			
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/nikkilewis/phone-call'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/nikkilewis/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/nikkilewis'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
+			
+			
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Nikki Lewis</h3>
@@ -74,8 +163,35 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="w-full md:w-1/3 px-5 mb-4 lg:mb-0">
-			<img class="w-full md:w-40 h-52 object-cover object-top rounded-xl" src="{{ site.site_url }}/assets/images/avatars/team/new/rich.jpg" alt="Jon Brown CEO & Founder">
+		  <div class="relative w-full md:w-1/3 px-5 mb-4 lg:mb-0">
+			<img class="w-full md:w-40 h-52 object-cover object-top rounded-xl" src="{{ site.site_url }}/assets/images/avatars/team/new/rich.jpg" alt="Rich Durfee - Mac Expert">
+			
+			
+			<div class="grid grid-cols-3 gap-0 absolute bottom-0 left-0 md:left-5 w-full md:w-3/4 place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/richard-bm/phone-call'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/richard-bm/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/richard-bm'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
+			
+			
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Richard Durfee</h3>
@@ -89,8 +205,36 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-indigo-500 flex items-center justify-center">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-indigo-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CG</span>
+			
+			
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chadgrovetech/phone-call'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chadgrovetech/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chadgrovetech'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
+			
+			
+			
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Chad Gordon</h3>
@@ -104,8 +248,34 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-teal-500 flex items-center justify-center">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-teal-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CS</span>
+			
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chris-grovetech/phone-call'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chris-grovetech/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chris-grovetech'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
+			
+			
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Chris Sanborn</h3>
