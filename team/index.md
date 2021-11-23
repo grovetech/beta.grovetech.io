@@ -30,7 +30,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
 			<span class="text-white text-2xl">MD</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -44,7 +44,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-red-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-red-500 flex items-center justify-center">
 			<span class="text-white text-2xl">TT</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -59,7 +59,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center">
 			<span class="text-white text-2xl">NL</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -89,7 +89,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-indigo-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-indigo-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CG</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -104,7 +104,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-teal-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-teal-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CS</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -134,7 +134,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-yellow-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-yellow-500 flex items-center justify-center">
 			<span class="text-white text-2xl">MT</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -150,7 +150,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-purple-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-purple-500 flex items-center justify-center">
 			<span class="text-white text-2xl">VA</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -166,7 +166,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-blue-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-blue-500 flex items-center justify-center">
 			<span class="text-white text-2xl">VB</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
@@ -182,7 +182,7 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="ml-4 w-full lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-green-500 flex items-center justify-center">
+		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-green-500 flex items-center justify-center">
 			<span class="text-white text-2xl">IJ</span>
 		  </div>
 		  <div class="w-full md:w-2/3 px-5">
