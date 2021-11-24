@@ -100,7 +100,7 @@ ogtype: page
   </div>
   <img class="mt-24 w-full lg:hidden" src="{{ site.site_url }}/assets/images/app/laptop.png" alt="Grove Support for macOS and iOS">
 </div>
-<div class="hidden lg:block lg:absolute lg:top-0 lg:mt-32 lg:-ml-10 lg:left-0 h-112">
+<div class="hidden md:block md:absolute md:top-0 md:mt-32 md:-ml-10 md:left-0 h-112">
   <img class="" src="{{ site.site_url }}/assets/images/app/laptop.png" alt="Grove Support for macOS and iOS">
 </div>
 </section>  
