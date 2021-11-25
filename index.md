@@ -24,7 +24,7 @@ ogtype: page
   <div class="relative w-full lg:w-1/2 px-4 order-last lg:order-first flex items-center hidden lg:block">
 
 	<img src="{{ site.site_url }}/assets/images/home/christin-hume-hBuwVLcYTnA-unsplash.jpg" alt="Grove Technologies Mac MSP" class="absolute inset-x-0 top-10 right-0 w-128 rounded-lg mx-auto lg:-ml-20">
-	<img class="h-7 absolute top-14 right-40 hidden lg:block" src="{{ site.site_url }}/assets/images/icons/acsp11_White.svg" alt="Grove Technologies Mac Support" width="auto">
+	<img class="h-7 absolute top-14 right-48 hidden lg:block" src="{{ site.site_url }}/assets/images/icons/acsp11_White.svg" alt="Grove Technologies Mac Support" width="auto">
 	<img src="{{ site.site_url }}/assets/images/home/annie-spratt-FSFfEQkd1sc-unsplash.jpg" alt="Grove Technologies Apple Consultant" class="absolute bottom-0 left-0 w-128 rounded-lg mx-auto lg:-ml-20">
 	<img class="h-7 absolute bottom-5 left-5 hidden lg:block lg:w-full hidden" src="{{ site.site_url }}/assets/images/icons/ACNWhite.svg" alt="Grove Technologies Best Apple Help" width="auto">
 	
