@@ -74,7 +74,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 </div>
 </section>
 
-<section class="relative py-20 overflow-x-hidden border-t -mb-60 lg:mb-0"><div class="container px-4 mx-auto">
+<section class="relative py-20 overflow-x-hidden border-t lg:mb-0"><div class="container px-4 mx-auto">
   <div class="relative flex flex-wrap items-center -mx-4">
 	<img class="hidden xl:block absolute top-0 right-0 mt-40 -mr-32" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/red-dot-right-shield.svg" alt="Red Shield"><div class="relative w-full lg:w-1/2 px-4 pb-12 lg:pb-0">
 	  <div class="max-w-md">

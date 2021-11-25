@@ -64,7 +64,7 @@ ogtype: page
 </section>
       
       
-<section class="py-20 -mb-60 lg:mb-0">
+<section class="py-20 lg:mb-0">
 <div class="container px-4 mx-auto">
   <div class="flex flex-wrap items-center -mx-4 -mb-8">
 	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
@@ -90,7 +90,7 @@ ogtype: page
 {% include /reviews/review6.html %}
 {% include partners.html %}  
 
-<section class="relative py-20 -mb-60 lg:mb-0">
+<section class="relative py-20 lg:mb-0">
 <img class="hidden lg:block absolute top-0 left-0 mt-16" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Bars">
 <img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic">
 <div class="container px-4 mx-auto">

@@ -11,7 +11,7 @@ ogtype: page
 ---
 
 
-<section class="relative py-20"><img class="hidden lg:block absolute top-0 left-0 mt-64" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot"><img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic"><div class="container px-4 mx-auto">
+<section class="relative py-20"><img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic"><div class="container px-4 mx-auto">
 <div class="max-w-2xl mx-auto mb-20 text-center">
   <span class="text-xs font-semibold text-green-500">Transparent Pricing</span>
   <h2 class="mt-8 mb-10 text-4xl font-heading">💻 +📱 Apple Support Pricing</h2>

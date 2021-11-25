@@ -40,7 +40,7 @@ ogtype: page
   </div>
 </div>
 </section>
-<section class="bg-green-500 py-20 -mb-60 lg:mb-0">
+<section class="bg-green-500 py-20 lg:mb-0">
 <div class="container px-4 mx-auto">
   <h2 class="mb-8 md:mb-16 text-4xl lg:text-6xl font-semibold font-heading text-white">Open Tickets & Book Appointments</h2>
   <div class="flex flex-wrap items-center">
