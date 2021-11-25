@@ -200,7 +200,7 @@ ogtype: page
 </section>
       
       
-<section class="relative py-20 -mb-60 lg:mb-0"><div class="relative container px-4 mx-auto">
+<section class="relative py-20 lg:mb-0"><div class="relative container px-4 mx-auto">
   <div class="flex flex-wrap items-center -mx-4">
 	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
 	  <div class="max-w-lg">

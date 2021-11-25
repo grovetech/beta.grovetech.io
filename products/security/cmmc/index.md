@@ -68,7 +68,7 @@ ogtype: page
 </div>
 </section>
     
-<section class="relative py-10 -mb-60 lg:mb-0">
+<section class="relative py-10 lg:mb-0">
 <div class="container px-4 mx-auto">
   <div class="mb-6 py-6 px-6 lg:pl-12 lg:pr-6 bg-green-50 rounded-xl">
 	<div class="flex flex-wrap -mx-4">

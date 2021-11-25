@@ -12,14 +12,14 @@ ogtype: page
 
 
 <section class="relative pt-20">
-<img class="hidden md:block absolute top-0 left-0 mt-24" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot">
+<img class="hidden lg:block absolute top-0 left-0 mt-24" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot">
 <div class="relative container px-4 mx-auto text-center">
   <div class="max-w-2xl mx-auto mb-16">
 	<span class="text-xs text-green-500 font-semibold">Hey, We Made an App!</span>
 	<h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">Introducing the Grove Support App.</h2>
 	<p class="mb-10 text-xl text-gray-500">When you're on the go, amazing Mac tech support is only a click away. Anywhere in the world.</p>
 	<div class="flex flex-wrap justify-center items-center mb-24">
-	  <a class="mr-0 lg:mr-4 -mt-2 lg:mb-0 mb-5" href="https://itunes.apple.com/us/app/mac-support/id892102469?ls=1&mt=8" target="blank" rel="noreferrer">
+	  <a class="mr-0 lg:mr-4 -mt-2 lg:mb-0 mb-5 hidden md:block" href="https://itunes.apple.com/us/app/mac-support/id892102469?ls=1&mt=8" target="blank" rel="noreferrer">
 	  	  <div class="flex mt-3 w-48 h-14 bg-transparent text-black border border-black rounded-xl items-center justify-center">
             <div class="mr-3">
                 <svg viewBox="0 0 384 512" width="30" >
@@ -32,7 +32,7 @@ ogtype: page
             </div>
            </div>
 	  </a>
-	  <a class="text-xl rounded-xl border border-black py-2 px-4 mt-1" href="https://shine.grovedesigns.co/download.php?id=6" target="blank" rel="noreferrer">Download macOS App</a>
+	  <a class="text-xl rounded-xl border border-black py-2 px-4 mt-1 hidden lg:block" href="https://shine.grovedesigns.co/download.php?id=6" target="blank" rel="noreferrer">Download macOS App</a>
 	</div>
   </div>
   <div>
@@ -67,7 +67,7 @@ ogtype: page
   </div>
 </div>
 </section>  
-<section class="relative py-20 overflow-x-hidden hidden md:block">
+<section class="relative py-20 overflow-x-hidden hidden lg:block">
 <div class="container px-4 mx-auto">
   <div class="w-full lg:w-1/2 lg:ml-auto">
 	<div class="flex flex-wrap sm:max-w-md">
@@ -100,7 +100,7 @@ ogtype: page
   </div>
   <img class="mt-24 w-full lg:hidden" src="{{ site.site_url }}/assets/images/app/laptop.png" alt="Grove Support for macOS and iOS">
 </div>
-<div class="hidden md:block md:absolute md:top-0 md:mt-32 md:-ml-10 md:left-0 h-112">
+<div class="hidden md:block md:absolute md:top-0 md:mt-32 md:-ml-96 md:left-0 h-112">
   <img class="" src="{{ site.site_url }}/assets/images/app/laptop.png" alt="Grove Support for macOS and iOS">
 </div>
 </section>  

@@ -18,8 +18,8 @@ ogtype: page
 ---
 
 
-<section class="relative pb-20 lg:py-20 lg:-mt-10 border-b">
-<img class="lg:absolute lg:top-0 lg:left-0 h-full w-full lg:w-5/12 mb-12 lg:mb-0 object-cover" src="{{ site.site_url }}/assets/images/services/government/vlad-tchompalov-dHjV9czPNHs-unsplash.jpg" alt="Grove Technologies Headquartered in Washington DC">
+<section class="relative pb-20 lg:py-20 lg:-mt-10 border-b md:-mt-10">
+<img class="lg:absolute lg:top-0 lg:-left-10 h-full w-full lg:w-5/12 mb-12 lg:mb-0 object-cover" src="{{ site.site_url }}/assets/images/services/government/vlad-tchompalov-dHjV9czPNHs-unsplash.jpg" alt="Grove Technologies Headquartered in Washington DC">
 <div class="container px-4 mx-auto">
   <div class="w-full lg:w-7/12 lg:ml-auto">
 	<img class="hidden lg:block lg:absolute ml-auto top-0 right-0 lg:mt-64" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic">

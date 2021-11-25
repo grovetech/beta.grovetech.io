@@ -18,7 +18,6 @@ ogtype: page
 ---
 
 <section class="relative py-20">
-<img class="hidden lg:block absolute top-0 left-0 mt-20" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot">
 <img class="hidden lg:block absolute top-0 right-0 mt-52" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Yellow Shield">
 <div class="container px-5 mx-auto">
   <div class="max-w-3xl mx-auto mb-12 lg:mb-20 text-center">
@@ -29,11 +28,11 @@ ogtype: page
   <div class="flex flex-wrap -m-3">
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5 relative">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap relative">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
 			<span class="text-white text-2xl">MD</span>
 			
-			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
 				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/mikaela-donelan/phone-call'});return false;">
 						<div class="icon text-primary mb-3">
@@ -62,7 +61,7 @@ ogtype: page
 		  			
 					
 					
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Mikaela Donelan</h3>
 			<p class="mb-6 text-gray-500">Client Success & Project Manager</p>
 			<p class="text-gray-500">Mikaela partners with clients to develop strategic solutions for their business needs. During project development, she is the voice of our clients!</p>
@@ -76,13 +75,13 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-red-500 flex items-center justify-center">
 			<span class="text-white text-2xl">TT</span>
 			
 			
 			
-			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
 				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/tiaratgrovetech/phone-call'});return false;">
 						<div class="icon text-primary mb-3">
@@ -109,7 +108,7 @@ ogtype: page
 			
 			
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Tiara Thornton</h3>
 			<p class="mb-6 text-gray-500">Mac Expert</p>
 			<p class="text-gray-500">Tiara, a prior Apple trained Support Technician, is dedicated to providing great Mac Support and a outstanding customer experience.</p>
@@ -120,12 +119,12 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center">
 			<span class="text-white text-2xl">NL</span>
 			
 			
-			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
 				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/nikkilewis/phone-call'});return false;">
 						<div class="icon text-primary mb-3">
@@ -151,7 +150,7 @@ ogtype: page
 			
 			
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Nikki Lewis</h3>
 			<p class="mb-6 text-gray-500">Mac Expert</p>
 			<p class="text-gray-500">Nikki, a prior Apple trained Support Technician, is committed to providing exceptional Mac Support and exceptional customer service.</p>
@@ -162,12 +161,12 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="relative w-full md:w-1/3 px-5 mb-4 lg:mb-0">
-			<img class="w-full md:w-40 h-52 object-cover object-top rounded-xl" src="{{ site.site_url }}/assets/images/avatars/team/new/rich.jpg" alt="Rich Durfee - Mac Expert">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36  mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center rounded-xl overflow-hidden">
+			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/rich.jpg" alt="Rich Durfee - Mac Expert">
 			
 			
-			<div class="grid grid-cols-3 gap-0 absolute bottom-0 left-0 md:left-5 w-full md:w-3/4 place-items-center">
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
 				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/richard-bm/phone-call'});return false;">
 						<div class="icon text-primary mb-3">
@@ -193,7 +192,7 @@ ogtype: page
 			
 			
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Richard Durfee</h3>
 			<p class="mb-6 text-gray-500">Sr Mac Expert</p>
 			<p class="text-gray-500">Chad is our in house ZOOM certified implementation specialist as well as Apple certified technical coordinator and support professional.</p>
@@ -204,12 +203,12 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-indigo-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CG</span>
 			
 			
-			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
 				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chadgrovetech/phone-call'});return false;">
 						<div class="icon text-primary mb-3">
@@ -236,7 +235,7 @@ ogtype: page
 			
 			
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Chad Gordon</h3>
 			<p class="mb-6 text-gray-500">AV & Mac Expert</p>
 			<p class="text-gray-500">Chad is our in house ZOOM certified implementation specialist as well as Apple certified technical coordinator and support professional.</p>
@@ -247,11 +246,11 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-teal-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CS</span>
 			
-			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full place-items-center">
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
 				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chris-grovetech/phone-call'});return false;">
 						<div class="icon text-primary mb-3">
@@ -277,7 +276,7 @@ ogtype: page
 			
 			
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Chris Sanborn</h3>
 			<p class="mb-6 text-gray-500">Mac Expert</p>
 			<p class="text-gray-500">Chris helps support the needs of our enterprise customers and small business clients.</p>
@@ -292,7 +291,6 @@ ogtype: page
 
 
 <section class="relative py-20">
-<img class="hidden lg:block absolute top-0 left-0 mt-20" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot">
 <img class="hidden lg:block absolute top-0 right-0 mt-52" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Yellow Shield">
 <div class="container px-5 mx-auto">
   <div class="max-w-3xl mx-auto mb-12 lg:mb-20 text-center">
@@ -303,11 +301,11 @@ ogtype: page
   <div class="flex flex-wrap -m-3">
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-yellow-500 flex items-center justify-center">
 			<span class="text-white text-2xl">MT</span>
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Michael Tedesco</h3>
 			<p class="mb-6 text-gray-500">CISO, CISSP,  <a class="underline" href="https://portal.cmmcab.org/marketplace/michael-tedesco/" rel="noreferrer" target="_blank">CMMC RP</a></p>
 			<p class="text-gray-500">With a background in the US Coast Guard, Michael helps the needs of our Government companies stay within the boundaries of compliance.</p>
@@ -319,11 +317,11 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-purple-500 flex items-center justify-center">
 			<span class="text-white text-2xl">VA</span>
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Victoria Arkhurst</h3>
 			<p class="mb-6 text-gray-500">CISO, <a class="underline" href="https://portal.cmmcab.org/marketplace/victoria-arkhurst/" rel="noreferrer" target="_blank">CMMC RP</a>, CISSP, CDPSE, CISA</p>
 			<p class="text-gray-500">Victoria Arkhurst, a vCISO and managing partner of IRM Consulting & Advisory, is partnering with us to provide amazing vCISO services.</p>
@@ -335,11 +333,11 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-blue-500 flex items-center justify-center">
 			<span class="text-white text-2xl">VB</span>
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Vince Borho</h3>
 			<p class="mb-6 text-gray-500">Systems Engineer, CISO</p>
 			<p class="text-gray-500">Senior Systems Engineer & SaaS subject matter expert with 20+ years experience in enterprise systems administration, deployment and optimization.</p>
@@ -351,11 +349,11 @@ ogtype: page
 	</div>
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-green-500 flex items-center justify-center">
 			<span class="text-white text-2xl">IJ</span>
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Ingrum Jefferson</h3>
 			<p class="mb-6 text-gray-500">CISO, CEH, <a class="underline" href="https://cmmcab.org/marketplace/ingrum-jefferson/" rel="noreferrer" target="_blank">CMMC RP</a></p>
 			<p class="text-gray-500">With over 20+ years of experience, he holds a Masters in Cybersecurity as well as certifications including Certified Ethical Hacker and FEMA OT.</p>
@@ -380,11 +378,38 @@ ogtype: page
   <div class="flex flex-wrap -m-3">
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
-		<div class="flex flex-wrap items-stretch -mx-5">
-		  <div class="w-full md:w-1/3 px-5 mb-4 lg:mb-0">
-			<img class="w-full md:w-40 h-52 object-cover object-top rounded-xl" src="{{ site.site_url }}/assets/images/avatars/team/new/jon.jpg" alt="Jon Brown CEO & Founder">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36  mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center rounded-xl overflow-hidden">
+			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/jon.jpg" alt="Jon Brown - CEO & Founder">
+			
+			
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/richard-bm/phone-call'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/richard-bm/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/richard-bm'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
+			
+			
 		  </div>
-		  <div class="w-full md:w-2/3 px-5">
+		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Jon Brown</h3>
 			<p class="mb-6 text-gray-500">CEO & Founder, <a class="underline" href="https://portal.cmmcab.org/marketplace/jonathan-brown/" rel="noreferrer" target="_blank">CMMC RP</a></p>
 			<p class="text-gray-500">Jon is a charismatic leader, entrepreneur, teacher & mentor who helps businesses take their Mac, Cybersecurity & Networks to the next level.</p>

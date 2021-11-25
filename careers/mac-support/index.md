@@ -14,7 +14,7 @@ navpar: "We're always looking to hire talented folks to join our ever-growing te
 cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 ---
 
-<section class="relative pb-20 pt-20 lg:mb-0 -mb-60">
+<section class="relative pb-20 pt-20 lg:mb-0 md:pt-0 lg:pt-20">
 <div class="container px-4 mx-auto">
 <div class="w-full"><p class="pb-2 text-left font-semibold mb-10"><svg class="inline -mt-1 transform rotate-180" width="19" height="13" viewBox="0 0 19 13" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.7 6.7487L0.75 6.7487" stroke="#000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M9.7002 11.7497L17.6372 6.7487L9.7002 1.7477V11.7497Z" stroke="#000" fill="#000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg> <a href="{{ site.site_url }}/careers/">All listings</a></p></div>
 </div>
@@ -24,11 +24,11 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 
 <div class="w-full lg:w-1/2"><h2 class="pb-6 text-left font-semibold text-3xl">Mac Support Specialist</h2>
 <p>Washington D.C. · Part time</p></div>
-<div class="w-full lg:w-1/2"><a class="inline-block lg:mt-0 mt-10 md:w-auto mb-2 md:mb-0 px-8 py-4 mr-4 text-lg float-right font-medium leading-normal bg-green-500 text-white rounded transition duration-200" href="https://www.indeed.com/job/mac-it-desktop-technician-b5bd96f42c5fdab2" target="_blank">Apply Now</a></div>
+<div class="w-full lg:w-1/2 text-center"><a class="inline-block lg:mt-0 mt-10 md:w-auto mb-2 md:mb-0 px-8 py-4 lg:mr-4 text-lg float-right font-medium leading-normal bg-green-500 text-white rounded transition duration-200 mr-0 w-full lg:w-1/2 text-center" href="https://www.indeed.com/job/mac-it-desktop-technician-b5bd96f42c5fdab2" target="_blank">Apply Now</a></div>
 </div>
 <div class="container px-4 mx-auto">
 <div class="flex flex-wrap -mx-4 -mb-4 md:mb-0">
-<div class="w-full md:w-2/3 px-4 mb-4 md:mb-0">
+<div class="w-full lg:w-2/3 px-4 mb-4 md:mb-0">
 
 
   <div class="max-w-2xl mx-aut0">
@@ -414,7 +414,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 
 
 </div>
-<div class="w-full md:w-1/3 px-4 mb-4 md:mb-0">
+<div class="w-full lg:w-1/3 px-4 mb-4 md:mb-0 hidden lg:block">
 
   <div class="flex flex-wrap -m-4">
 	<div class="w-full p-4">

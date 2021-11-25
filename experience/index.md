@@ -70,7 +70,7 @@ ogtype: page
 
 {% include /reviews/review6.html %}
 
-<section class="py-20 border-t border-b"><div class="container mx-auto px-4 -mb-60 lg:mb-0">
+<section class="py-20 border-t border-b"><div class="container mx-auto px-4 -mb-60 lg:mb-0 md:mb-0">
 <div class="max-w-3xl mx-auto mb-12 lg:mb-16 text-center">
 	<span class="text-xs font-semibold text-green-500">Client Journey in a Nutshell</span>
 	<h2 class="mt-8 mb-10 text-4xl font-heading">A Client Journey With All the Right Stuff.</h2>

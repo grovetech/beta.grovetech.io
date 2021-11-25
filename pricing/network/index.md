@@ -11,7 +11,7 @@ ogtype: page
 ---
 
 
-<section class="relative py-20"><img class="hidden lg:block absolute top-0 left-0 mt-64" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Left Bars"><img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic"><div class="container px-4 mx-auto">
+<section class="relative py-20"><img class="hidden lg:block absolute top-0 -left-24 mt-64" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Left Bars"><img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic"><div class="container px-4 mx-auto">
 <div class="max-w-2xl mx-auto mb-20 text-center">
   <span class="text-xs font-semibold text-green-500">Transparent Pricing</span>
   <h2 class="mt-8 mb-10 text-4xl font-heading">🧭 Managed Network Pricing</h2>
@@ -182,7 +182,7 @@ ogtype: page
 	  <p class="max-w-lg mb-12 text-xl text-gray-500">We take it a step further by providing you with best in class remote and on-site monitoring solutions.</p>
 	
 	<div class="w-full px-4 mb-12 lg:mb-0">
-	  <img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot"><img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/networking/thomas-jensen-ISG-rUel0Uw-unsplash.jpg" alt="Grove Technologies Mac MSP"></div>
+	  <img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/networking/thomas-jensen-ISG-rUel0Uw-unsplash.jpg" alt="Grove Technologies Mac MSP"></div>
 	  
 	</div>
 	
