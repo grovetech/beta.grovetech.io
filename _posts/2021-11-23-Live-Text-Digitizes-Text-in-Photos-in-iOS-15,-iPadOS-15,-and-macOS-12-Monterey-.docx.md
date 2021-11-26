@@ -2,7 +2,7 @@
 layout: post
 date: '2021-11-23'
 author: Jon Brown
-permalink: /blog/live-text-digitizes-text-in-photos-in-ios-15,-ipados-15,-and-macos-12-monterey-/
+permalink: /blog/live-text-digitizes-text-in-photos-in-ios-15-ipados-15-and-macos-12-monterey/
 published: true
 title: Live Text Digitizes Text in Photos in iOS 15, iPadOS 15, and macOS 12 Monterey 
 description: Live Text Digitizes Text in Photos in iOS 15, iPadOS 15, and macOS 12 Monterey 

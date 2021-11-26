@@ -141,7 +141,7 @@ Alas, as shown below, commercial mail from Apple itself seems to be
 exempt from Mail's Unsubscribe banner, and the company has one of the
 less obvious Unsubscribe links out there.
 
-<img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2021/20210705Re/image9.jpeg" class="img-fluid rounded m-2" width="700" />
+<img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2021/20210705Re/image9.png" class="img-fluid rounded m-2" width="700" />
 
 
 As helpful as muting and blocking can be, you'll get the biggest bang

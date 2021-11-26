@@ -2,7 +2,7 @@
 layout: post
 date: '2021-11-25'
 author: Jon Brown
-permalink: /blog/macos-safari-reverses-course,-reverts-to-old-tab-interface/
+permalink: /blog/macos-safari-reverses-course-reverts-to-old-tab-interface/
 published: true
 title: macOS Safari Reverses Course, Reverts to Old Tab Interface
 description: macOS Safari Reverses Course, Reverts to Old Tab Interface

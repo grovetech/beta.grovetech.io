@@ -108,7 +108,7 @@ What about iOS or iPadOS? Never fear, since the Files app can also
 decrypt ZIP archives; just tap the archive to open it and enter the
 password when prompted.
 
-<img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2021/20210901Ne/image8.png" class="img-fluid rounded m-2" width="700" />
+<img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2021/20210901Ne/image8.jpeg" class="img-fluid rounded m-2" width="700" />
 
 ### A Word about Passwords
 

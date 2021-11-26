@@ -120,7 +120,7 @@ work on something else. To create a center window, touch and hold the
 item in the sidebar and then tap Open in New Window. To close it, tap
 Close or swipe up on its Shelf thumbnail.
 
-<img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2021/20211001iP/image8.jpg" class="img-fluid rounded m-2" width="700" />
+<img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2021/20211001iP/image8.png" class="img-fluid rounded m-2" width="700" />
 
 ### Use the Multitasking Keyboard Shortcuts
 
