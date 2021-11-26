@@ -59,7 +59,7 @@ ogtype: page
 	  </div>
 	</div>
 	<div class="w-full md:w-2/5 px-4">
-	  <img class="h-64 lg:h-auto mx-auto" src="{{ site.site_url }}/assets/images/app/befit-ios.png" alt="BeFit for MacOS & iOS">
+	  <img class="h-64 lg:h-auto mx-auto" src="{{ site.site_url }}/assets/images/app/BeFit-iOS.png" alt="BeFit for MacOS & iOS">
 	</div>
   </div>
 </div>
