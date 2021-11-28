@@ -67,13 +67,21 @@ ogtype: page
   </div>
 </div>
 </section>  
-<section class="relative py-20 overflow-x-hidden hidden lg:block">
+
+
+<section class="relative py-20 lg:mb-0">
 <div class="container px-4 mx-auto">
-  <div class="w-full lg:w-1/2 lg:ml-auto">
-	<div class="flex flex-wrap sm:max-w-md">
-	  <h2 class="mb-10 text-4xl font-semibold font-heading">Need Mac support? Not anymore.</h2>
-	  <p class="mb-10 text-lg text-gray-500">The Grove Support App is a small App, created to share quick tips with Mac novices to help them learn some Mac tricks.</p>
-	  <div class="flex items-center mb-8 pb-8 border-b">
+  <div class="relative flex flex-wrap items-center -mx-4">
+	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
+	  <img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Fancy Blue Dots">
+	  <img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/app/MacSupport.png" alt="Mac Support App">
+	</div>
+	<div class="relative w-full lg:w-1/2 px-4">
+	  <div class="relative lg:pl-10 max-w-lg">
+		<h2 class="mt-8 mb-6 lg:mb-10 lg:pr-8 text-4xl font-semibold font-heading">Need Mac support? Not anymore.</h2>
+		<p class="text-xl text-gray-500 mb-6 lg:mb-12">The Grove Support App is a small App, created to share quick tips with Mac novices to help them learn some Mac tricks.</p>
+		
+		<div class="flex items-center mb-8 pb-8 border-b">
 		<span class="mr-6 flex items-center justify-center w-12 h-12 bg-green-500 rounded-full">
 		  <svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path fill-rule="evenodd" clip-rule="evenodd" d="M5.67 0H14.34C17.73 0 20 2.38 20 5.92V14.091C20 17.62 17.73 20 14.34 20H5.67C2.28 20 0 17.62 0 14.091V5.92C0 2.38 2.28 0 5.67 0ZM9.43 12.99L14.18 8.24C14.52 7.9 14.52 7.35 14.18 7C13.84 6.66 13.28 6.66 12.94 7L8.81 11.13L7.06 9.38C6.72 9.04 6.16 9.04 5.82 9.38C5.48 9.72 5.48 10.27 5.82 10.62L8.2 12.99C8.37 13.16 8.59 13.24 8.81 13.24C9.04 13.24 9.26 13.16 9.43 12.99Z" fill="white"></path>
@@ -96,14 +104,15 @@ ogtype: page
 	  <div class="flex items-center">
 		  <a class="text-xl rounded-xl border border-black py-2 px-4 mt-14" href="https://shine.grovedesigns.co/download.php?id=6" target="blank" rel="noreferrer">Download macOS App</a>
 	  </div>
+	  
+	  </div>
 	</div>
   </div>
-  <img class="mt-24 w-full lg:hidden" src="{{ site.site_url }}/assets/images/app/laptop.png" alt="Grove Support for macOS and iOS">
 </div>
-<div class="hidden md:block md:absolute md:top-0 md:mt-32 md:-ml-96 md:left-0 h-112">
-  <img class="" src="{{ site.site_url }}/assets/images/app/laptop.png" alt="Grove Support for macOS and iOS">
-</div>
-</section>  
+</section>
+
+
+
       
 {% include /reviews/review7.html %}
 {% include /forms/contact.html %}
