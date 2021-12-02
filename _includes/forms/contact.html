@@ -2,8 +2,10 @@
   <div class="flex flex-wrap -mx-4">
 	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
 	  <div class="lg:max-w-md">
-		<h2 class="mb-12 text-4xl font-heading">We'd like to hear from you</h2>
-		<p class="text-xl">Are you getting subpar Mac Support from your PC MSP or IT Vendor? We can help! Fill out the form below and we will be in touch.</p>
+		<h2 class="mb-10 text-4xl font-heading">Drop us a line.</h2>
+		<p class="text-xl">We are a remote and fully distributed, nationwide Apple focused MSP. </p>
+		
+		<p class="text-xl mt-4">We focus on providing top notch Mac Support for small to mid-sized businesses. Contact us, and learn how we can help your company.</p>
 		<div id="map" class="rounded-lg overflow-hidden w-full h-96 mt-10 bg-blend-overlay relative shadow-sm">
 			<div class="bg-green-100 rounded-xl opacity-30 w-full h-full absolute z-10"></div>
 		</div>
@@ -15,12 +17,53 @@
 					done(tokenID);
 				}
 			});
-			var Washington_DC = new mapkit.CoordinateRegion(
-				new mapkit.Coordinate(38.925750, -77.024651),
-				new mapkit.CoordinateSpan(0.167647972, 0.454985255)
-			);
-			var map = new mapkit.Map("map");
-			map.region = Washington_DC;
+			
+    var MarkerAnnotation = mapkit.MarkerAnnotation
+    var myMarker = new mapkit.Coordinate(38.893683, -77.032765)
+    var myAnnotation = new MarkerAnnotation(myMarker, { color: "#1abd6f", title: ""});
+   
+
+	var myMarker2 = new mapkit.Coordinate(38.3878393,-75.1027929)
+    var myAnnotation2 = new MarkerAnnotation(myMarker2, { color: "#1abd6f", title: ""});
+    
+    var myMarker3 = new mapkit.Coordinate(32.8327132,-83.6792745 )
+    var myAnnotation3 = new MarkerAnnotation(myMarker3, { color: "#1abd6f", title: "Grove"});
+    
+    
+    var myMarker4 = new mapkit.Coordinate(40.0676117,-75.8479955 )
+    var myAnnotation4 = new MarkerAnnotation(myMarker4, { color: "#1abd6f", title: "Grove"});
+    
+    var myMarker5 = new mapkit.Coordinate(34.398582,-119.7849607 )
+    var myAnnotation5 = new MarkerAnnotation(myMarker5, { color: "#1abd6f", title: "Grove"});
+    
+    
+    var myMarker6 = new mapkit.Coordinate( 32.5712265,-87.80447 )
+    var myAnnotation6 = new MarkerAnnotation(myMarker6, { color: "#1abd6f", title: "Grove"});
+    
+    var myMarker7 = new mapkit.Coordinate( 27.459647, -81.356423 )
+    var myAnnotation7 = new MarkerAnnotation(myMarker7, { color: "#1abd6f", title: "Grove"});
+    
+    var myMarker8 = new mapkit.Coordinate( 43.7182197,-79.4482688 )
+    var myAnnotation8 = new MarkerAnnotation(myMarker8, { color: "#1abd6f", title: "Grove"});
+  
+    
+    var Washington_DC = new mapkit.CoordinateRegion(
+		new mapkit.Coordinate(38.925750, -77.024651),
+		new mapkit.CoordinateSpan(0.167647972, 0.454985255)
+	);
+	var map = new mapkit.Map("map");
+
+
+	map.region = Washington_DC;
+	map.showItems([myAnnotation, myAnnotation2, myAnnotation3, myAnnotation4, myAnnotation5, myAnnotation6, myAnnotation7, myAnnotation8]);  
+	
+	
+// 			var Washington_DC = new mapkit.CoordinateRegion(
+// 				new mapkit.Coordinate(38.925750, -77.024651),
+// 				new mapkit.CoordinateSpan(0.167647972, 0.454985255)
+// 			);
+// 			var map = new mapkit.Map("map");
+// 			map.region = Washington_DC;
 		</script>
 
 	  </div>
