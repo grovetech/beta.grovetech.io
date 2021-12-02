@@ -112,7 +112,7 @@ ogtype: page
 			<h3 class="text-2xl font-semibold font-heading mb-1">Tiara Thornton</h3>
 			<p class="mb-6 text-gray-500">Mac Expert</p>
 			<p class="text-gray-500">Tiara, a prior Apple trained Support Technician, is dedicated to providing great Mac Support and a outstanding customer experience.</p>
-		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Apple Deployment & Management</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Jumpcloud Core</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">1Password</span></p>
+		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Apple Deployment & Management</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Jumpcloud Core</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">1Password</span>  <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Mosyle Administrator</span></p>
 		  </div>
 		</div>
 	  </div>
