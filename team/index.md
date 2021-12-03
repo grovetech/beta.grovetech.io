@@ -29,8 +29,8 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex -mx-5 flex-wrap lg:flex-nowrap relative">
-		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
-			<span class="text-white text-2xl">MD</span>
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36  mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center rounded-xl overflow-hidden">
+			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/mikaela.jpg" alt="Mikaela Donelan - Client Success & Project Manager">
 			
 			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
@@ -58,8 +58,6 @@ ogtype: page
 			
 			
 		  </div>
-		  			
-					
 					
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Mikaela Donelan</h3>
@@ -112,7 +110,7 @@ ogtype: page
 			<h3 class="text-2xl font-semibold font-heading mb-1">Tiara Thornton</h3>
 			<p class="mb-6 text-gray-500">Mac Expert</p>
 			<p class="text-gray-500">Tiara, a prior Apple trained Support Technician, is dedicated to providing great Mac Support and a outstanding customer experience.</p>
-		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Apple Deployment & Management</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Jumpcloud Core</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">1Password</span>  <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Mosyle Administrator</span></p>
+		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Apple Deployment & Management</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Jumpcloud Core</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">1Password</span>  <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Mosyle Administrator</span></p>
 		  </div>
 		</div>
 	  </div>
@@ -195,7 +193,7 @@ ogtype: page
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Richard Durfee</h3>
 			<p class="mb-6 text-gray-500">Sr Mac Expert</p>
-			<p class="text-gray-500">Chad is our in house ZOOM certified implementation specialist as well as Apple certified technical coordinator and support professional.</p>
+			<p class="text-gray-500">Rich has been helping large to mid-sized enterprises from Nike, to national real estate. He is deeply focused on excellent customer support & service.</p>
 		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">JAMF Associate</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Mosyle Administrator</span></p>
 		  </div>
 		</div>
