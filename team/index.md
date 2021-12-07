@@ -381,9 +381,6 @@ ogtype: page
 			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/jon.jpg" alt="Jon Brown - CEO & Founder">
 			
 			
-			
-			
-			
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Jon Brown</h3>
