@@ -8,7 +8,7 @@ thumbnail: /assets/images/banner/mac_msp.png
 image: /assets/images/banner/mac_msp.png
 author: Jon Brown
 ogtype: page
-redirect: /
+redirect: https://calendly.com/grove-technologies
 ---
 {% include connect.html %}
 {% include /reviews/review2.html %}
