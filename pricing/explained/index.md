@@ -310,8 +310,8 @@ var myChart2 = new Chart(
 <div class="container px-4 mx-auto">
 
 <div class="max-w-2xl mx-auto mb-20 text-center">
-  <span class="text-xs font-semibold text-green-500 font-semibold">Comparative Pricing</span>
-  <h2 class="mt-8 mb-10 text-4xl font-heading">See how we stack up</h2>
+  <span class="text-xs font-semibold text-green-500">Comparative Pricing</span>
+  <h2 class="mt-8 mb-10 text-4xl font-heading font-semibold">See how we stack up</h2>
   <p class="mb-16 text-xl text-gray-500">Lets compare what you get from Grove vs. What you get from the typical MSP Unlimited Support pricing model. </p>
 </div>
 
@@ -639,8 +639,8 @@ var myChart2 = new Chart(
 <div class="container px-4 mx-auto">
 
 <div class="max-w-2xl mx-auto mb-20 text-center">
-  <span class="text-xs font-semibold text-green-500 font-semibold">Cost Calculator</span>
-  <h2 class="mt-8 mb-10 text-4xl font-heading">Price Check Us Against Our Competition</h2>
+  <span class="text-xs font-semibold text-green-500">Cost Calculator</span>
+  <h2 class="mt-8 mb-10 text-4xl font-heading font-semibold">Price Check Us Against Our Competition</h2>
   <p class="mb-16 text-xl text-gray-500">You can't get much more transparent than this. Lets check our pricing against our primary competitors in the area and see how they stack up from a cost perspective.  </p>
 </div>
 
