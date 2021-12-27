@@ -145,6 +145,9 @@ const config = {
   type: 'doughnut',
   data: data,
   options: {
+    tooltips:{
+      enabled:false
+    },
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
@@ -164,6 +167,9 @@ const config2 = {
   type: 'doughnut',
   data: data2,
   options: {
+    tooltips:{
+      enabled:false
+    },
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
