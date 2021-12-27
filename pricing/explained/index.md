@@ -25,8 +25,8 @@ ogtype: page
   <div class="flex flex-wrap -mx-4 items-center mb-12 lg:mb-20">
 	<div class="w-full lg:w-1/2 px-10 mb-10 lg:mb-0">
 	  <h2 class="mt-8 mb-10 text-4xl font-heading font-semibold">Unlimited IT Support, Is a Myth as old as time.</h2>
-	  <p class="text-lg py-3 text-gray-500">Lets face it, unlimited support is a myth. Not only is it impossible to pull off it logically makes no sense. Good support, takes time and anyone claiming to have unlimited time is dedicated to the idea of quantity over quality which means you will get what you pay for. Slapdash, quick and poor quality desktop support.</p>
-	  <p class="text-lg py-3 text-gray-500">The way we handle support is to split it up into multiple types. Helpdesk and Proactive. Proactive support is baked into all of our plans based on the tools used to inform and repair wayward systems. </p>
+	  <p class="text-lg py-3 text-gray-500">Lets face it, unlimited support is a myth. Not only is it impossible to pull off, it logically makes no sense. Good support, takes time and any company claiming to have unlimited time is dedicated to the idea of quantity over quality. You will get what you pay for. Slapdash, quick, and poor quality desktop support.</p>
+	  <p class="text-lg py-3 text-gray-500">The way we handle support is to split it up into two types. Helpdesk and Proactive. Proactive support is baked into all of our plans based on the tools used to inform and repair wayward systems. </p>
 
 	</div>
 	<div class="relative w-full lg:w-1/2 px-5 -mt-20">
@@ -46,7 +46,7 @@ ogtype: page
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
 	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-red-400 rounded-full text-white">3</span>
-	  <p class="text-xl text-gray-500"><strong>Project Management</strong><br> For most companies the cost and overhead of a project & client success manager unnecessary therefore you get poor followthrough. </p>
+	  <p class="text-xl text-gray-500"><strong>Project Management</strong><br> For most companies the cost and overhead of a project & client success manager are unnecessary therefore you get poor followthrough. </p>
 	</div>
 	
 	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
@@ -88,16 +88,68 @@ ogtype: page
 	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0 lg:-mt-48">
 	  <img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Fancy Blue Dots">
 	  
-<div class="h-128 lg:h-128 w-full rounded-xl container p-5 bg-green-100 mt-10">
-<canvas id="myChart"></canvas>
+<div class="h-128 lg:h-128 w-full rounded-xl container p-5 bg-gray-100 mt-10 relative">
+<canvas id="myChart"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Plan Breakdown by Cost</h2></div>
 </div>
 
 
-<div class="h-128 lg:h-128 w-full rounded-xl container p-5 bg-blue-100 mt-10">
-<canvas id="myChart2"></canvas>
+<div class="glider-contain h-128 lg:h-128 w-full container">
+  <div class="glider">
+    <div class="bg-blue-100 rounded-xl w-full h-128 p-5 mt-10 relative mr-2"><canvas id="myChart2"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Costs Ratio By Tool</h2></div></div>
+    <div class="bg-green-100 rounded-xl w-full h-128 p-5 mt-10 relative ml-2 mr-2"><canvas id="myChart3"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Time Breakout by Specialty</h2></div></div>
+    <div class="bg-red-100 rounded-xl w-full h-128 p-5 mt-10 relative ml-2"><canvas id="myChart4"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Support Breakout by Type</h2></div></div>
+  </div>
+<br>
+  <div role="tablist" class="dots pt-10"></div>
+
 </div>
 
 <script>
+
+const data4 = {
+  labels: [
+    'Client Tickets & Issues',
+    'Projects & Initiatives',
+    'Emergencies',
+    'Maintenance'
+  ],
+  datasets: [{
+    label: 'Cost Breakdown',
+    data: [50, 30, 10, 10],
+    backgroundColor: [
+      'rgb(252, 165, 165)',
+      'rgb(248, 113, 113)',
+      'rgb(239, 68, 68)',
+      'rgb(220, 38, 38)'
+    ],
+    hoverOffset: 4
+  }]
+};
+
+const data3 = {
+  labels: [
+    'Client Success',
+    'Project Management',
+    'Team Lead Escalation',
+    'Strategy & Business Development',
+    'SOP, Policies & Procedures',
+    'Onboarding & Offboarding'
+  ],
+  datasets: [{
+    label: 'Cost Breakdown',
+    data: [20, 20, 15, 15, 15, 15],
+    backgroundColor: [
+      'rgb(220, 252, 231)',
+      'rgb(187, 247, 208)',
+      'rgb(134, 239, 172)',
+      'rgb(74, 222, 128)',
+      'rgb(34, 197, 94)',
+      'rgb(22, 163, 74)'
+    ],
+    hoverOffset: 4
+  }]
+};
+
 
 const data2 = {
   labels: [
@@ -189,6 +241,54 @@ const config2 = {
     },
 };
 
+const config3 = {
+  type: 'doughnut',
+  data: data3,
+  options: {
+    tooltips:{
+      enabled:false
+    },
+    hover: {mode: null},
+    events: [],
+  	responsive: true,
+    maintainAspectRatio: false,
+        plugins: {
+            legend: {
+                display: true,
+                align: 'start',
+                labels: {
+                    color: 'rgb(0, 0, 0)',
+                    padding: 20,
+                }
+            }
+        }
+    },
+};
+
+const config4 = {
+  type: 'doughnut',
+  data: data4,
+  options: {
+    tooltips:{
+      enabled:false
+    },
+    hover: {mode: null},
+    events: [],
+  	responsive: true,
+    maintainAspectRatio: false,
+        plugins: {
+            legend: {
+                display: true,
+                align: 'start',
+                labels: {
+                    color: 'rgb(0, 0, 0)',
+                    padding: 20,
+                }
+            }
+        }
+    },
+};
+
 
 var myChart = new Chart(
     document.getElementById('myChart'),
@@ -200,12 +300,33 @@ var myChart2 = new Chart(
     config2
   );
 
+var myChart3 = new Chart(
+    document.getElementById('myChart3'),
+    config3
+  );
+  
+var myChart4 = new Chart(
+    document.getElementById('myChart4'),
+    config4
+  );
+  
+  
+new Glider(document.querySelector('.glider'), {
+  slidesToShow: 1,
+  dots: '.dots',
+  draggable: true,
+  arrows: {
+    prev: '.glider-prev',
+    next: '.glider-next'
+  }
+});
+
 </script>
 
 
 
 	</div>
-	<div class="relative w-full lg:w-1/2 px-4">
+	<div class="relative w-full lg:w-1/2 px-4 mt-10 lg:mt-0">
 	  <div class="relative lg:pl-10 max-w-lg">
 		<h2 class="mt-8 mb-6 lg:mb-10 lg:pr-8 text-4xl font-semibold font-heading">Plan Costs Breakdown.</h2>
 		<p class="text-xl text-gray-500 mb-6 lg:mb-12">Our plans are designed for the best overall experience at the best overall value. An on demand talented IT team at a fraction of the cost of full time staff of 4 highly trained professionals.</p>
@@ -284,7 +405,7 @@ var myChart2 = new Chart(
 		</div>
 		<div class="w-1/2 p-4">
 		  <div class="py-12 bg-gray-50 rounded-xl">
-			<img class="h-8 mx-auto" src="{{ site.site_url }}/assets/images/brands/malwarebtes.png" alt="Malwarebytes Logo">
+			<img class="h-7 mx-auto" src="{{ site.site_url }}/assets/images/brands/malwarebtes.png" alt="Malwarebytes Logo">
 		  </div>
 		</div>
 		<div class="w-1/2 p-4">
@@ -329,16 +450,16 @@ var myChart2 = new Chart(
     <div class="flex flex-col">
         <div class="w-full">
             <div class="border-b border-gray-200 shadow">
-                <table class="border-collapse w-full">
+                <table class="border-collapse w-full rounded-xl">
                     <thead class="bg-gray-50">
                         <tr>
-                            <th class="px-6 py-2 font-bold uppercase bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">
+                            <th class="px-6 py-2 font-bold uppercase bg-green-100 text-gray-600 border border-gray-300 hidden lg:table-cell">
                                 Service Offering
                             </th>
-                            <th class="px-6 py-2 font-bold uppercase bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">
+                            <th class="px-6 py-2 font-bold uppercase bg-green-100 text-gray-600 border border-gray-300 hidden lg:table-cell">
                                 Grove Technologies
                             </th>
-                            <th class="px-6 py-2 font-bold uppercase bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">
+                            <th class="px-6 py-2 font-bold uppercase bg-green-100 text-gray-600 border border-gray-300 hidden lg:table-cell">
                                 Typical Managed Service Provider
                             </th>
                         </tr>
