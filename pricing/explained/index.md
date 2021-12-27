@@ -148,6 +148,8 @@ const config = {
     tooltips:{
       enabled:false
     },
+    hover: {mode: null},
+    events: [],
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
@@ -170,6 +172,8 @@ const config2 = {
     tooltips:{
       enabled:false
     },
+    hover: {mode: null},
+    events: [],
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
