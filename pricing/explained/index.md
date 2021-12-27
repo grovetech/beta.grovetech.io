@@ -350,7 +350,7 @@ new Glider(document.querySelector('.glider'), {
 		  </svg>
 		</span>
 		<div class="max-w-sm">
-		  <p class="text-xl">20% costs of project management, strategy, planning, etc. A dedicated PM, CS & Team Lead Team.</p>
+		  <p class="text-xl">20% costs of project management, strategy, planning, etc. A dedicated PM, CS & Team Lead.</p>
 		</div>
 	  </div>
 	  
@@ -362,7 +362,7 @@ new Glider(document.querySelector('.glider'), {
 		  </svg>
 		</span>
 		<div class="max-w-sm">
-		  <p class="text-xl">60% cost of servicing your core hourly helpdesk allotment. A dedicated IT Team.</p>
+		  <p class="text-xl">60% cost of servicing your core hourly helpdesk allotment. Your own personal dedicated IT Team.</p>
 		</div>
 	  </div>
 
@@ -388,7 +388,7 @@ new Glider(document.querySelector('.glider'), {
 	  <div class="max-w-md">
 		<span class="text-xs text-green-500 font-semibold">Our Tools</span>
 		<h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">We include the best tools for proactive maintenance.</h2>
-		<p class="text-xl text-gray-500">Our secret sauce is the time add value you get with all plans which include baked in proactive maintenance and management of your systems.</p>
+		<p class="text-xl text-gray-500">Most MSP's give you Antivirus. We take it to the next level by including 6 proactive maintenance systems for all your endpoints.</p>
 	  </div>
 	</div>
 	<div class="w-full lg:w-1/2 px-4">
