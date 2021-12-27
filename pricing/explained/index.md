@@ -329,7 +329,7 @@ new Glider(document.querySelector('.glider'), {
 	<div class="relative w-full lg:w-1/2 px-4 mt-10 lg:mt-0">
 	  <div class="relative lg:pl-10 max-w-lg">
 		<h2 class="mt-8 mb-6 lg:mb-10 lg:pr-8 text-4xl font-semibold font-heading">Plan Costs Breakdown.</h2>
-		<p class="text-xl text-gray-500 mb-6 lg:mb-12">Our plans are designed for the best overall experience at the best overall value. An on demand talented IT team at a fraction of the cost of full time staff of 4 highly trained professionals.</p>
+		<p class="text-xl text-gray-500 mb-6 lg:mb-12">Our plans are designed for the best overall experience at the best overall value. An on demand talented IT team at a fraction of the cost of paying for 4 full time highly trained professionals.</p>
 		
 		<div class="flex items-center mb-8 pb-8 border-b">
 		<span class="mr-6 flex items-center justify-center w-12 h-12 bg-blue-500 rounded-full">
