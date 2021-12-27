@@ -193,7 +193,7 @@ const data = {
   ],
   datasets: [{
     label: 'Cost Breakdown',
-    data: [26, 20, 53],
+    data: [875, 660, 1765],
     backgroundColor: [
       'rgb(14, 165, 233)',
       'rgb(34, 197, 94)',
@@ -217,7 +217,7 @@ const config = {
         plugins: {
         	datalabels: {
 				formatter: function(value, context) {
-				  return Math.round(value) + '%';
+				  return ' $' + Math.round(value);
 				}
 			  },
             legend: {
@@ -368,7 +368,7 @@ new Glider(document.querySelector('.glider'), {
 		  </svg>
 		</span>
 		<div class="max-w-sm">
-		  <p class="text-xl">20% Costs of core software agents for proactive support. Automox, Malwarebytes, Watchman, Munki & More. </p>
+		  <p class="text-xl">26% Costs of core software agents for proactive support. Automox, Malwarebytes, Watchman, Munki & More. </p>
 		</div>
 	  </div>
 	  
@@ -392,7 +392,7 @@ new Glider(document.querySelector('.glider'), {
 		  </svg>
 		</span>
 		<div class="max-w-sm">
-		  <p class="text-xl">60% cost of servicing your core hourly helpdesk allotment. Your own personal dedicated IT Team.</p>
+		  <p class="text-xl">53% cost of servicing your core hourly helpdesk allotment. Your own personal dedicated IT Team.</p>
 		</div>
 	  </div>
 
