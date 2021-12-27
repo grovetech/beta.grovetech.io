@@ -106,6 +106,16 @@ ogtype: page
 
 <script>
 
+Chart.register(ChartDataLabels);
+
+Chart.defaults.set('plugins.datalabels', {
+  color: '#fff'
+});
+
+Chart.defaults.set('plugins.datalabels.labels.title.font', {
+  weight: 'bold'
+});
+
 const data4 = {
   labels: [
     'Client Tickets & Issues',
@@ -139,7 +149,7 @@ const data3 = {
     label: 'Cost Breakdown',
     data: [20, 20, 15, 15, 15, 15],
     backgroundColor: [
-      'rgb(220, 252, 231)',
+      'rgb(21, 128, 61)',
       'rgb(187, 247, 208)',
       'rgb(134, 239, 172)',
       'rgb(74, 222, 128)',
@@ -162,7 +172,7 @@ const data2 = {
   ],
   datasets: [{
     label: 'Cost Breakdown',
-    data: [5, 2, 9, 9, 5, 1],
+    data: [5, 2, 9, 2, 5, 2],
     backgroundColor: [
       'rgb(186, 230, 253)',
       'rgb(125, 211, 252)',
@@ -183,7 +193,7 @@ const data = {
   ],
   datasets: [{
     label: 'Cost Breakdown',
-    data: [20, 20, 60],
+    data: [26, 20, 53],
     backgroundColor: [
       'rgb(14, 165, 233)',
       'rgb(34, 197, 94)',
@@ -205,6 +215,11 @@ const config = {
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
+        	datalabels: {
+				formatter: function(value, context) {
+				  return Math.round(value) + '%';
+				}
+			  },
             legend: {
                 display: true,
                 align: 'start',
@@ -229,6 +244,11 @@ const config2 = {
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
+        	datalabels: {
+				formatter: function(value, context) {
+				  return ' $' + Math.round(value);
+				}
+			  },
             legend: {
                 display: true,
                 align: 'start',
@@ -253,6 +273,11 @@ const config3 = {
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
+        	datalabels: {
+				formatter: function(value, context) {
+				  return Math.round(value) + '%';
+				}
+			  },
             legend: {
                 display: true,
                 align: 'start',
@@ -277,6 +302,11 @@ const config4 = {
   	responsive: true,
     maintainAspectRatio: false,
         plugins: {
+        	datalabels: {
+				formatter: function(value, context) {
+				  return Math.round(value) + '%';
+				}
+			  },
             legend: {
                 display: true,
                 align: 'start',
@@ -372,7 +402,7 @@ new Glider(document.querySelector('.glider'), {
 	  
 	<div class="w-full py-6 px-4 mt-20">
 	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> Our plans are prix fixe so modifications of plans are not allowed due to the specific cost ratios baked within.</p>
-	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> For $3,300 starter plan price breakdown are as follows $660/mo (35 seats - Core Apps), $660 CS, PM & Team Lead Strategy, $1980/mo for 20/hrs of support. $99/hr discounted down from $200/hr rate.</p>
+	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> For $3,300 starter plan price breakdown are as follows $875/mo (35 seats - Core Apps), $660 CS, PM & Team Lead Strategy, $1765/mo for 20/hrs of support. $88/hr discounted down from $200/hr rate.</p>
 	</div>
 	
 	
@@ -427,7 +457,7 @@ new Glider(document.querySelector('.glider'), {
 	  
 	<div class="w-full py-6 px-4 mt-20">
 	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> Our plans are prix fixe so modifications of plans are not allowed due to the specific cost ratios baked within.</p>
-	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> For $3,300 starter plan price breakdown are as follows $660/mo (35 seats - Core Apps). Additional cost per seat is $20/mo for each additional seat to account for accrued per seat monthly costs.</p>
+	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> For $3,300 starter plan price breakdown are as follows $875/mo (35 seats - Core Apps). Additional cost per seat is $25/mo for each additional seat to account for accrued per seat monthly costs.</p>
 	</div>
 	
 	
@@ -791,7 +821,7 @@ function updateTextInput(val) {
 		  } else if (groveID > 35) {
 		  	var groveDelta = val - 35;
 		  	
-		  	document.getElementById('groveSeat').innerHTML=(groveDelta*20)+3300; 
+		  	document.getElementById('groveSeat').innerHTML=(groveDelta*25)+3300; 
 		  }
           document.getElementById('seatsInput').value=val + ' Seats'; 
           
@@ -833,7 +863,7 @@ function updateTextInput(val) {
 	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="groveSeat">3300</span>/mo</h5>
 	  <p class="text-xl text-gray-500">Grove Pricing</p>
-	  <p class="text-xl text-gray-500">$3300 + $20/seat</p>
+	  <p class="text-xl text-gray-500">$3300 + $25/seat</p>
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="alectronaSeat">3465</span>/mo<sup>*</sup></h5>
