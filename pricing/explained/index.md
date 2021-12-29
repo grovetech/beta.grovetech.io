@@ -172,7 +172,7 @@ const data2 = {
   ],
   datasets: [{
     label: 'Cost Breakdown',
-    data: [5, 2, 9, 2, 5, 2],
+    data: [19, 7, 34, 7, 19, 7],
     backgroundColor: [
       'rgb(186, 230, 253)',
       'rgb(125, 211, 252)',
