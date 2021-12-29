@@ -25,7 +25,7 @@ ogtype: page
   <div class="flex flex-wrap -mx-4 items-center mb-12 lg:mb-20">
 	<div class="w-full lg:w-1/2 px-10 mb-10 lg:mb-0">
 	  <h2 class="mt-8 mb-10 text-4xl font-heading font-semibold">Unlimited IT Support, Is a Myth as old as time.</h2>
-	  <p class="text-lg py-3 text-gray-500">Lets face it, unlimited support is a myth. Not only is it impossible to pull off, it logically makes no sense. Good support, takes time and any company claiming to have unlimited time is dedicated to the idea of quantity over quality. You will get what you pay for. Slapdash, quick, and poor quality desktop support.</p>
+	  <p class="text-lg py-3 text-gray-500">Lets face it, unlimited support is a myth. Not only is it impossible to pull off, it logically makes no sense. Good support, takes time and any company claiming to have unlimited time is dedicated to the idea of quantity over quality. This type of service sets you up for rushed desktop support.</p>
 	  <p class="text-lg py-3 text-gray-500">The way we handle support is to split it up into two types. Helpdesk and Proactive. Proactive support is baked into all of our plans based on the tools used to inform and repair wayward systems. </p>
 
 	</div>
@@ -37,7 +37,7 @@ ogtype: page
   <div class="flex flex-wrap items-center -mx-4 lg:mt-20 mt-0">
 	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
 	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-blue-400 rounded-full text-white">1</span>
-	  <p class="text-xl text-gray-500"><strong>Time-Based Approach</strong><br> This is the correct approach. Having hours baked into our plans allows us to focus the appropriate time needed to fix your issues. </p>
+	  <p class="text-xl text-gray-500"><strong>Time-Based Approach</strong><br> This is the high-quality approach. Having hours baked into our plans allows us to focus the appropriate time needed to fix your issues. </p>
 	  
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
@@ -46,12 +46,12 @@ ogtype: page
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
 	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-red-400 rounded-full text-white">3</span>
-	  <p class="text-xl text-gray-500"><strong>Project Management</strong><br> For most companies the cost and overhead of a project & client success manager are unnecessary therefore you get poor followthrough. </p>
+	  <p class="text-xl text-gray-500"><strong>Project Management</strong><br>The industry norm is to not have a Project and Client Success manager. With a PM and CSM, you have consistent follow through on initiatives. </p>
 	</div>
 	
 	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
 	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-yellow-400 rounded-full text-white">4</span>
-	  <p class="text-xl text-gray-500"><strong>Dedicated Team</strong><br> In an unlimited support environment you deal with the lowest paid resource. At Grove we allocate a diverse and experienced team just for you. </p>
+	  <p class="text-xl text-gray-500"><strong>Dedicated Team</strong><br> In an unlimited support environment you and your staff will reach different IT support members each time you call in, from various locations including abroad.  </p>
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
 	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-orange-400 rounded-full text-white">5</span>
@@ -189,7 +189,7 @@ const data = {
   labels: [
     'Core Software & Overhead Costs',
     'Client Success, Project Management & Team Lead Costs',
-    'Core Desktop Support Costs'
+    'Core Desktop Support Costs (Includes Support Allotment)'
   ],
   datasets: [{
     label: 'Cost Breakdown',
@@ -246,7 +246,7 @@ const config2 = {
         plugins: {
         	datalabels: {
 				formatter: function(value, context) {
-				  return ' $' + Math.round(value);
+				  return Math.round(value) + '%';
 				}
 			  },
             legend: {
@@ -821,7 +821,7 @@ function updateTextInput(val) {
 		  } else if (groveID > 35) {
 		  	var groveDelta = val - 35;
 		  	
-		  	document.getElementById('groveSeat').innerHTML=(groveDelta*25)+3300; 
+		  	document.getElementById('groveSeat').innerHTML=(groveDelta*40)+3300; 
 		  }
           document.getElementById('seatsInput').value=val + ' Seats'; 
           
@@ -836,7 +836,7 @@ function updateTextInput(val) {
 
 
 <div class="relative pt-1">
-  <label for="customRange3" class="form-label mb-20">Seat Count Calculator: Grove Standard Managed Plan Comparison</label><br><br><br>
+  <label for="customRange3" class="form-label mb-20">Price Calculator: Grove Standard Plan Comparison (Grove includes 35 seats in all the base plans)</label><br><br><br>
   <input
     type="range"
     class="
@@ -863,7 +863,7 @@ function updateTextInput(val) {
 	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="groveSeat">3300</span>/mo</h5>
 	  <p class="text-xl text-gray-500">Grove Pricing</p>
-	  <p class="text-xl text-gray-500">$3300 + $25/seat</p>
+	  <p class="text-xl text-gray-500">$3300 + $40/seat</p>
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="alectronaSeat">3465</span>/mo<sup>*</sup></h5>
