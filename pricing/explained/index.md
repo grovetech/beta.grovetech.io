@@ -193,7 +193,7 @@ const data = {
   ],
   datasets: [{
     label: 'Cost Breakdown',
-    data: [875, 660, 1765],
+    data: [26, 20, 53],
     backgroundColor: [
       'rgb(14, 165, 233)',
       'rgb(34, 197, 94)',
@@ -217,7 +217,7 @@ const config = {
         plugins: {
         	datalabels: {
 				formatter: function(value, context) {
-				  return ' $' + Math.round(value);
+				  return Math.round(value) + '%';
 				}
 			  },
             legend: {
