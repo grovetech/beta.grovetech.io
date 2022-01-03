@@ -58,7 +58,7 @@ function calculateSumsDollar() {
 	var slider1 = document.getElementById('customRange5').value; 
 	var total = document.getElementById('totalTime').value;
 	
-	document.getElementById('mdmAnnualFee').value= parseFloat((7.17*slider1)*12).toFixed(2); 
+	document.getElementById('mdmAnnualFee').value= parseFloat((7.17*slider1)*12); 
 	document.getElementById('totalTime2').value= parseFloat(total*12); 
 	
 	
@@ -131,8 +131,8 @@ function updateTextInput2(val) {
 <section class="py-10 border-b"><div class="container px-4 mx-auto">
   <div class="flex flex-wrap -mx-4 items-center mb-12 lg:mb-20">
 	<div class="w-full lg:w-1/2 px-10 mb-10 lg:mb-0">
-	  <h2 class="mt-8 mb-10 text-4xl font-heading font-semibold">Lets Get Started</h2>
-	  <p class="text-xl text-gray-500">Estimation of Hours Spent on IT-Related Tasks</p>
+	  <h2 class="mt-8 mb-5 text-4xl font-heading font-semibold">Lets Get Started</h2>
+	  <p class="text-xl text-gray-500 mb-10">Estimation of Hours Spent on IT-Related Tasks</p>
 	  <div class="relative pt-1 mb-10">
 	  <label for="customRange5" class="form-label mb-20">How many employees do you have?</label><br>
 	  <input
@@ -179,6 +179,9 @@ function updateTextInput2(val) {
 	  />
 	  <input type="text" id="saasInput" value="5 SaaS Applications">
 	</div>
+	
+	  <a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-10" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+
 
 	</div>
 	<div class="relative w-full lg:w-1/2 px-5 mt-20">
@@ -188,85 +191,8 @@ function updateTextInput2(val) {
   </div>
   
   
-  
-    <div class="flex flex-col md:flex-row lg:space-x-4 items-center -mx-4 -mb-8 mt-20 p-4 lg:p-0 md:p-0">
-	<div class="w-full md:w-1/2 lg:w-1/5 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading"><input type="text" id="hrsMO" value="15" class="bg-gray-50 text-center w-24"></h5>
-	  <p class="text-sm text-gray-500">Hours/Mo spent on IT support requests.</p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/5 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="saasAppTime" value="1.25" class="bg-gray-50 text-center w-24"></h5>
-	  <p class="text-sm text-gray-500">Hours/Mo spent on managing updates.</p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/5 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="provSeat" value="7.5" class="bg-gray-50 text-center w-24"></h5>
-	  <p class="text-sm text-gray-500">Hours/Mo spent provisioning devices.</p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/5 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="offOn" value="7.5" class="bg-gray-50 text-center w-24"></h5>
-	  <p class="text-sm text-gray-500">Hours/Mo spent on on/offboarding tasks.</p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/5 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="secEvents" value="15" class="bg-gray-50 text-center w-24"></h5>
-	  <p class="text-sm text-gray-500">Hours/Mo spent on managing security.</p>
-	</div>
-	</div>
+    
 	
-	<div class="flex flex-col md:flex-row lg:space-x-4 items-center -mx-4 -mb-8 mt-8 p-4 lg:p-0 md:p-0">
-	
-	<div class="w-full md:w-1/2 lg:w-full px-2 mb-8 text-center py-12 bg-green-100 rounded-xl">
-	  <h5 class="mb-6 text-3xl font-semibold font-heading">= <input type="text" id="totalTime" value="46.25" class="bg-green-100 text-center"></h5>
-	  <p class="text-md text-gray-500">Total Hours/Mo<br> spent on IT-related tasks</p>
-	</div>
-  </div>
-  
-	
-</div>
-
-
-</section>
-
-
-
-
-
-<section class="py-10 border-b">
-
-<div class="container px-4 mx-auto">
-<div class="max-w-2xl mx-auto mb-20 text-center">
-  <h2 class="mt-8 mb-10 text-4xl font-heading font-semibold">Estimation of Cost Related to IT-Related Tasks</h2>
-</div>
-
-  
-  
-  
-  
-    <div class="flex flex-col md:flex-row lg:space-x-4 items-center -mx-4 -mb-8 mt-20 p-4 lg:p-0 md:p-0">
-	<div class="w-full md:w-1/2 lg:w-1/4 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">(<input type="text" id="totalTime2" value="555" class="bg-gray-50 text-center w-24"> * </h5>
-	  <p class="text-sm text-gray-500">Total Hours/Yr spent on IT support requests.</p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<input type="text" id="fthourlyRate" value="96.15" class="bg-gray-50 text-center w-24">)</h5>
-	  <p class="text-sm text-gray-500">Hourly cost of IT support. Based on $200K/yr Salaried Employee.</p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">+ $<input type="text" id="mdmSetup" value="6600" class="bg-gray-50 text-center w-24"></h5>
-	  <p class="text-sm text-gray-500">Typical Mobile Device Management setup project cost.</p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-2 mb-8 text-center py-12 bg-gray-50 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">+ $<input type="text" id="mdmAnnualFee" value="2581.20" class="bg-gray-50 text-center w-24"></h5>
-	  <p class="text-sm text-gray-500">Mobile Device Management annual fee. Typical cost $7.17/seat.</p>
-	</div>
-	</div>
-	
-	<div class="flex flex-col md:flex-row lg:space-x-4 items-center -mx-4 -mb-8 mt-8 p-4 lg:p-0 md:p-0">
-	
-	<div class="w-full md:w-1/2 lg:w-full px-2 mb-8 text-center py-12 bg-green-100 rounded-xl">
-	  <h5 class="mb-6 text-3xl font-semibold font-heading">= $<input type="text" id="totalCosts" value="62544.45" class="bg-green-100 text-center"></h5>
-	  <p class="text-md text-gray-500">Total cost of current IT environment</p>
-	</div>
-  </div>
   
 	
 </div>
@@ -280,21 +206,142 @@ function updateTextInput2(val) {
   <div class="flex flex-wrap items-center -mx-4">
 	<div class="w-full lg:w-1/2 px-4 mb-12 md:mb-16 lg:mb-0 lg:-mt-48">
 	  <div class="max-w-md">
+		<h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">How much is IT truly costing your business?</h2>
+		<p class="text-xl text-gray-500">Whether you are on the fence about outsourcing IT or if you have your own internal IT Team. Use our calculator to help you see the benefits of a Grove Partnership. </p>
+		
+		<a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-10" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+		
+	  </div>
+	</div>
+	<div class="w-full lg:w-1/2 px-4">
+	  <div class="flex flex-wrap -m-4">
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading"><input type="text" id="hrsMO" value="15" class="bg-gray-50 text-center w-24"> hours</h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Hours/Mo spent on IT support (helpdesk) requests & projects.</p>
+		  </div>
+		</div>
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="saasAppTime" value="1.25" class="bg-gray-50 text-center w-24"> hours</h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Hours/Mo spent on managing application updates.</p>
+		  </div>
+		</div>
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="provSeat" value="7.5" class="bg-gray-50 text-center w-24"> hours</h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Hours/Mo spent provisioning & de-provisioning devices.</p>
+		  </div>
+		</div>
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="offOn" value="7.5" class="bg-gray-50 text-center w-24"> hours</h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Hours/Mo spent on onboarding & offboarding tasks.</p>
+		  </div>
+		</div>
+		<div class="w-full p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">+ <input type="text" id="secEvents" value="15" class="bg-gray-50 text-center w-24"> hours</h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Hours/Mo spent on managing security related events & awareness training.</p>
+		  </div>
+		</div>
+		<div class="w-full p-4">
+		  <div class="py-12 bg-red-100 rounded-xl text-center">
+			<h5 class="mb-6 text-3xl font-semibold font-heading">= <input type="text" id="totalTime" value="46.25" class="bg-red-100 text-center w-24"> hours/mo</h5>
+	  		<p class="text-md text-gray-500">Total Hours/Mo<br> spent on IT-related tasks</p>
+		  </div>
+		</div>
+		
+	  </div>
+	
+	
+	</div>
+  </div>
+</div>
+</section>
+
+
+
+<section class="py-20 border-b border-t">
+<div class="container px-4 mx-auto">
+  <div class="flex flex-wrap items-center -mx-4">
+	<div class="w-full lg:w-1/2 px-4 mb-12 md:mb-16 lg:mb-0 lg:-mt-48">
+	  <div class="max-w-md">
+		<h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">Estimation of Cost Related to IT-Related Tasks</h2>
+		<p class="text-xl text-gray-500">The costs of hiring your own dedicated IT professional is often underestimated. Let our dedicated team help you!</p>
+		
+		
+		<a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-10" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+		
+	  </div>
+	</div>
+	<div class="w-full lg:w-1/2 px-4">
+	  <div class="flex flex-wrap -m-4">
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">(<input type="text" id="totalTime2" value="555" class="bg-gray-50 text-center w-20"> hours/yr * </h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Total Hours/Yr spent on IT support requests.</p>
+		  </div>
+		</div>
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">$<input type="text" id="fthourlyRate" value="96.15" class="bg-gray-50 text-center w-20"> per/hr)</h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Hourly cost of IT support. Based on $200K/yr Salaried Employee.</p>
+		  </div>
+		</div>
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">+ $<input type="text" id="mdmSetup" value="6600" class="bg-gray-50 text-center w-24"></h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Typical Mobile Device Management setup project cost.</p>
+		  </div>
+		</div>
+		<div class="w-full lg:w-1/2 p-4">
+		  <div class="py-12 bg-gray-50 rounded-xl text-center">
+			<h5 class="mb-6 text-2xl font-semibold font-heading">+ $<input type="text" id="mdmAnnualFee" value="2581.20" class="bg-gray-50 text-center w-24"></h5>
+	  		<p class="text-sm text-gray-500 pr-5 pl-5 lg:pr-2 lg:pl-2">Mobile Device Management annual fee. Typical cost $7.17/seat.</p>
+		  </div>
+		</div>
+		<div class="w-full p-4">
+		  <div class="py-12 bg-red-100 rounded-xl text-center">
+			<h5 class="mb-6 text-3xl font-semibold font-heading">$<input type="text" id="totalCosts" value="62544.45" class="bg-red-100 text-center w-56"> Annually</h5>
+	  		<p class="text-md text-gray-500">Total cost of current IT environment</p>
+		  </div>
+		</div>
+		
+	  </div>
+	
+	
+	</div>
+  </div>
+</div>
+</section>
+
+
+
+<section class="py-30 lg:py-40 border-b border-t">
+<div class="container px-4 mx-auto">
+  <div class="flex flex-wrap items-center -mx-4">
+	<div class="w-full lg:w-1/2 px-4 mb-12 md:mb-16 lg:mb-0 lg:-mt-48">
+	  <div class="max-w-md">
 		<h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">Compared with Grove Starter Plan</h2>
-		<p class="text-xl text-gray-500">Most MSP's give you Antivirus. We take it to the next level by including 6 proactive maintenance systems for all your endpoints.</p>
+		<p class="text-xl text-gray-500">Our plans allow you to grow your business without paying too much for IT costs. See how we can save you money!</p>
+		
+		
+		<a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-10" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+		
 	  </div>
 	</div>
 	<div class="w-full lg:w-1/2 px-4">
 	  <div class="flex flex-wrap -m-4">
 		<div class="w-full p-4">
-		  <div class="py-12 bg-gray-50 rounded-xl text-center">
-			<h5 class="mb-6 text-3xl font-semibold font-heading">$<input type="text" id="totalGrove" value="39600" class="bg-gray-50 text-center w-56"></h5>
+		  <div class="py-12 bg-yellow-50 rounded-xl text-center">
+			<h5 class="mb-6 text-3xl font-semibold font-heading">$<input type="text" id="totalGrove" value="39600" class="bg-yellow-50 text-center w-56"> Annually</h5>
 	  		<p class="text-md text-gray-500">Annual cost of Grove with Starter Plan</p>
 		  </div>
 		</div>
 		<div class="w-full p-4">
 		  <div class="py-12 bg-green-100 rounded-xl text-center">
-			<h5 class="mb-6 text-3xl font-semibold font-heading">$<input type="text" id="priceDiff" value="22944.45" class="bg-green-100 text-center w-56"></h5>
+			<h5 class="mb-6 text-3xl font-semibold font-heading">$<input type="text" id="priceDiff" value="22944.45" class="bg-green-100 text-center w-56"> Saved</h5>
 	 	    <p class="text-md text-gray-500">Total IT savings working with Grove with Starter Plan</p>
 		  </div>
 		</div>

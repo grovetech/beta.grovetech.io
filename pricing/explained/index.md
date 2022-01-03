@@ -29,7 +29,7 @@ ogtype: page
 	  <p class="text-lg py-3 text-gray-500">The way we handle support is to split it up into two types. Helpdesk and Proactive. Proactive support is baked into all of our plans based on the tools used to inform and repair wayward systems. </p>
 
 	</div>
-	<div class="relative w-full lg:w-1/2 px-5 -mt-20">
+	<div class="relative w-full lg:w-1/2 px-5 lg:-mt-20">
 	  <img class="relative object-cover rounded-lg" src="{{ site.site_url }}/assets/images/home/luis-villasmil-4V8uMZx8FYA-unsplash.jpg" alt="Grove Support Pricing"><div class="absolute inset-0 flex items-center justify-center">
 	  </div>
 	</div>
@@ -95,9 +95,9 @@ ogtype: page
 
 <div class="glider-contain h-128 lg:h-128 w-full container">
   <div class="glider">
-    <div class="bg-blue-100 rounded-xl w-full h-128 p-5 mt-10 relative mr-2"><canvas id="myChart2"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Costs Ratio By Tool</h2></div></div>
+    <div class="bg-blue-100 rounded-xl w-full h-128 p-5 mt-10 relative mr-2 ml-2"><canvas id="myChart2"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Costs Ratio By Tool</h2></div></div>
     <div class="bg-green-100 rounded-xl w-full h-128 p-5 mt-10 relative ml-2 mr-2"><canvas id="myChart3"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Time Breakout by Specialty</h2></div></div>
-    <div class="bg-red-100 rounded-xl w-full h-128 p-5 mt-10 relative ml-2"><canvas id="myChart4"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Support Breakout by Type</h2></div></div>
+    <div class="bg-red-100 rounded-xl w-full h-128 p-5 mt-10 relative ml-2 mr-2"><canvas id="myChart4"></canvas><div class="absolute bottom-5 right-5 z-50"><h2 class="text-xs font-semibold">Support Breakout by Type</h2></div></div>
   </div>
 <br>
   <div role="tablist" class="dots pt-10"></div>
@@ -362,7 +362,7 @@ new Glider(document.querySelector('.glider'), {
 		<p class="text-xl text-gray-500 mb-6 lg:mb-12">Our plans are designed for the best overall experience at the best overall value. An on demand talented IT team at a fraction of the cost of paying for 4 full time highly trained professionals.</p>
 		
 		<div class="flex items-center mb-8 pb-8 border-b">
-		<span class="mr-6 flex items-center justify-center w-12 h-12 bg-blue-500 rounded-full">
+		<span class="mr-6 flex items-center justify-center w-12 h-12 bg-blue-500 rounded-full ">
 		  <svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path fill-rule="evenodd" clip-rule="evenodd" d="M5.67 0H14.34C17.73 0 20 2.38 20 5.92V14.091C20 17.62 17.73 20 14.34 20H5.67C2.28 20 0 17.62 0 14.091V5.92C0 2.38 2.28 0 5.67 0ZM9.43 12.99L14.18 8.24C14.52 7.9 14.52 7.35 14.18 7C13.84 6.66 13.28 6.66 12.94 7L8.81 11.13L7.06 9.38C6.72 9.04 6.16 9.04 5.82 9.38C5.48 9.72 5.48 10.27 5.82 10.62L8.2 12.99C8.37 13.16 8.59 13.24 8.81 13.24C9.04 13.24 9.26 13.16 9.43 12.99Z" fill="white"></path>
 		  </svg>
@@ -393,6 +393,8 @@ new Glider(document.querySelector('.glider'), {
 		</span>
 		<div class="max-w-sm">
 		  <p class="text-xl">53% cost of servicing your core hourly helpdesk allotment. Your own personal dedicated IT Team.</p>
+		  
+		  <a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-20" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
 		</div>
 	  </div>
 
@@ -419,36 +421,38 @@ new Glider(document.querySelector('.glider'), {
 		<span class="text-xs text-green-500 font-semibold">Our Tools</span>
 		<h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">We include the best tools for proactive maintenance.</h2>
 		<p class="text-xl text-gray-500">Most MSP's give you Antivirus. We take it to the next level by including 6 proactive maintenance systems for all your endpoints.</p>
+		
+		<a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-10" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
 	  </div>
 	</div>
 	<div class="w-full lg:w-1/2 px-4">
 	  <div class="flex flex-wrap -m-4">
-		<div class="w-1/2 p-4">
+		<div class="w-full lg:w-1/2 p-4">
 		  <div class="py-12 bg-gray-50 rounded-xl">
 			<img class="h-8 mx-auto" src="{{ site.site_url }}/assets/images/brands/automox.svg" alt="Automox Logo">
 		  </div>
 		</div>
-		<div class="w-1/2 p-4">
+		<div class="w-full lg:w-1/2 p-4">
 		  <div class="py-12 bg-gray-50 rounded-xl">
 			<img class="h-8 mx-auto" src="{{ site.site_url }}/assets/images/brands/watchman.png" alt="Watchman Logo">
 		  </div>
 		</div>
-		<div class="w-1/2 p-4">
+		<div class="w-full lg:w-1/2 p-4">
 		  <div class="py-12 bg-gray-50 rounded-xl">
 			<img class="h-7 mx-auto" src="{{ site.site_url }}/assets/images/brands/malwarebtes.png" alt="Malwarebytes Logo">
 		  </div>
 		</div>
-		<div class="w-1/2 p-4">
+		<div class="w-full lg:w-1/2 p-4">
 		  <div class="py-12 bg-gray-50 rounded-xl">
 			<img class="h-8 mx-auto" src="{{ site.site_url }}/assets/images/brands/header-icon-app-store.png" alt="Grove App Store">
 		  </div>
 		</div>
-		<div class="w-1/2 p-4">
+		<div class="w-full lg:w-1/2 p-4">
 		  <div class="py-12 bg-gray-50 rounded-xl">
 			<img class="h-8 mx-auto" src="{{ site.site_url }}/assets/images/brands/pii.png" alt="PII Logo">
 		  </div>
 		</div>
-		<div class="w-1/2 p-4">
+		<div class="w-full lg:w-1/2 p-4">
 		  <div class="py-12 bg-gray-50 rounded-xl">
 			<img class="h-8 mx-auto" src="{{ site.site_url }}/assets/images/brands/header-icon-support.png" alt="Grove Support">
 		  </div>
@@ -776,6 +780,16 @@ new Glider(document.querySelector('.glider'), {
                              Not Included
 
                             </td>
+                        </tr>
+                        
+                        <tr class="bg-white  flex lg:table-row flex-row lg:flex-row flex-wrap lg:flex-no-wrap mb-10 lg:mb-0">
+                            
+                            <td class="px-6 py-4 w-full lg:w-auto p-3 text-gray-800 text-center border border-b block lg:table-cell relative lg:static" colspan=3>
+                                
+                                <a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+							                            
+                            </td>
+                            
                         </tr>
 
                     </tbody>
