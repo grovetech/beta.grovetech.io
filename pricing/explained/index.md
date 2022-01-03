@@ -457,7 +457,7 @@ new Glider(document.querySelector('.glider'), {
 	  
 	<div class="w-full py-6 px-4 mt-20">
 	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> Our plans are prix fixe so modifications of plans are not allowed due to the specific cost ratios baked within.</p>
-	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> For $3,300 starter plan price breakdown are as follows $875/mo (35 seats - Core Apps). Additional cost per seat is $25/mo for each additional seat to account for accrued per seat monthly costs.</p>
+	  <p class="text-sm text-gray-500 py-3"><sup>*</sup> For $3,300 starter plan price breakdown are as follows $875/mo (35 seats - Core Apps). Additional cost per seat is $40/mo for each additional seat to account for accrued per seat monthly costs.</p>
 	</div>
 	
 	
@@ -827,6 +827,7 @@ function updateTextInput(val) {
           
           
           
+          document.getElementById('electricSeat').innerHTML=(val*99); 
           document.getElementById('alectronaSeat').innerHTML=(val*99); 
           document.getElementById('techSeat').innerHTML=(val*110); 
           document.getElementById('springSeat').innerHTML=(val*120); 
@@ -860,25 +861,30 @@ function updateTextInput(val) {
 
 
   <div class="flex flex-wrap items-center -mx-4 -mb-8 mt-20">
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="groveSeat">3300</span>/mo</h5>
-	  <p class="text-xl text-gray-500">Grove Pricing</p>
+	  <p class="text-xl text-gray-500">Grove</p>
 	  <p class="text-xl text-gray-500">$3300 + $40/seat</p>
 	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="alectronaSeat">3465</span>/mo<sup>*</sup></h5>
-	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.alectrona.com/infrastructure" target="_new">Alectrona Pricing</a></p>
+	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.alectrona.com/infrastructure" target="_new">Alectrona</a></p>
 	  <p class="text-xl text-gray-500">$99/seat</p>
 	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="techSeat">3850</span>/mo<sup>*</sup></h5>
-	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.technolutionary.com/services" target="_new">Technolutionary Pricing</a></p>
+	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.technolutionary.com/services" target="_new">Technolutionary</a></p>
 	  <p class="text-xl text-gray-500">$110/seat</p>
 	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="springSeat">4200</span>/mo<sup>*</sup></h5>
-	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.springboardit.com/pricing" target="_new">Springboard Pricing </a></p>
+	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.springboardit.com/pricing" target="_new">Springboard</a></p>
 	  <p class="text-xl text-gray-500">$120/seat</p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
+	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="electricSeat">3465</span>/mo<sup>*</sup></h5>
+	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.electric.ai/it-cost-calculator" target="_new">Electric AI</a></p>
+	  <p class="text-xl text-gray-500">$99/seat</p>
 	</div>
   </div>
   
