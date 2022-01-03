@@ -215,7 +215,7 @@ function updateTextInput2(val) {
 	<div class="flex flex-col md:flex-row lg:space-x-4 items-center -mx-4 -mb-8 mt-8 p-4 lg:p-0 md:p-0">
 	
 	<div class="w-full md:w-1/2 lg:w-full px-2 mb-8 text-center py-12 bg-green-100 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">= <input type="text" id="totalTime" value="46.25" class="bg-green-100 text-center"></h5>
+	  <h5 class="mb-6 text-3xl font-semibold font-heading">= <input type="text" id="totalTime" value="46.25" class="bg-green-100 text-center"></h5>
 	  <p class="text-md text-gray-500">Total Hours/Mo<br> spent on IT-related tasks</p>
 	</div>
   </div>
@@ -263,7 +263,7 @@ function updateTextInput2(val) {
 	<div class="flex flex-col md:flex-row lg:space-x-4 items-center -mx-4 -mb-8 mt-8 p-4 lg:p-0 md:p-0">
 	
 	<div class="w-full md:w-1/2 lg:w-full px-2 mb-8 text-center py-12 bg-green-100 rounded-xl">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">= $<input type="text" id="totalCosts" value="62544.45" class="bg-green-100 text-center"></h5>
+	  <h5 class="mb-6 text-3xl font-semibold font-heading">= $<input type="text" id="totalCosts" value="62544.45" class="bg-green-100 text-center"></h5>
 	  <p class="text-md text-gray-500">Total cost of current IT environment</p>
 	</div>
   </div>
