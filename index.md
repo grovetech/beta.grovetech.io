@@ -8,7 +8,7 @@ thumbnail: /assets/images/banner/mac_msp.png
 image: /assets/images/banner/mac_msp.png
 navsmheader: "What's new at Grove Technologies"
 navheader: "World Class  Apple Support and <br>🔒 Cybersecurity Services"
-navpar: "We are a <span class=\"font-bold\">Washington D.C.</span> Apple MSP and a member of the <a href=\"https://consultants.apple.com/us/profile/2045642\" rel=\"noreferrer\" class=\"font-bold\" title=\"Grove Technologies a member of the Apple Consultants Network\" target=\"_blank\">Apple Consultants Network</a>. We work to bring stability back to the Mac Business environment by providing next-level Mac Management, Mac Repairs, Mac Purchasing &amp; More."
+navpar: "For Small Businesses Who Are Fed Up With Slow & Frustrating IT Support Unlike Traditional PC MSP’s We Provide Quick and Responsive <a href=\"https://consultants.apple.com/us/profile/2045642\" rel=\"noreferrer\" class=\"font-bold\" title=\"Grove Technologies a member of the Apple Consultants Network\" target=\"_blank\">Mac Support</a>, Network & Cybersecurity Services Nationwide."
 navbutt1: "Pricing"
 navbutt1link: "pricing"
 navbutt2: "About Us"
