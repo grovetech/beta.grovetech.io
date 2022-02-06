@@ -400,7 +400,7 @@ new Glider(document.querySelector('.glider'), {
 		
 	  </div>
 
-	  <a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-20" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+	  <a class="w-full text-center inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-20" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
 	  
 	  </div>
 	  
@@ -789,7 +789,7 @@ new Glider(document.querySelector('.glider'), {
                             
                             <td class="px-6 py-4 w-full lg:w-auto p-3 text-gray-800 text-center border border-b block lg:table-cell relative lg:static" colspan=3>
                                 
-                                <a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+                                <a class="w-full text-center inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
 							                            
                             </td>
                             
