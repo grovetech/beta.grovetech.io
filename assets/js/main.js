@@ -86,6 +86,12 @@ var formCONTACT = document.getElementById("form-contact");
 var priceToggle = document.getElementById("toggle");
 if(priceToggle){
 document.querySelector("#toggle").addEventListener("click", function() {
+
+var element = document.getElementById("modelstarter");
+var element2 = document.getElementById("modelbusiness");
+element.classList.add("hiddenpr");	
+element2.classList.add("hiddenpr");	  	
+    	
   document.querySelectorAll(".price-yearly, .price-monthly")
     .forEach(function(elem) {
       elem.classList.toggle('hiddenpr')

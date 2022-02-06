@@ -14,11 +14,15 @@
 </style>
 
 <script>
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",");
+}
+
 function planChange () {
 	if (document.getElementById("calc_switcher").value == "1"){
         document.getElementById("plan").innerHTML = "Business";
-        document.getElementById('groveSeat').innerHTML=4100; 
-        document.getElementById('groveSeat2').innerHTML=4100; 
+        document.getElementById('groveSeat').innerHTML=numberWithCommas(4100); 
+        document.getElementById('groveSeat2').innerHTML=numberWithCommas(4100); 
         document.getElementById("customRange3").value = "35";
         document.getElementById("seatsInput").value = "35 Seats";
         document.getElementById("perSeatPrice").innerHTML = "60";
@@ -27,8 +31,8 @@ function planChange () {
     }     
     else{
         document.getElementById("plan").innerHTML = "Starter";
-        document.getElementById('groveSeat').innerHTML=3300; 
-        document.getElementById('groveSeat2').innerHTML=3300; 
+        document.getElementById('groveSeat').innerHTML=numberWithCommas(3300); 
+        document.getElementById('groveSeat2').innerHTML=numberWithCommas(3300); 
         document.getElementById("customRange3").value = "35";
         document.getElementById("seatsInput").value = "35 Seats";
         document.getElementById("perSeatPrice").innerHTML = "40";
@@ -43,23 +47,23 @@ function updateTextInput(val) {
 		  if (calc_switcher == 0) {
 		  
 			  if (groveID == 35) {
-				document.getElementById('groveSeat').innerHTML=3300; 
+				document.getElementById('groveSeat').innerHTML=numberWithCommas(3300); 
 			
 			  } else if (groveID > 35) {
 				var groveDelta = val - 35;
 			
-				document.getElementById('groveSeat').innerHTML=(groveDelta*40)+3300; 
+				document.getElementById('groveSeat').innerHTML=numberWithCommas((groveDelta*40)+3300); 
 			  }
 		  
 		  } else {
 		  
 		  	  if (groveID == 35) {
-				document.getElementById('groveSeat').innerHTML=4100; 
+				document.getElementById('groveSeat').innerHTML=numberWithCommas(4100); 
 			
 			  } else if (groveID > 35) {
 				var groveDelta = val - 35;
 			
-				document.getElementById('groveSeat').innerHTML=(groveDelta*60)+4100; 
+				document.getElementById('groveSeat').innerHTML=numberWithCommas((groveDelta*60)+4100); 
 			  }
 		  
 		  }
@@ -68,10 +72,10 @@ function updateTextInput(val) {
           
           
           
-          document.getElementById('electricSeat').innerHTML=(val*99); 
-          document.getElementById('alectronaSeat').innerHTML=(val*99); 
-          document.getElementById('techSeat').innerHTML=(val*110); 
-          document.getElementById('springSeat').innerHTML=(val*120); 
+          document.getElementById('electricSeat').innerHTML=numberWithCommas((val*99)); 
+          document.getElementById('alectronaSeat').innerHTML=numberWithCommas((val*99)); 
+          document.getElementById('techSeat').innerHTML=numberWithCommas((val*110)); 
+          document.getElementById('springSeat').innerHTML=numberWithCommas((val*120)); 
         }
 </script>
 
@@ -119,27 +123,27 @@ function updateTextInput(val) {
 
   <div class="flex flex-wrap items-center -mx-4 -mb-8 mt-20">
 	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="groveSeat">3300</span>/mo</h5>
+	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="groveSeat">3,300</span>/mo</h5>
 	  <p class="text-xl text-gray-500">Grove</p>
 	  <p class="text-xl text-gray-500">$<span id="groveSeat2">3300</span> + $<span id="perSeatPrice">40</span>/seat</p>
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="alectronaSeat">3465</span>/mo<sup>*</sup></h5>
+	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="alectronaSeat">3,465</span>/mo<sup>*</sup></h5>
 	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.alectrona.com/infrastructure" target="_new">Alectrona</a></p>
 	  <p class="text-xl text-gray-500">$99/seat</p>
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="techSeat">3850</span>/mo<sup>*</sup></h5>
+	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="techSeat">3,850</span>/mo<sup>*</sup></h5>
 	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.technolutionary.com/services" target="_new">Technolutionary</a></p>
 	  <p class="text-xl text-gray-500">$110/seat</p>
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="springSeat">4200</span>/mo<sup>*</sup></h5>
+	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="springSeat">4,200</span>/mo<sup>*</sup></h5>
 	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.springboardit.com/pricing" target="_new">Springboard</a></p>
 	  <p class="text-xl text-gray-500">$120/seat</p>
 	</div>
 	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
-	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="electricSeat">3465</span>/mo<sup>*</sup></h5>
+	  <h5 class="mb-6 text-2xl font-semibold font-heading">$<span id="electricSeat">3,465</span>/mo<sup>*</sup></h5>
 	  <p class="text-xl text-gray-500"><a class="underline cursor-pointer" href="https://www.electric.ai/it-cost-calculator" target="_new">Electric AI</a></p>
 	  <p class="text-xl text-gray-500">$99/seat</p>
 	</div>

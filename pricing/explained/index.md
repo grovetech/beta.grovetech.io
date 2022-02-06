@@ -394,10 +394,13 @@ new Glider(document.querySelector('.glider'), {
 		<div class="max-w-sm">
 		  <p class="text-xl">53% cost of servicing your core hourly helpdesk allotment. Your own personal dedicated IT Team.</p>
 		  
-		  <a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-20" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
+		  
 		</div>
+		
+		
 	  </div>
 
+	  <a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer mt-20" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/grove-sales-team/grove-sales-call'});return false;">Contact Sales</a>
 	  
 	  </div>
 	  
