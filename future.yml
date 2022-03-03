@@ -6,4 +6,4 @@ services:
       - "4000:4000"
     volumes:
       - .:/srv/jekyll
-    command: bundle exec jekyll serve --future --host 0.0.0.0
+    command: bundle exec jekyll serve --future --draft --host 0.0.0.0
