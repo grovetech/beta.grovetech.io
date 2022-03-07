@@ -18,7 +18,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 <section class="relative py-20 border-t"><div class="container px-4 mx-auto">
 <div class="relative flex flex-wrap items-center -mx-4">
   <div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
-	<img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot"><img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/careers/kaleidico-d6rTXEtOclk-unsplash.jpg" alt="Meet the Grove Team!"></div>
+	<img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot"><img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/careers/emp4.png" alt="Meet the Grove Team!"></div>
   <div class="relative w-full lg:w-1/2 px-4">
 	<div class="relative lg:pl-10 max-w-lg">
 	  <span class="text-xs font-semibold text-green-500 bg-green-100 py-1 rounded-full px-2">Values Driven</span>
