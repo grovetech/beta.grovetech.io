@@ -17,8 +17,8 @@ thumbnail: /assets/images/covers/2022/Header-MacStudio.jpg
 cta: 1
 comments: true
 ---
-At its March 8th [[Peek
-Performance]{.underline}](https://www.apple.com/apple-events/march-2022/)
+At its March 8th [Peek
+Performance](https://www.apple.com/apple-events/march-2022/)
 event, Apple freshened its iPhone and iPad product lines with a new
 third-generation iPhone SE and fifth-generation iPad Air, along with new
 green hues for the iPhone 13 line. Then Apple focused on the big
@@ -32,15 +32,15 @@ In 2020, Apple started to transition Macs away from Intel processors to
 Apple silicon, beginning with the M1 system-on-a-chip and a year later
 adding the even more powerful M1 Pro and M1 Max to the family. The
 performance of those chips, particularly when measured against their low
-power requirements, was stellar. Apple has now unveiled the [[M1
-Ultra]{.underline}](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/),
+power requirements, was stellar. Apple has now unveiled the [M1
+Ultra](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/),
 which bonds two M1 Max chips together for double the performance.
 
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220309Ap/image2.jpg" class="img-fluid rounded m-2" width="700" />
 
 To hold the M1 Ultra---or a less expensive M1 Max---Apple introduced an
-entirely new Mac that looks like an inflated Mac mini. The [[Mac
-Studio]{.underline}](https://www.apple.com/mac-studio/) has the same
+entirely new Mac that looks like an inflated Mac mini. The [Mac
+Studio](https://www.apple.com/mac-studio/) has the same
 7.7-inch (19.7 cm) square outline, but is more than twice as tall,
 clocking in at 3.7 inches (9.5 cm) high. Much of that vertical space is
 occupied by cooling fans, but Apple says the Mac Studio makes minimal
@@ -75,8 +75,8 @@ two Thunderbolt 4 ports. Both provide an SDXC card slot.
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220309Ap/image4.jpg" class="img-fluid rounded m-2" width="700" />
 
 To address the Mac Studio's lack of a screen, Apple introduced the
-$1599 [[Studio
-Display]{.underline}](https://www.apple.com/studio-display/). It's a
+$1599 [Studio
+Display](https://www.apple.com/studio-display/). It's a
 27-inch 5K Retina display with a native resolution of 5120-by-2800, P3
 wide color, and True Tone technology. Nano-texture glass is a $300
 option if you need less reflectivity. There are three stand options: a
@@ -107,29 +107,29 @@ Remember that even the entry-level M1 chip outperforms the most recent
 Intel-based 27-inch iMac.
 
 -   **Minimize desktop cost:** If keeping costs down while sticking with
-    Apple-designed desktop gear is important to you, couple a [[Mac
-    mini]{.underline}](https://www.apple.com/mac-mini/) with the Studio
+    Apple-designed desktop gear is important to you, couple a [Mac
+    mini](https://www.apple.com/mac-mini/) with the Studio
     Display.
 
 -   **Maximize desktop performance:** Need the maximum performance on
-    your desk? A [[Mac
-    Studio]{.underline}](https://www.apple.com/mac-studio/) driving one
+    your desk? A [Mac
+    Studio](https://www.apple.com/mac-studio/) driving one
     or more Studio Displays is the ultimate professional setup today.
 
 -   **Minimize portability cost:** Those who need portability and
     desktop screen real estate can get both without breaking the bank by
-    combining a [[MacBook
-    Air]{.underline}](https://www.apple.com/macbook-air/) or [[13-inch
-    MacBook Pro]{.underline}](https://www.apple.com/macbook-pro-13/) and
+    combining a [MacBook
+    Air](https://www.apple.com/macbook-air/) or [13-inch
+    MacBook Pro](https://www.apple.com/macbook-pro-13/) and
     the Studio Display.
 
 -   **Maximize portability performance:** For top-notch portability,
-    performance, and productivity, a [[14-inch or 16-inch MacBook
-    Pro]{.underline}](https://www.apple.com/macbook-pro-14-and-16/) is
+    performance, and productivity, a [14-inch or 16-inch MacBook
+    Pro](https://www.apple.com/macbook-pro-14-and-16/) is
     unbeatable when matched with one or even two Studio Displays.
 
-Finally, don't discount the [[24-inch
-iMac]{.underline}](https://www.apple.com/imac-24/). Although its screen
+Finally, don't discount the [24-inch
+iMac](https://www.apple.com/imac-24/). Although its screen
 is smaller than the 27-inch iMac's, its Retina screen resolution isn't
 far off, and it's notably less expensive. If you mostly like the
 all-in-one nature of the 27-inch iMac and don't need the performance of
@@ -148,8 +148,8 @@ and Magic Trackpad ($149) designed to complement the Studio Display.
 
 Not everyone wants---or at least wants to pay for---the latest and
 greatest. For those looking for a small iPhone at a reasonable price,
-the new third-generation [[iPhone
-SE]{.underline}](https://www.apple.com/iphone-se/) is still a bargain.
+the new third-generation [iPhone
+SE](https://www.apple.com/iphone-se/) is still a bargain.
 Prices start at $429 thanks to its 4.7-inch screen in an iPhone 8
 design and Touch ID-enabled Home button. That's $30 more than the
 previous generation, but you get the same A15 Bionic chip that's in the
@@ -177,8 +177,8 @@ starlight (white), and PRODUCT(RED), starting at 8 AM Eastern on March
 
 ### Fifth-generation iPad Air Moves to M1 and 5G
 
-For many people, the $599 [[iPad
-Air]{.underline}](https://www.apple.com/ipad-air/) is the sweet spot of
+For many people, the $599 [iPad
+Air](https://www.apple.com/ipad-air/) is the sweet spot of
 the iPad line, fitting nicely between the $329 iPad and the $799
 11-inch iPad Pro. However, the fourth-generation iPad Air had fallen
 behind in a few ways, making its price less palatable.

@@ -25,7 +25,7 @@ doesn't work, or if you have to give up one device before receiving the
 other, iCloud Backup is a fine alternative. Fine, that is, if you have
 enough iCloud storage space, which many people with the free 5 GB plan
 do not. For devices running iOS 15 or iPadOS 15, Apple just introduced
-the option to [[create a temporary iCloud
+the option to [create a temporary iCloud
 backup]{.ul}](https://support.apple.com/en-ca/HT212732) that's larger
 than the available space. Tap Settings > General > Transfer or Reset
 *Device* > Get Started to create the backup. You have 21 days (plus
