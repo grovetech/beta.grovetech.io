@@ -96,10 +96,53 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-blue-500 flex items-center justify-center">
+			<span class="text-white text-2xl">JH</span>
+			
+			
+			
+			
+		  </div>
+		  <div class="w-full lg:w-2/3 px-5">
+			<h3 class="text-2xl font-semibold font-heading mb-1">Jeff Herndon</h3>
+			<p class="mb-6 text-gray-500">Mac Expert</p>
+			<p class="text-gray-500">Jeff, a prior repair technician at Mac Medics, knows the meaning of providing amazing Mac Support day in and day out. Jeff is a true ambasador for our clients.</p>
+		  	
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
+	<div class="w-full lg:w-1/2 p-3">
+	  <div class="p-6 border rounded-xl">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-green-500 flex items-center justify-center">
 			<span class="text-white text-2xl">MD</span>
 			
 			
+			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/mat-grove/30_minute_session'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-.386-8.787a1.462 1.462 0 01-1.688.274 1.462 1.462 0 00-1.688.274l-1.511 1.51a.5.5 0 00.195.829l1.354.451c1.3.433 2.733.095 3.702-.874l4-4c.89-.89 1.11-2.25.547-3.375l-.632-1.266a.5.5 0 00-.8-.13L13.5 8.5a1.462 1.462 0 00-.274 1.688 1.462 1.462 0 01-.274 1.688l-1.338 1.338z" fill="#fff"/></g></svg>
+						</div>
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/mat-grove/remote-appointment'});return false;">
+						<div class="icon text-primary mb-3">
+							<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#fff" x="2" y="6" width="13" height="12" rx="2"/><path d="M22 8.414v7.172a1 1 0 01-1.707.707l-3.586-3.586a1 1 0 010-1.414l3.586-3.586A1 1 0 0122 8.414z" fill="#fff" opacity=".3"/></g></svg>
+						</div>	
+					</a> 
+			</div> 
+			<div class="text-center"> 
+				<a href="" class="link" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/mat-grove/'});return false;">
+							<div class="icon text-primary mb-3">
+								<svg class="w-10 md:w-8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><circle fill="#fff" opacity=".3" cx="12" cy="12" r="10"/><path d="M12 11a2 2 0 110-4 2 2 0 010 4zm-5 5.5c.216-2.983 2.368-4.5 4.99-4.5 2.66 0 4.846 1.433 5.009 4.5.006.122 0 .5-.418.5H7.404c-.14 0-.415-.338-.404-.5z" fill="#fff" opacity="1"/></g></svg>
+							</div>
+					</a> 
+			</div> 
+			</div>
 			
 			
 		  </div>
@@ -107,13 +150,11 @@ ogtype: page
 			<h3 class="text-2xl font-semibold font-heading mb-1">Mat DelloRusso</h3>
 			<p class="mb-6 text-gray-500">Mac Expert</p>
 			<p class="text-gray-500">Mat, a prior Helpdesk trained Support Technician, is dedicated to providing great Mac Support and a outstanding customer experience.</p>
-		  	
+		  	<p class="mt-0"></p>
 		  </div>
 		</div>
 	  </div>
 	</div>
-	
-	
 	
 	
 	<div class="w-full lg:w-1/2 p-3">
