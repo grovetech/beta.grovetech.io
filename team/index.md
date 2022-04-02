@@ -225,9 +225,7 @@ ogtype: page
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-teal-500 flex items-center justify-center">
 			<span class="text-white text-2xl">CS</span>
 			
-			
-			
-			
+
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Chris Sanborn</h3>
