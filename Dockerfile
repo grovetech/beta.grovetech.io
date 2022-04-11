@@ -1,6 +1,7 @@
 FROM jekyll/jekyll:pages
+FROM ruby:2.7.5-alpine3.15
 
-COPY Gemfile /srv/jekyll/
+COPY Gemfile* /srv/jekyll/
 
 WORKDIR /srv/jekyll
 

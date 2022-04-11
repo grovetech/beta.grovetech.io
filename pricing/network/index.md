@@ -10,12 +10,134 @@ author: Jon Brown
 ogtype: page
 ---
 
-
 <section class="relative py-20"><img class="hidden lg:block absolute top-0 -left-24 mt-64" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Left Bars"><img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic"><div class="container px-4 mx-auto">
 <div class="max-w-2xl mx-auto mb-20 text-center">
   <span class="text-xs font-semibold text-green-500">Transparent Pricing</span>
   <h2 class="mt-8 mb-10 text-4xl font-heading">🧭 Managed Network Pricing</h2>
   <p class="mb-16 text-xl text-gray-500">To manage a network effectively you need to spend the time to ensure that they are setup right. Our managed plans are not time-based, because networks do not have problems on a set schedule.</p>
+
+</div>
+</div>
+</section>
+
+<section class="py-20">
+<div class="container px-4 mx-auto">
+  <div class="flex flex-wrap -mx-4">
+	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-20">
+	  <span class="text-xs text-green-500 font-semibold">Managed Network Features</span>
+	  <h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">What do all Managed Network Support Plans Include?</h2>
+	  <p class="max-w-lg mb-12 text-xl text-gray-500">We provide best in class tools that help us keep your systems running smoothly. All plans come with infrastructure management and WiFi system management in addition to the following.</p>
+	
+	<div class="w-full px-4 mb-12 lg:mb-0">
+	  <img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot"><img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/networking/jordan-harrison-40XgDxBfYXM-unsplash.jpg" alt="Blue Dot"></div>
+	  
+	</div>
+	<div class="w-full lg:w-1/2 px-4">
+	  <div class="bg-gray-50 rounded-xl px-10">
+		<div class="py-8 border-b">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-blue-400 text-white">1</span>
+			<p class="text-gray-500"><strong>Network Security</strong><br> 
+			  Grove tests the security patches for your equipment in our network lab ensuring that all security patches are verified and tested before being deployed. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+		<div class="py-8 border-b">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-orange-400 text-white">2</span>
+			<p class="text-gray-500"><strong>Firmware Patching</strong><br>
+			  We test new firmware and feature releases of network firmware in our lab to ensure that it's secure and will not cause issues. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+		<div class="py-8 border-b">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-red-400 text-white">3</span>
+			<p class="text-gray-500"><strong>Firewall Log Monitoring</strong><br>
+			  We look at the log files and classify events from the router and firewall to ensure that nothing malicious is happening. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+		<div class="py-8 border-b">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-yellow-400 text-white">4</span>
+			<p class="text-gray-500"><strong>Equipment Management</strong><br>
+			  Our on-premise network scanner will detect changes in environmental conditions, ensure uptime of your critical systems and more. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+		<div class="py-8">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-green-400 text-white">5</span>
+			<p class="text-gray-500"><strong>WiFi Management</strong><br>
+			  We monitor and manage your wifi system with our cloud based controllers to ensure optimum uptime, security and configuration backups. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+</section>
+
+<section class="py-20 border-b">
+<div class="container px-4 mx-auto">
+  <div class="flex flex-wrap -mx-4">
+  
+  <div class="w-full lg:w-1/2 px-4">
+	  <div class="bg-gray-50 rounded-xl px-10">
+		<div class="py-8 border-b">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-blue-400 text-white">6</span>
+			<p class="text-gray-500"><strong>ISP Monitoring</strong><br> 
+			  We ping your offices internet connection every 5 minutes and take corrective measures if the internet is offline for any reason. <br> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+		<div class="py-8 border-b">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-orange-400 text-white">7</span>
+			<p class="text-gray-500"><strong>LAN Monitoring</strong><br>
+			  We scan and inventory all devices connected to your network to ensure critical devices are operational even if they are not externally accessible. <br> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+		<div class="py-8 border-b">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-red-400 text-white">8</span>
+			<p class="text-gray-500"><strong>VPN Management</strong><br>
+			  We ensure your site to site, client based, and cloud based VPN systems are working appropriately. Supporting L2TP, Cisco IPSec, Cisco Umbrella & more. <br> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+		<div class="py-8">
+		  <div class="flex items-start">
+			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-yellow-400 text-white">9</span>
+			<p class="text-gray-500"><strong>Phone System Management</strong><br>
+			  We manage all aspects of your custom telephony or cloud based phone system. Supporting all protocols from VOIP, SIP to Local PBX & Asterisk. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
+	
+	
+	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-20 hidden md:block">
+	  <span class="text-xs text-green-500 font-semibold">Managed Network Features</span>
+	  <h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">What Do I Get With the Premium Plan?</h2>
+	  <p class="max-w-lg mb-12 text-xl text-gray-500">We take it a step further by providing you with best in class remote and on-site monitoring solutions.</p>
+	
+	<div class="w-full px-4 mb-12 lg:mb-0">
+	  <img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/networking/thomas-jensen-ISG-rUel0Uw-unsplash.jpg" alt="Grove Technologies Mac MSP"></div>
+	  
+	</div>
+	
+	
+  </div>
+  
+  
+	
+	
+</div>
+</section>
+
+
+<section class="relative py-20 border-b"><img class="hidden lg:block absolute top-0 -left-24 mt-64" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Left Bars"><img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic"><div class="container px-4 mx-auto">
+<div class="max-w-2xl mx-auto mb-20 text-center">
+  <span class="text-xs font-semibold text-green-500">Transparent Pricing</span>
+  <h2 class="mt-8 mb-10 text-4xl font-heading">Our Pricing Structure</h2>
 
 
 </div>
@@ -82,119 +204,7 @@ ogtype: page
 </div>
 </section>
 
-<section class="py-20 border-b">
-<div class="container px-4 mx-auto">
-  <div class="flex flex-wrap -mx-4">
-	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-20">
-	  <span class="text-xs text-green-500 font-semibold">Managed Network Features</span>
-	  <h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">What do all Managed Network Support Plans Include?</h2>
-	  <p class="max-w-lg mb-12 text-xl text-gray-500">We provide best in class tools that help us keep your systems running smoothly. All plans come with infrastructure management and WiFi system management in addition to the following.</p>
-	
-	<div class="w-full px-4 mb-12 lg:mb-0">
-	  <img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Blue Dot"><img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/networking/jordan-harrison-40XgDxBfYXM-unsplash.jpg" alt="Blue Dot"></div>
-	  
-	</div>
-	<div class="w-full lg:w-1/2 px-4">
-	  <div class="bg-gray-50 rounded-xl px-10">
-		<div class="py-8 border-b">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-blue-400 text-white">1</span>
-			<p class="text-gray-500"><strong>Network Security</strong><br> 
-			  Grove tests the security patches for your equipment in our network lab ensuring that all security patches are verified and tested before being deployed. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-		<div class="py-8 border-b">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-orange-400 text-white">2</span>
-			<p class="text-gray-500"><strong>Firmware Patching</strong><br>
-			  We test new firmware and feature releases of network firmware in our lab to ensure that it's secure and will not cause issues. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-		<div class="py-8 border-b">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-red-400 text-white">3</span>
-			<p class="text-gray-500"><strong>Firewall Log Monitoring</strong><br>
-			  We look at the log files and classify events from the router and firewall to ensure that nothing malicious is happening. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-		<div class="py-8 border-b">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-yellow-400 text-white">4</span>
-			<p class="text-gray-500"><strong>Equipment Management</strong><br>
-			  Our on-premise network scanner will detect changes in environmental conditions, ensure uptime of your critical systems and more. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-		<div class="py-8">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-green-400 text-white">5</span>
-			<p class="text-gray-500"><strong>WiFi Management</strong><br>
-			  We monitor and manage your wifi system with our cloud based controllers to ensure optimum uptime, security and configuration backups. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">STARTER</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-</section>
-{% include project.html %}  
-<section class="py-20 border-b">
-<div class="container px-4 mx-auto">
-  <div class="flex flex-wrap -mx-4">
-  
-  <div class="w-full lg:w-1/2 px-4">
-	  <div class="bg-gray-50 rounded-xl px-10">
-		<div class="py-8 border-b">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-blue-400 text-white">6</span>
-			<p class="text-gray-500"><strong>ISP Monitoring</strong><br> 
-			  We ping your offices internet connection every 5 minutes and take corrective measures if the internet is offline for any reason. <br> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-		<div class="py-8 border-b">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-orange-400 text-white">7</span>
-			<p class="text-gray-500"><strong>LAN Monitoring</strong><br>
-			  We scan and inventory all devices connected to your network to ensure critical devices are operational even if they are not externally accessible. <br> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-		<div class="py-8 border-b">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-red-400 text-white">8</span>
-			<p class="text-gray-500"><strong>VPN Management</strong><br>
-			  We ensure your site to site, client based, and cloud based VPN systems are working appropriately. Supporting L2TP, Cisco IPSec, Cisco Umbrella & more. <br> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-		<div class="py-8">
-		  <div class="flex items-start">
-			<span class="mr-6 flex-shrink-0 flex justify-center items-center w-12 h-12 rounded-full bg-yellow-400 text-white">9</span>
-			<p class="text-gray-500"><strong>Phone System Management</strong><br>
-			  We manage all aspects of your custom telephony or cloud based phone system. Supporting all protocols from VOIP, SIP to Local PBX & Asterisk. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">PREMIUM</span></p>
-		  </div>
-		</div>
-	  </div>
-	</div>
-	
-	
-	
-	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-20 hidden md:block">
-	  <span class="text-xs text-green-500 font-semibold">Managed Network Features</span>
-	  <h2 class="mt-8 mb-10 text-4xl font-semibold font-heading">What Do I Get With the Premium Plan?</h2>
-	  <p class="max-w-lg mb-12 text-xl text-gray-500">We take it a step further by providing you with best in class remote and on-site monitoring solutions.</p>
-	
-	<div class="w-full px-4 mb-12 lg:mb-0">
-	  <img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/networking/thomas-jensen-ISG-rUel0Uw-unsplash.jpg" alt="Grove Technologies Mac MSP"></div>
-	  
-	</div>
-	
-	
-  </div>
-  
-  
-	
-	
-</div>
-</section>
-
 {% include connect.html %}
 {% include /reviews/review1.html %}
+{% include project.html %}  
 {% include /forms/contact.html %}

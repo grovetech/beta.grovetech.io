@@ -102,11 +102,114 @@ var groveDeltaLgBusiness = calc_switcher_lg_business - 35;
 
 </script>
 
-<section class="relative py-20"><img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic"><div class="container px-4 mx-auto">
+<section class="relative py-20">
+<img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic">
+
+<div class="container px-4 mx-auto">
 <div class="max-w-2xl mx-auto mb-20 text-center">
   <span class="text-xs font-semibold text-green-500">Transparent Pricing</span>
   <h2 class="mt-8 mb-10 text-4xl font-heading">💻 +📱 Apple Support Pricing</h2>
   <p class="mb-16 text-xl text-gray-500">Our plans are unique. You don’t pay per seat. You only pay for the hours you need and ALL your team members can use them for Apple Desktop or Technical Support.</p>
+
+</div>
+</div>
+</section>
+
+<section class="py-20 border-b"><div class="container px-4 mx-auto">
+  <div class="flex flex-wrap -mx-4 items-center mb-12 lg:mb-20">
+	<div class="w-full lg:w-1/2 px-4 mb-10 lg:mb-0">
+	  <span class="text-xs text-green-500 font-semibold">Apple Support Features</span>
+	  <h2 class="mt-8 mb-10 text-4xl font-heading">What does a Managed Apple Support Plan Include?</h2>
+	  <p class="text-lg text-gray-500 mb-5">Quality support takes time which is why we bake dedicated time into all of our managed plans to ensure the best quality support for your team.</p>
+	  
+	  <p class="text-lg text-gray-500">Use the calculator and switcher above and then come back to see what is and isn't included in your chosen plan.</p>
+	</div>
+	<div class="relative w-full lg:w-1/2 px-4">
+	  <img class="relative object-cover rounded-lg" src="{{ site.site_url }}/assets/images/home/annie-spratt-QckxruozjRg-unsplash.jpg" alt="Grove Support Pricing"><div class="absolute inset-0 flex items-center justify-center">
+	  </div>
+	</div>
+  </div>
+  <div class="flex flex-wrap items-center -mx-4 lg:mt-40 mt-0">
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-blue-400 rounded-full text-white">1</span>
+	  <p class="text-xl text-gray-500"><strong>Remote Support</strong><br> Call us, Email us, or Text us we have multiple ways to get in touch to help you quickly. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
+	  
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-teal-400 rounded-full text-white">2</span>
+	  <p class="text-xl text-gray-500"><strong>Antivirus & Malware</strong><br> We include Malwarebytes to ensure that viruses and infected items are removed. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All  Managed Lite</span></p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-red-400 rounded-full text-white">3</span>
+	  <p class="text-xl text-gray-500"><strong>Monthly Reports</strong><br> We send you a monthly report so you can see all outstanding issues. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
+	</div>
+	
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-yellow-400 rounded-full text-white">4</span>
+	  <p class="text-xl text-gray-500"><strong>Client Success & Project Manager</strong><br> Your dedicated CS & PM will understand what success means to you and execute it with your Mac expert team. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span></p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-orange-400 rounded-full text-white">5</span>
+	  <p class="text-xl text-gray-500"><strong>IT Strategy</strong><br> Grove will strategize creative and comprehensive plans that effectively aligns technology with your business goals. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span></p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-gray-900 rounded-full text-white">6</span>
+	  <p class="text-xl text-gray-500"><strong>Annual Business Review</strong><br>
+		Grove will strategize with you about your IT infrastructure needs to make sure you’re 100% satisfied. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span></p>
+	</div>
+	
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-blue-400 rounded-full text-white">7</span>
+	  <p class="text-xl text-gray-500"><strong>Asset Monitoring</strong><br> Our monitoring tools alert us whenever there is a problem on your mac so we can handle it proactively. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-teal-400 rounded-full text-white">8</span>
+	  <p class="text-xl text-gray-500"><strong>Device Management</strong><br> Using Munki & <span class="price-yearly hiddenpr">Munki Report</span><span class="price-monthly">Automox</span> we catalog, monitor and patch all your deployed computers, automatically. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-red-400 rounded-full text-white">9</span> 
+	  <p class="text-xl text-gray-500"><strong>Onboard & Off-boarding</strong><br> We standardize your onboard & off-board flow with a custom checklist and process & procedure. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
+	</div>
+	
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-yellow-400 rounded-full text-white">10</span>
+	  <p class="text-xl text-gray-500"><strong>Cloud Management</strong><br> We manage your cloud infrastructure systems like Google, Office365, Box, Adobe, Dropbox, & More. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-orange-400 rounded-full text-white">11</span>
+	  <p class="text-xl text-gray-500"><strong>Purchasing & Repairs</strong><br> Purchasing & Repair management as well as inventory storage<sup>*</sup> for easier inventory management. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
+	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-gray-900 rounded-full text-white">12</span>
+	  <p class="text-xl text-gray-500"><strong>Cyber Training</strong><br> Our Cybersecurity training covers the basics with weekly trainings. Safeguard against phishing & more. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
+	</div>
+	
+  </div>
+  
+  <div class="w-full py-6 px-4 mt-20">
+	  <p class="text-sm text-gray-500"><sup>*</sup>Inventory Storage only available with a Managed+ Plan.</p>
+	</div>
+	
+</div>
+</section>
+
+<section class="relative py-20">
+
+<img class="hidden lg:block absolute top-0 right-0 mt-40" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Fancy Yellow Background Graphic">
+
+<div class="container px-4 mx-auto">
+
+<div class="max-w-2xl mx-auto text-center mb-20 pb-5 pt-5 px-8 rounded-xl lg:text-center bg-green-50 price-yearly hiddenpr">
+  
+  <h2 class="mt-8 mb-5 text-2xl font-heading"><strong>Scroll Up.</strong> Your Plan Details Have Changed</h2>
+  <p class="text-xl text-gray-500 mb-5">This page is dynamic. Scroll Up to see how your selection has altered your plan offerings, as well as what is included in each plan.</p>
+
+</div>
+
+
+<div class="max-w-2xl mx-auto mb-20 text-center">
+  <span class="text-xs font-semibold text-green-500">Transparent Pricing</span>
+  <h2 class="mt-8 mb-20 text-4xl font-heading">Our Pricing Structure</h2>
 
 <span class="lg:px-10 lg:py-4 px-2 py-2 bg-white rounded text-sm font-semibold leading-normal max-w-max mx-auto lg:p-1 p-0 bg-gray-50">Managed Lite</span>
 <div class="relative inline-block w-20 lg:w-24 mr-5 ml-5 align-middle select-none transition duration-200 ease-in">
@@ -347,94 +450,12 @@ var groveDeltaLgBusiness = calc_switcher_lg_business - 35;
 </div>
 
 
-<div class="max-w-2xl mx-auto text-center mt-20 pb-5 pt-5 px-8 rounded-xl lg:text-center bg-green-50 price-yearly hiddenpr">
-  
-  <h2 class="mt-8 mb-5 text-2xl font-heading">Your Plan Details Have Changed</h2>
-  <p class="text-xl text-gray-500 mb-5">This page is dynamic. Scroll Down to see how your selection has altered your plan offerings, as well as what is included in each plan.</p>
-  <div class="text-center text-gray-500" style="display: inline-block;"><svg class="fill-current h-10 w-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"></path></svg></div>
 
-</div>
 
 
 </section>
 
-<section class="py-20 border-b"><div class="container px-4 mx-auto">
-  <div class="flex flex-wrap -mx-4 items-center mb-12 lg:mb-20">
-	<div class="w-full lg:w-1/2 px-4 mb-10 lg:mb-0">
-	  <span class="text-xs text-green-500 font-semibold">Apple Support Features</span>
-	  <h2 class="mt-8 mb-10 text-4xl font-heading">What does a Managed Apple Support Plan Include?</h2>
-	  <p class="text-lg text-gray-500 mb-5">Quality support takes time which is why we bake dedicated time into all of our managed plans to ensure the best quality support for your team.</p>
-	  
-	  <p class="text-lg text-gray-500">Use the calculator and switcher above and then come back to see what is and isn't included in your chosen plan.</p>
-	</div>
-	<div class="relative w-full lg:w-1/2 px-4">
-	  <img class="relative object-cover rounded-lg" src="{{ site.site_url }}/assets/images/home/annie-spratt-QckxruozjRg-unsplash.jpg" alt="Grove Support Pricing"><div class="absolute inset-0 flex items-center justify-center">
-	  </div>
-	</div>
-  </div>
-  <div class="flex flex-wrap items-center -mx-4 lg:mt-40 mt-0">
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-blue-400 rounded-full text-white">1</span>
-	  <p class="text-xl text-gray-500"><strong>Remote Support</strong><br> Call us, Email us, or Text us we have multiple ways to get in touch to help you quickly. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
-	  
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-teal-400 rounded-full text-white">2</span>
-	  <p class="text-xl text-gray-500"><strong>Antivirus & Malware</strong><br> We include Malwarebytes to ensure that viruses and infected items are removed. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All  Managed Lite</span></p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-red-400 rounded-full text-white">3</span>
-	  <p class="text-xl text-gray-500"><strong>Monthly Reports</strong><br> We send you a monthly report so you can see all outstanding issues. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
-	</div>
-	
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-yellow-400 rounded-full text-white">4</span>
-	  <p class="text-xl text-gray-500"><strong>Client Success Manager</strong><br> Grove will work with you to define what success means to you and create strategized solutions. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span></p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-orange-400 rounded-full text-white">5</span>
-	  <p class="text-xl text-gray-500"><strong>Project Management</strong><br> Our PMs understand your IT infrastructure to make sure projects are tailored to your needs. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span></p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start price-yearly">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-gray-900 rounded-full text-white">6</span>
-	  <p class="text-xl text-gray-500"><strong>Annual Business Review</strong><br>
-		Grove will strategize with you about your IT infrastructure needs to make sure you’re 100% satisfied. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span></p>
-	</div>
-	
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-blue-400 rounded-full text-white">7</span>
-	  <p class="text-xl text-gray-500"><strong>Asset Monitoring</strong><br> Our monitoring tools alert us whenever there is a problem on your mac so we can handle it proactively. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-teal-400 rounded-full text-white">8</span>
-	  <p class="text-xl text-gray-500"><strong>Device Management</strong><br> Using Munki & <span class="price-yearly hiddenpr">Munki Report</span><span class="price-monthly">Automox</span> we catalog, monitor and patch all your deployed computers, automatically. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-red-400 rounded-full text-white">9</span> 
-	  <p class="text-xl text-gray-500"><strong>Onboard & Off-boarding</strong><br> We standardize your onboard & off-board flow with a custom checklist and process & procedure. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
-	</div>
-	
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-yellow-400 rounded-full text-white">10</span>
-	  <p class="text-xl text-gray-500"><strong>Cloud Management</strong><br> We manage your cloud infrastructure systems like Google, Office365, Box, Adobe, Dropbox, & More. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-500 bg-red-50 rounded">All Managed Lite</span></p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start items-stretch">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-orange-400 rounded-full text-white">11</span>
-	  <p class="text-xl text-gray-500"><strong>Purchasing & Repairs</strong><br> Purchasing & Repair management as well as inventory storage<sup>*</sup> for easier inventory management. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
-	</div>
-	<div class="w-full md:w-1/2 lg:w-1/3 py-6 px-4 flex items-start">
-	  <span class="flex-shrink-0 inline-flex items-center justify-center w-12 h-12 mr-6 bg-gray-900 rounded-full text-white">12</span>
-	  <p class="text-xl text-gray-500"><strong>Cyber Training</strong><br> Our Cybersecurity training covers the basics with weekly trainings. Safeguard against phishing & more. <br><span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-green-500 bg-green-50 rounded">All Managed+</span> <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-yellow-500 bg-yellow-50 rounded">Business Lite</span></p>
-	</div>
-	
-  </div>
-  
-  <div class="w-full py-6 px-4 mt-20">
-	  <p class="text-sm text-gray-500"><sup>*</sup>Inventory Storage only available with a Managed+ Plan.</p>
-	</div>
-	
-</div>
-</section>
+
 
 {% include project.html %}  
       
