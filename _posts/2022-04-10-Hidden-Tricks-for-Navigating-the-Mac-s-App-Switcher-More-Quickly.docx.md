@@ -4,8 +4,8 @@ date: '2022-04-10'
 author: Jon Brown
 permalink: /blog/hidden-tricks-for-navigating-the-mac-s-app-switcher-more-quickly/
 published: true
-title: Hidden Tricks for Navigating the Mac-s App Switcher More Quickly
-description: Hidden Tricks for Navigating the Mac-s App Switcher More Quickly
+title: "Hidden Tricks for Navigating the Mac's App Switcher More Quickly"
+description: "Hidden Tricks for Navigating the Mac's App Switcher More Quickly"
 blogimgpath: 20220402Hi
 tags:
   - MacOS
