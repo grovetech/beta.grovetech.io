@@ -2,7 +2,7 @@
 layout: pricing
 title: "We're Hiring! - Grove Technologies is hiring"
 type: LocalBusiness
-description: "Grove Technologies is looking for a Jr Mac Technician to grow with our fun consulting agency. The ideal candidate knows how to help people, gets joy from finding solutions to tough problems, has a great work ethic and an amazing sense of humor. Sound like you?" 
+description: "Grove Technologies is looking for a Mac Technician to grow with our fun consulting agency. The ideal candidate knows how to help people, gets joy from finding solutions to tough problems, has a great work ethic and an amazing sense of humor. Sound like you?" 
 keywords: "mac support dc, careers, it jobs, about grove technologies, grove technologies apple, creative services, mac support experts, mac support near me, apple customer service, managed service provider, mac computers, it services, managed it services, helpdesk support, mac dc, new apple computer, mac support"
 thumbnail: /assets/images/banner/mac_msp.png
 image: /assets/images/banner/mac_msp.png
@@ -70,7 +70,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Mac desktop support for OS, software and hardware
+                Provides second and third level technical support to clients for technical issues related to all technology systems (computers, routers, switches, SaaS tools like O365, Google Workspace, and MDM’s like Kandji, Mosyle and more), and the online platforms they connect to.
               </p>
 
             </div>
@@ -80,7 +80,8 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                New Hire Setup and Support
+                Triage issues our clients have such as dealing with kernel panic, system crashes, data corruption repair, kernel level diagnostics, and more.
+
               </p>
 
             </div>
@@ -90,7 +91,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Employee training and support
+                Work alongside operational and technical roles within our clients ecosystem to assist them with issues they are experiencing in real time such as Desktop MFA, Single Sign on and more.
               </p>
 
             </div>
@@ -100,7 +101,8 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Manage multiple ticket queues
+                Troubleshoot and research issues to identify root causes
+
               </p>
 
             </div>
@@ -110,40 +112,8 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Google Apps / Office365 support and administration
-              </p>
+               Meet face-to-face (over ZOOM) to provide technical support when needed
 
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Printer support
-              </p>
-
-            </div>
-
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                MDM Troubleshooting *(JAMF Pro, SimpleMDM)
-              </p>
-
-            </div>
-
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Client network support and troubleshooting
               </p>
 
             </div>
@@ -154,28 +124,8 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Manage client IT vendors to ensure solutions to issues are being provided
-              </p>
+               Work nights and weekends as required.
 
-            </div>
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Write, maintain and implement systems documentation for incident responses and recurring issues
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Meet with clients on-site and troubleshoot issues remotely
               </p>
 
             </div>
@@ -186,7 +136,19 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Manage multiple schedules and help with sales presentations
+                Diagnose and troubleshoot incoming client help desk requests and calls
+
+              </p>
+
+            </div>
+
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Provide support services to clients with technical problems and information technology issues involving desktop, laptop or network services
               </p>
 
             </div>
@@ -197,7 +159,19 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Answer phones and generate client leads for which commissions are available
+                Provide timely resolution of problems or escalation on behalf of customer to appropriate technical personnel
+
+              </p>
+
+            </div>
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Provide assistance concerning the use of computer hardware and software, including printing, installation, word processing, e-mail, and operating systems
+
               </p>
 
             </div>
@@ -208,7 +182,57 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Other duties as assigned
+                Install and troubleshoot software including complex MDM enrollments, Multi Factor Authentication and Single Sign On solutions.
+
+              </p>
+
+            </div>
+
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Knowledgeable in software deployment via a variety of MDM’s in the macOS ecosystem.
+
+              </p>
+
+            </div>
+            
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Extremely knowledgeable with Helpline Ticketing Tools
+
+              </p>
+
+            </div>
+            
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Assist with new employee onboarding (hardware configuration, user accounts, training)
+
+              </p>
+
+            </div>
+            
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Other duties as assigned (See Roles & Responsibilities)
+
+
               </p>
 
             </div>

@@ -2,7 +2,7 @@
 layout: pricing
 title: "We're Hiring! - Grove Technologies is hiring"
 type: LocalBusiness
-description: "Grove Technologies is looking for a Sr Mac Technician & Team Lead to grow with our fun consulting agency. The ideal candidate knows how to help people, gets joy from finding solutions to tough problems, has a great work ethic and an amazing sense of humor. Sound like you?" 
+description: "Grove Technologies is looking for a Jr Mac Technician to grow with our fun consulting agency. The ideal candidate knows how to help people, gets joy from finding solutions to tough problems, has a great work ethic and an amazing sense of humor. Sound like you?" 
 keywords: "mac support dc, careers, it jobs, about grove technologies, grove technologies apple, creative services, mac support experts, mac support near me, apple customer service, managed service provider, mac computers, it services, managed it services, helpdesk support, mac dc, new apple computer, mac support"
 thumbnail: /assets/images/banner/mac_msp.png
 image: /assets/images/banner/mac_msp.png
@@ -22,9 +22,9 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 <div class="container flex flex-wrap px-4 mx-auto mb-24">
 
 
-<div class="w-full lg:w-1/2"><h2 class="pb-6 text-left font-semibold text-3xl">Team Lead & Cloud Sys Admin</h2>
-<p>Washington D.C. · Full time</p></div>
-<div class="w-full lg:w-1/2 text-center"><a class="inline-block lg:mt-0 mt-10 md:w-auto mb-2 md:mb-0 px-8 py-4 lg:mr-4 text-lg float-right font-medium leading-normal bg-green-500 text-white rounded transition duration-200 mr-0 w-full lg:w-1/2 text-center" href="https://jobs.gusto.com/postings/grove-technologies-team-lead-cloud-sys-admin-e1c9094c-70a8-4b52-ac69-5b412c569f5a" target="_blank">Apply Now</a></div>
+<div class="w-full lg:w-1/2"><h2 class="pb-6 text-left font-semibold text-3xl">Jr Mac Support Specialist</h2>
+<p>Washington D.C. · Full Time</p></div>
+<div class="w-full lg:w-1/2 text-center"><a class="inline-block lg:mt-0 mt-10 md:w-auto mb-2 md:mb-0 px-8 py-4 lg:mr-4 text-lg float-right font-medium leading-normal bg-green-500 text-white rounded transition duration-200 mr-0 w-full lg:w-1/2 text-center" href="https://jobs.gusto.com/postings/grove-technologies-jr-mac-support-specialist-a2d753bb-3784-49e5-b66f-98a27b1ce181" target="_blank">Apply Now</a></div>
 </div>
 <div class="container px-4 mx-auto">
 <div class="flex flex-wrap -mx-4 -mb-4 md:mb-0">
@@ -49,21 +49,18 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
             </h3>
 
             <!-- Text -->
-           <p class="mb-6 text-lg text-gray-500">
-			The Sr Mac Support Specialist's primary responsibilities will be to help support the IT Team in triaging all support requests. To be a point of escalation for all support requests for a wide range of issues from a wide range of clients. You’ll get the chance to hone your managerial skills to help Grove with challenges like resourcing, time management, and prioritization with the end goal of keeping our clients running and making sure they are satisfied with the solutions we implement for them. 
-			<br><br>
-			You use your can-do leadership and multitasking skills to drive projects to completion. Your love of helping others and whistle-while-you-work attitude bring smiles to others. You will be responsible for delivering and completing assigned projects, providing client-facing support whether it be for Cloud-Based Systems, System Engineering, Mac Engineering, Training or General Assistance.
-			<br><br>
-			While we know there is no perfect candidate for this position we are willing to invest time to ensure that we build out any gaps in skills that may be lacking. The ideal candidate will be a quick learner and be able to hit the ground running on day one. If you have additional IT experience, it will be considered favorably. 
-			<br><br>
-			Our ideal candidate is empathetic and someone who has the ability to listen to clients’ needs, learn their business and make targeted recommendations based on their business needs. Grove values customer service, with a focus on results. Grove defaults to transparency both internally and externally with our clients and we practice the radical candor approach to communication. Read more about our core values and what makes us such an amazing place to work <a href="/careers/">here</a>.  
-
+            <p class="mb-6 text-lg text-gray-500">
+               The Jr Mac Support Specialist’s primary responsibilities will be to triage all support requests, resolve issues as possible, and escalate issues as needed. You'll get the chance to flex your technical muscles daily by providing awesome customer support to our clients.
+				<br><br>
+			   Your love of helping others and whistle-while-you-work attitude brings smiles to others. You will be responsible for delivering and completing assigned projects, providing employee support whether it be for Mac, imaging, desk setups, training or general assistance.
+			  <br><br>
+				Our ideal candidate is empathetic and someone who has the ability to listen to clients’ needs, learn their business and make targeted recommendations based on their business needs. Grove values customer service, with a focus on results. Grove defaults to transparency both internally and externally with our clients and we practice the radical candor approach to communication. Read more about our core values and what makes us such an amazing place to work <a href="/careers/">here</a>.
             </p>
 
 
             <!-- Heading -->
             <h3 class="mb-6 text-xl font-semibold font-heading mt-6">
-              Leadership Responsibilities
+              Responsibilities
             </h3>
             
             <!-- List -->
@@ -73,8 +70,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Develop expertise to train staff on new technologies
-
+                Mac desktop support for OS, software and hardware
               </p>
 
             </div>
@@ -84,8 +80,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-               Manage the support team and help them troubleshoot and triage technical issues that they may be experiencing. 
-
+                New Hire Setup and Support
               </p>
 
             </div>
@@ -95,8 +90,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Ensure tickets and customers SLA’s are being met at all times. 
-
+                Employee training and support
               </p>
 
             </div>
@@ -106,8 +100,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Ensure that staff are properly resourced with the project management team. 
-
+                Manage multiple ticket queues
               </p>
 
             </div>
@@ -117,50 +110,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Help prepare and speak to our service offerings on pre-sales calls when needed in concert with the sales team. 
-
-              </p>
-
-            </div>
-            
-            
-            <!-- Heading -->
-            <h3 class="mb-6 text-xl font-semibold font-heading mt-6">
-              Systems & Network Administration Responsibilities (PC & Mac)
-            </h3>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-               Install and configure software and hardware
-
-              </p>
-
-            </div>
-
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Manage network servers and technology tools
-
-              </p>
-
-            </div>
-
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Troubleshoot network issues and network outages
-
+                Google Apps / Office365 support and administration
               </p>
 
             </div>
@@ -171,28 +121,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Ensure security through access controls, backups, and firewalls
-              </p>
-
-            </div>
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Administer and support Office 365 Azure and Exchange policies
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-                Participate in gathering and analysis of business requirements for software capabilities 
+                Printer support
               </p>
 
             </div>
@@ -203,7 +132,18 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Administer and support system backup and disaster recovery processes
+                MDM Troubleshooting *(JAMF Pro, SimpleMDM)
+              </p>
+
+            </div>
+
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Client network support and troubleshooting
               </p>
 
             </div>
@@ -214,23 +154,17 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Knowledgeable in software deployment via a wide variety of MDM tools like JAMF, Kandji, Mosyle etc..
+                Manage client IT vendors to ensure solutions to issues are being provided
               </p>
 
             </div>
-            
-             <!-- Heading -->
-            <h3 class="mb-6 text-xl font-semibold font-heading mt-6">
-              Core Responsibilities
-            </h3>
-            
             <div class="d-flex">
                 
               
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-               Set up accounts and workstations & Monitor performance and maintain systems according to requirements
+                Write, maintain and implement systems documentation for incident responses and recurring issues
               </p>
 
             </div>
@@ -241,7 +175,18 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-               Build an internal wiki with technical documentation, manuals, and IT policies
+                Meet with clients on-site and troubleshoot issues remotely
+              </p>
+
+            </div>
+
+            <div class="d-flex">
+                
+              
+              
+              <!-- Text -->
+              <p class="mb-2 text-lg text-gray-500 ml-3">
+                Manage multiple schedules and help with sales presentations
               </p>
 
             </div>
@@ -252,7 +197,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-               Upgrade systems with new releases and models
+                Answer phones and generate support tickets
               </p>
 
             </div>
@@ -263,75 +208,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-               Provides third-tier level technical support to clients for technical issues related to computers, online platforms, and cloud-based systems.
-
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-               Troubleshoot and resolve issues with user access to cloud services
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-               Provide AV, Teleconferencing, Video Conferencing, etc. technical assistance
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-               Maintain inventory of equipment and software licenses.
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-               Assist with new employee onboarding (hardware configuration, user accounts, training)
-
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-               Meet face-to-face to provide technical support when needed, Work nights and weekends as required.
-              </p>
-
-            </div>
-            
-            <div class="d-flex">
-                
-              
-              
-              <!-- Text -->
-              <p class="mb-2 text-lg text-gray-500 ml-3">
-              Other duties as assigned.
+                Other duties as assigned
               </p>
 
             </div>
@@ -348,7 +225,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Knowledge of DMARC, DKIM, IMAP and other constructs at the server level. 
+                Have 1 - 2 years Desktop Support experience
               </p>
 
             </div>
@@ -358,8 +235,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Knowledge of cybersecurity frameworks a plus (NIST, CMMC), Certifications not required, Grove will provide training and certification funding. 
-
+                Has a good understanding of networking for troubleshooting problems
               </p>
 
             </div>
@@ -370,7 +246,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Demonstrate the ability to administer cloud-based systems like O365, Azure, AWS, Google, Google Cloud, etc.. with ease and make recommendations in terms of DLP and other business-centric security or privacy settings.
+                Expertise in supporting current releases of MacOS, iOS, padOS
               </p>
 
             </div>
@@ -380,7 +256,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Demonstrate proven troubleshooting skills.
+                Has Excellent communication skills &amp; Problem analysis and resolution skills
               </p>
 
             </div>
@@ -391,8 +267,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Demonstrate ability to establish priorities, work independently and proceed with objectives without supervision.
-
+                Ability to show initiative to take on assignments of a more advanced nature
               </p>
 
             </div>
@@ -402,8 +277,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Demonstrate ability to develop/follow standard processes and complete documentation as needed.
-
+                Experience with the following technologies: Google Apps, Meraki MDM, Wifi, and Office365
               </p>
 
             </div>
@@ -413,8 +287,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Demonstrate ability to communicate well with clients, including clear explanations of complex technical issues.
-
+                Ability to prioritize and address multiple tasks in a dynamic work environment
               </p>
 
             </div>
@@ -512,7 +385,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
               
               <!-- Text -->
               <p class="mb-2 text-lg text-gray-500 ml-3">
-                Experience with PC management methodologies (Imaging, Patching, Management, etc..), with a proven ability to provide PC based desktop support as needed. 
+                Familiarity with technical language to be able to communicate effectively with our software development team and technology clients
               </p>
 
             </div>
@@ -533,7 +406,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
             </h3>
 
             <!-- Text -->
-            <p class="mb-6 text-lg text-gray-500">
+            <p class="mb-2 text-lg text-gray-500 mb-5">
               We’re more focused on deliverables than meetings. Everyone’s opinion is respected and all ideas are given equal consideration. It’s a culture of meaningful work by dedicated, hard-working individuals, but the environment is relaxed and creative too.
             </p>
             
@@ -607,5 +480,5 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 </section>
 
       
-{% include /reviews/review2.html %}
+{% include /reviews/review5.html %}
 {% include /forms/contact.html %}
