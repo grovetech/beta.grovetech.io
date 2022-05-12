@@ -94,7 +94,6 @@ iPhone or iPad, choose Preferences from the app's menu and turn on Touch
 Alternatives to map keys on the keyboard to device actions like tilting,
 tapping, and swiping. How well the Mac's input devices will work for
 controlling an iOS app will undoubtedly vary.
-
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220506Di/image6.png" class="img-fluid rounded m-2" width="700" />
 
 We're not going to pretend that being able to run iPhone and iPad apps
