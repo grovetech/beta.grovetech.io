@@ -4,8 +4,8 @@ date: '2022-05-18'
 author: Jon Brown
 permalink: /blog/don-t-miss-the-list-views-in-the-iphone-s-calendar-app/
 published: true
-title: Don-t Miss the List Views in the iPhone-s Calendar App
-description: Don-t Miss the List Views in the iPhone-s Calendar App
+title: "Don't Miss the List Views in the iPhone's Calendar App"
+description: "Don't Miss the List Views in the iPhone's Calendar App"
 blogimgpath: 20220506Do
 tags:
   - MacOS
