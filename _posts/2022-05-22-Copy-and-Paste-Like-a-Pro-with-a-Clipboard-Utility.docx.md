@@ -96,6 +96,7 @@ clipboards, filtering of clipboard contents when pasting, removal of
 styles from pasted text, and a user-specified hotkey for anything you
 want to do.
 
+
 Regardless of which of these utilities you choose, you'll soon be
 juggling the contents of your clipboard like a pro...and wasting a lot
 less time!
