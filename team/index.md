@@ -75,8 +75,8 @@ ogtype: page
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
-		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
-			<span class="text-white text-2xl">LB</span>
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36  mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center rounded-xl overflow-hidden">
+			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/lauren.jpg" alt="Lauren Bazely - Account Coordinator">
 			
 			
 			
@@ -312,7 +312,7 @@ ogtype: page
 	  <div class="p-6 border rounded-xl">
 		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36  mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center rounded-xl overflow-hidden">
-			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/JON-UKR.png" alt="Jon Brown - CEO & Founder">
+			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/jon.jpg" alt="Jon Brown - CEO & Founder">
 			
 			
 		  </div>
