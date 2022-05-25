@@ -1,8 +1,8 @@
 ---
 layout: pricing
-title: "Does your MSP lack certified Mac Experts?"
+title: "Does your MSP lack certified Mac Support Specialists?"
 type: LocalBusiness
-description: "We are a team of Mac Experts providing Mac Support for DC, MD  VA. If you need high quality MacOS or iOS support for your business or team give us a call!" 
+description: "We are a team of Mac Support Specialists providing Mac Support for DC, MD  VA. If you need high quality MacOS or iOS support for your business or team give us a call!" 
 keywords: "mac support team, mac support team dc, grove technologies support team, grove technologies team, zoom certified, outstanding customer experience, company hiring grove, dod civilian companies, zoom certified implementation, technician dedicated providing, certified implementation specialist, implementation specialist apple, specialist apple certified, apple certified technical, certified technical coordinator, expert supporting macs, supporting macs enterprise, macs enterprise speciality"
 thumbnail: /assets/images/banner/mac_msp.png
 image: /assets/images/banner/mac_msp.png
@@ -127,7 +127,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Mat DelloRusso</h3>
-			<p class="mb-6 text-gray-500">Mac Expert</p>
+			<p class="mb-6 text-gray-500">Mac Support Specialist</p>
 			<p class="text-gray-500">Mat, a prior Helpdesk trained Support Technician, is dedicated to providing great Mac Support and a outstanding customer experience.</p>
 		  	<p class="mt-0"></p>
 		  </div>
@@ -171,7 +171,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Nikki Lewis</h3>
-			<p class="mb-6 text-gray-500">Mac Expert</p>
+			<p class="mb-6 text-gray-500">Mac Support Specialist</p>
 			<p class="text-gray-500">Nikki, a prior Apple trained Support Technician, is committed to providing exceptional Mac Support and exceptional customer service.</p>
 		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Google</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">Jumpcloud Core</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase">1Password</span>  <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Mosyle Administrator</span></p>
 		  </div>
@@ -179,6 +179,27 @@ ogtype: page
 	  </div>
 	</div>
 
+
+	<div class="w-full lg:w-1/2 p-3">
+	  <div class="p-6 border rounded-xl">
+		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
+		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36 px-5 mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-orange-500 flex items-center justify-center">
+			<span class="text-white text-2xl">NS</span>
+			
+			
+			
+			
+		  </div>
+		  <div class="w-full lg:w-2/3 px-5">
+			<h3 class="text-2xl font-semibold font-heading mb-1">Natalie Simmons</h3>
+			<p class="mb-6 text-gray-500">Jr Mac Support Specialist</p>
+			<p class="text-gray-500">Natalie, a prior Apple trained Technician, is dedicated to providing outstanding Mac support and exceptional customer service.</p>
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
+	
 	<div class="w-full lg:w-1/2 p-3">
 	  <div class="p-6 border rounded-xl">
 		<div class="flex -mx-5 flex-wrap lg:flex-nowrap">
@@ -191,7 +212,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Chad Gordon</h3>
-			<p class="mb-6 text-gray-500">AV & Mac Expert</p>
+			<p class="mb-6 text-gray-500">AV & Mac Support Specialist</p>
 			<p class="text-gray-500">Chad is our in house ZOOM certified implementation specialist as well as Apple certified technical coordinator and support professional.</p>
 		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">ZOOM Certified</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Apple Deployment & Management</span></p>
 		  </div>
@@ -210,7 +231,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Chris Sanborn</h3>
-			<p class="mb-6 text-gray-500">Mac Expert</p>
+			<p class="mb-6 text-gray-500">Mac Support Specialist</p>
 			<p class="text-gray-500">Chris helps support the needs of our enterprise customers and small business clients.</p>
 		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">JAMF Certified Admin</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Jamf Certified Tech</span>   <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">Mosyle Administrator</span></p>
 		  </div>
