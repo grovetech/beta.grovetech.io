@@ -24,7 +24,7 @@ cover: "/assets/images/services/careers/annie-spratt-vGgn0xLdy8s-unsplash.jpg"
 
 <div class="w-full lg:w-1/2"><h2 class="pb-6 text-left font-semibold text-3xl">Certified Ethical Hacker</h2>
 <p>Washington D.C. · Part Time / Contract</p></div>
-<div class="w-full lg:w-1/2 text-center"><a class="inline-block lg:mt-0 mt-10 md:w-auto mb-2 md:mb-0 px-8 py-4 lg:mr-4 text-lg float-right font-medium leading-normal bg-green-500 text-white rounded transition duration-200 mr-0 w-full lg:w-1/2 text-center" href="#" target="_blank">Apply Now</a></div>
+<div class="w-full lg:w-1/2 text-center"><a class="inline-block lg:mt-0 mt-10 md:w-auto mb-2 md:mb-0 px-8 py-4 lg:mr-4 text-lg float-right font-medium leading-normal bg-green-500 text-white rounded transition duration-200 mr-0 w-full lg:w-1/2 text-center" href="https://grovetech.co/careers/apply/" target="_blank">Apply Now</a></div>
 </div>
 <div class="container px-4 mx-auto">
 <div class="flex flex-wrap -mx-4 -mb-4 md:mb-0">

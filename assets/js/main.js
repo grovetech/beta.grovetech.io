@@ -55,6 +55,13 @@ var phoneNum = document.getElementById("contact_phone");
 		});
     }
     
+var phoneNumApply = document.getElementById("apply_phone");
+    if(phoneNumApply){
+        document.getElementById('apply_phone').addEventListener('input', function (e) {
+		  var x = e.target.value.replace(/\D/g, '').match(/(\d{0,3})(\d{0,3})(\d{0,4})/);
+		  e.target.value = !x[2] ? x[1] : '(' + x[1] + ') ' + x[2] + (x[3] ? '-' + x[3] : '');
+		});
+    }
     
 
 var formCONTACT = document.getElementById("form-contact");
@@ -82,6 +89,30 @@ var formCONTACT = document.getElementById("form-contact");
 			form_contact.addEventListener("submit", handleSubmit)
     }
     
+var formAPPLY = document.getElementById("form-apply");
+    if(formAPPLY){
+		var form_apply = document.getElementById("form-apply");
+
+		async function handleSubmit(event) {
+			  event.preventDefault();
+			  var status = document.getElementById("response-message-apply");
+			  var data = new FormData(event.target);
+			  fetch(event.target.action, {
+				method: form_apply.method,
+				body: data,
+				headers: {
+					'Accept': 'application/json'
+				}
+			  }).then(response => {
+			    
+				status.innerHTML = "<div class=\"section-heading text-center mt-10 mb-10\"><h2>Thank you for applying to Grove Technologies!</h2><p>Your message has been sent, we will reply back to your message you as soon as possible. If this is an emergency please call 888-253-9103.</p></div>";
+				form_apply.reset();
+			  }).catch(error => {
+				status.innerHTML = "There was a problem submitting your form";
+			  });
+			}
+			form_apply.addEventListener("submit", handleSubmit)
+    }
       
 var priceToggle = document.getElementById("toggle");
 if(priceToggle){
