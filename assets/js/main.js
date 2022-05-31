@@ -92,7 +92,7 @@ var formCONTACT = document.getElementById("form-contact");
 var formAPPLY = document.getElementById("form-apply");
     if(formAPPLY){
 		var form_apply = document.getElementById("form-apply");
-
+		tinyMCE.triggerSave();
 		async function handleSubmit(event) {
 			  event.preventDefault();
 			  var status = document.getElementById("response-message-apply");

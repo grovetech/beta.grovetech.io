@@ -1,9 +1,36 @@
-<section class="">
+<section>
 <div class="container">
+
+<script src="https://cdn.tiny.cloud/1/ni1a8l909b7g1bkoo11i6v23x9rfia6fvgzmf3d4at5j30gd/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+ <script>
+      tinymce.init({
+        selector: '.application',
+        setup: function (editor) {
+        	var max = 200;
+			editor.on('submit', function(event) {
+			  var numChars = tinymce.activeEditor.plugins.wordcount.body.getCharacterCount();
+				  if (numChars > max) {
+					alert("Maximum " + max + " characters allowed.");
+					event.preventDefault();
+					return false;
+				  }
+			  });
+			editor.on('change', function () {
+				editor.save();
+			});
+    	},
+        width : "100%",
+		menubar: false,
+		toolbar_mode: 'wrap',
+		plugins: 'wordcount a11ychecker advcode casechange export formatpainter image editimage linkchecker autolink lists checklist media mediaembed pageembed permanentpen powerpaste table advtable tableofcontents tinymcespellchecker',
+		toolbar: 'wordcount | undo redo | styleselect | forecolor | bold italic | alignleft aligncenter alignright alignjustify | outdent indent | numlist bullist | link image editimage | code | pageembed permanentpen table tableofcontents'
+		  });
+    </script>
+
 
 	
 	<div class="w-full">
-	  <form action="https://formspree.io/f/xeqnvwln" method="POST" id="form-apply" name="form-apply" enctype="multipart/form-data">
+	  <form action="https://formspree.io/f/xeqnvwln" method="POST" id="form-apply" name="form-apply">
 		<div class="relative flex flex-wrap mb-6">
 		  <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="text" placeholder="Full Name" name="Apply[name]" id="apply_name" required><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Full Name</span>
 		</div>
@@ -27,7 +54,7 @@
 		<div class="relative flex flex-wrap mb-6">
 			<fieldset id="fs-frm-selects" class="flex w-full">
 		  
-		  <select name="job_name" id="job_name" required="" class="block appearance-none relative mb-2 md:mb-0 flex w-full py-4 pl-4 text-sm border rounded resize-none border-green-500 focus:outline-none focus:ring focus:border-blue-300">
+		  <select name="Apply[job_name]" id="job_name" required="" class="block appearance-none relative mb-2 md:mb-0 flex w-full py-4 pl-4 text-sm border rounded resize-none border-green-500 focus:outline-none focus:ring focus:border-blue-300">
 			<option class="block w-full" value="" selected="" disabled="">What job are you applying for?</option>
 			<option class="block w-full" value="Jr Mac Support Specialist">Jr Mac Support Specialist</option>
 			<option class="block w-full" value="Mac Support Specialist">Mac Support Specialist</option>
@@ -41,37 +68,19 @@
                     </div>
 		</fieldset>
 		</div>
+		
 		<div class="relative flex flex-wrap mb-6">
-		  <textarea required class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded resize-none border-green-500 focus:outline-none focus:ring focus:border-blue-300" id="1" type="message" cols="30" rows="10" placeholder="What challenges are you facing?" name="Apply[message]" id="apply_message" required></textarea><span class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Cover Letter</span>
+		  <textarea class="relative application mb-2 md:mb-0 w-full py-4 pl-4 text-sm w-full border rounded resize-none border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="message" cols="30" rows="10" placeholder="Type your Cover Letter here." name="Apply[coverletter]" id="apply_coverletter"></textarea><span class="text-gray-500 text-xs">Cover Letter</span>
+		</div>
+
+
+
+		<div class="relative flex flex-wrap mb-6">
+		  <textarea class="relative application mb-2 md:mb-0 w-full py-4 pl-4 text-sm w-full border rounded resize-none border-green-500 focus:outline-none focus:ring focus:border-blue-300" type="message" cols="30" rows="10" placeholder="Type your Resume here." name="Apply[resume]" id="apply_resume"></textarea><span class="text-gray-500 text-xs">Resume</span>
 		  <input type="text" name="_gotcha" style="display:none">
 		</div>
-		
-		<div class="relative flex flex-wrap mb-6">
-		
-		<div class="flex justify-center">
-  <div class="mb-3 w-96">
-    <label for="formFileLg" class="form-label inline-block mb-2 text-gray-700">Upload Resume</label>
-    <input class="form-control
-    block
-    w-full
-    px-2
-    py-1.5
-    text-xl
-    font-normal
-    text-gray-700
-    bg-white bg-clip-padding
-    border border-solid border-gray-300
-    rounded
-    transition
-    ease-in-out
-    m-0
-    focus:text-gray-700 focus:bg-white focus:border-green-500 focus:outline-none" id="formFileLg" type="file" required>
-  </div>
-</div>
 
 
-
-		</div>
 		
 		
 	    <div class="relative flex flex-wrap mb-6">
