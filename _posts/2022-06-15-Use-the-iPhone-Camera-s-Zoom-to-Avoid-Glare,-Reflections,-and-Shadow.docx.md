@@ -28,4 +28,6 @@ photographing and use your iPhone's zoom feature to enlarge the document
 or screen. The extra distance often lets you adjust the angle and
 positioning to prevent glare, shadows, and reflection.
 
+
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220603Us/image2.jpeg" class="img-fluid rounded m-2" width="700" />
