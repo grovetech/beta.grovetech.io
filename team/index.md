@@ -260,7 +260,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Michael Tedesco</h3>
-			<p class="mb-6 text-gray-500">CISO, CISSP,  <a class="underline" href="https://portal.cmmcab.org/marketplace/michael-tedesco/" rel="noreferrer" target="_blank">CMMC RP</a></p>
+			<p class="mb-6 text-gray-500">CISO, CISSP,  <a class="underline" href="https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Michael%20Tedesco" rel="noreferrer" target="_blank">CMMC RP</a></p>
 			<p class="text-gray-500">With a background in the US Coast Guard, Michael helps the needs of our Government companies stay within the boundaries of compliance.</p>
 		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">CMMC RP</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">(ISC)² CISSP</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">CompTIA Security+</span></p>
 
@@ -276,7 +276,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Victoria Arkhurst</h3>
-			<p class="mb-6 text-gray-500">CISO, <a class="underline" href="https://portal.cmmcab.org/marketplace/victoria-arkhurst/" rel="noreferrer" target="_blank">CMMC RP</a>, CISSP, CDPSE, CISA</p>
+			<p class="mb-6 text-gray-500">CISO, <a class="underline" href="https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Victoria%20Arkhurst" rel="noreferrer" target="_blank">CMMC RP</a>, CISSP, CDPSE, CISA</p>
 			<p class="text-gray-500">Victoria Arkhurst, a vCISO and managing partner of IRM Consulting & Advisory, is partnering with us to provide amazing vCISO services.</p>
    		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">CMMC RP</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">(ISC)² CISSP</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">CDPSE</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">CISA</span></p>
 
@@ -308,7 +308,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Ingrum Jefferson</h3>
-			<p class="mb-6 text-gray-500">CISO, CEH, <a class="underline" href="https://cmmcab.org/marketplace/ingrum-jefferson/" rel="noreferrer" target="_blank">CMMC RP</a></p>
+			<p class="mb-6 text-gray-500">CISO, CEH, <a class="underline" href="https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Ingrum%20Jefferson" rel="noreferrer" target="_blank">CMMC RP</a></p>
 			<p class="text-gray-500">With over 20+ years of experience, he holds a Masters in Cybersecurity as well as certifications including Certified Ethical Hacker and FEMA OT.</p>
    		  	<p class="mt-2"><span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">CMMC RP</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">CEH</span> <span class="text-xs text-white px-2 py-1 font-semibold bg-gray-600 bg-opacity-50 rounded-md uppercase whitespace-nowrap">FEMA OT</span></p>
 		  
@@ -339,7 +339,7 @@ ogtype: page
 		  </div>
 		  <div class="w-full lg:w-2/3 px-5">
 			<h3 class="text-2xl font-semibold font-heading mb-1">Jon Brown</h3>
-			<p class="mb-6 text-gray-500">CEO & Founder, <a class="underline" href="https://portal.cmmcab.org/marketplace/jonathan-brown/" rel="noreferrer" target="_blank">CMMC RP</a></p>
+			<p class="mb-6 text-gray-500">CEO & Founder, <a class="underline" href="https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Jonathan%20Brown" rel="noreferrer" target="_blank">CMMC RP</a></p>
 			<p class="text-gray-500">Jon is a charismatic leader, entrepreneur, teacher & mentor who helps businesses take their Mac, Cybersecurity & Networks to the next level.</p>
 
 		  </div>

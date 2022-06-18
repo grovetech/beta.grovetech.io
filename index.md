@@ -87,7 +87,7 @@ ogtype: page
 			<img class="" src="{{ site.site_url }}/assets/images/services/security/cmmc-rpo.png" alt="Grove Technologies CMMC RPO">
 			
 			</span>
-		  <h3 class="mb-6 text-2xl font-semibold"><a class="underline" href="https://portal.cmmcab.org/marketplace/grove-technologies-rpo/" rel="noreferrer" target="_blank">CMMC RPO</a></h3>
+		  <h3 class="mb-6 text-2xl font-semibold"><a class="underline" href="https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Grove%20Technologies" rel="noreferrer" target="_blank">CMMC RPO</a></h3>
 		  <p class="mb-8 text-gray-500">Grove Technologies is the only DC, Mac based MSP listed on the GSA Schedule &amp; a CMMC RPO. We have helped hundreds of companies in the private sector and now we are poised to help you.</p>
 		  <a class="ml-auto flex items-center justify-center w-14 h-14 rounded-full bg-gray-100 text-gray-500" href="{{ site.site_url }}/products/security/cmmc/" aria-label="CMMC Services">
 			<svg width="19" height="13" viewbox="0 0 19 13" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.7 6.7487L0.75 6.7487" stroke="#838EA4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M9.7002 11.7497L17.6372 6.7487L9.7002 1.7477V11.7497Z" stroke="#838EA4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></a>

@@ -36,7 +36,7 @@ Grove Technologies also developed a proprietary programmatic tool that accounts 
 
 About Grove Technologies Inc (CMMC RPO)
 
-Grove Technologies is a highly credentialed and experienced cybersecurity firm providing award-winning cybersecurity and regulatory compliance services to a wide range of organizations. Respected for developing innovative solutions for federal, state, and local clients, Grove Technologies is the winner of the MSP501 raking #17 nationwide. To learn more, visit [https://grovetech.co/products/security/cmmc/](https://grovetech.co/products/security/cmmc/). To access Grove Technologies through the CMMC Marketplace, visit [https://portal.cmmcab.org/marketplace/grove-technologies-rpo/](https://portal.cmmcab.org/marketplace/grove-technologies-rpo/).
+Grove Technologies is a highly credentialed and experienced cybersecurity firm providing award-winning cybersecurity and regulatory compliance services to a wide range of organizations. Respected for developing innovative solutions for federal, state, and local clients, Grove Technologies is the winner of the MSP501 raking #17 nationwide. To learn more, visit [https://grovetech.co/products/security/cmmc/](https://grovetech.co/products/security/cmmc/). To access Grove Technologies through the CMMC Marketplace, visit [https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Grove%20Technologies](https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Grove%20Technologies).
 
 Press Contact:
 

@@ -26,7 +26,7 @@ ogtype: page
 	<span class="text-green-500 font-semibold">CMMC Consulting Services</span>
 	<h2 class="mt-8 mb-6 lg:mb-10 text-4xl font-semibold">CMMC Compliance Consulting built for Everyone.</h2>
 	<p class="text-xl text-gray-500">Cybersecurity Maturity Model Certification (CMMC) is now required of all contractors and subcontractors of the Federal Government that store, processes, or transmits Federal Contract Information (FCI) or CDI must adhere to this new compliance framework.</p>
-	<a class="relative z-10 inline-block w-full md:w-auto mb-2 md:mb-0 py-4 px-8 mr-4 text-xl font-medium leading-normal text-white rounded transition duration-200 bg-green-500 mt-5" href="https://portal.cmmcab.org/marketplace/grove-technologies-rpo/" rel="noreferrer" target="_blank">Verify Our CMMC RPO Status</a>
+	<a class="relative z-10 inline-block w-full md:w-auto mb-2 md:mb-0 py-4 px-8 mr-4 text-xl font-medium leading-normal text-white rounded transition duration-200 bg-green-500 mt-5" href="https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Grove%20Technologies" rel="noreferrer" target="_blank">Verify Our CMMC RPO Status</a>
   </div>
   <div class="max-w-4xl mx-auto">
 	<img class="rounded-lg" src="{{ site.site_url }}/assets/images/services/government/Department-of-Defense-CMMC.jpg" alt="CMMC Consulting Services at Grove">
