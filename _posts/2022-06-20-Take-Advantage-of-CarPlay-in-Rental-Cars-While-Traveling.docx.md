@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2022-06-21'
+date: '2022-06-20'
 author: Jon Brown
 permalink: /blog/take-advantage-of-carplay-in-rental-cars-while-traveling/
 published: true
