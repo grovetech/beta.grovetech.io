@@ -28,5 +28,7 @@ immediately press Command-Z to revert to the hash mark. We can't
 guarantee this will work in all situations, but it's generally
 effective.
 
+
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220603Ho/image2.png" class="img-fluid rounded m-2" width="700" />
 
