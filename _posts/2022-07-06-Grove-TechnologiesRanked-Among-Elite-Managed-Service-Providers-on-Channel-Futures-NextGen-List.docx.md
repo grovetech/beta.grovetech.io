@@ -13,15 +13,15 @@ tags:
 categories:
   - tips
   - "Press Releases"
-image: /assets/images/covers/2022/
-thumbnail: /assets/images/covers/2022/
+image: /assets/images/covers/2022/NextGen101-2022-Winner-Grove-Tech-scaled.jpg
+thumbnail: /assets/images/covers/2022/NextGen101-2022-Winner-Grove-Tech-scaled.jpg
 cta: 3
 comments: true
 ---
 **Grove Technologies** has been named as one of the world's premier
 managed service providers on the [[prestigious Channel Futures 2022
 NextGen 101
-rankings]{.underline}](https://www.channelfutures.com/msp-501/2022-channel-futures-nextgen-101-winners-part-2-50-1).
+rankings](https://www.channelfutures.com/msp-501/2022-channel-futures-nextgen-101-winners-part-2-50-1).
 
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220706Gr/image2.png" class="img-fluid rounded m-2" width="700" />
 
