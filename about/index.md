@@ -67,21 +67,25 @@ ogtype: page
 <section class="py-20 lg:mb-0">
 <div class="container px-4 mx-auto">
   <div class="flex flex-wrap items-center -mx-4 -mb-8">
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h3 class="mb-6 text-4xl font-semibold font-heading">2014</h3>
-	  <p class="text-xl text-gray-500">Grove is Founded.</p>
+	  <p class="text-md text-gray-500">Grove is Founded.</p>
 	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h3 class="mb-6 text-4xl font-semibold font-heading">2018</h3>
-	  <p class="text-xl text-gray-500">Cybersecurity Focus.</p>
+	  <p class="text-md text-gray-500">Cybersecurity Focus.</p>
 	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h3 class="mb-6 text-4xl font-semibold font-heading">2020</h3>
-	  <p class="text-xl text-gray-500">MSP 501 Ranked #17.</p>
+	  <p class="text-md text-gray-500">MSP 501 Ranked #17.</p>
 	</div>
-	<div class="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 text-center">
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
 	  <h3 class="mb-6 text-4xl font-semibold font-heading">2021</h3>
-	  <p class="text-xl text-gray-500">NextGen 101 Ranked #6.</p>
+	  <p class="text-md text-gray-500">NextGen 101 Ranked #6.</p>
+	</div>
+	<div class="w-full md:w-1/2 lg:w-1/5 px-4 mb-8 text-center">
+	  <h3 class="mb-6 text-4xl font-semibold font-heading">2022</h3>
+	  <p class="text-md text-gray-500">NextGen 101 Ranked #3.</p>
 	</div>
   </div>
 </div>

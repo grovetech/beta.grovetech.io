@@ -2,10 +2,10 @@
 layout: post
 date: '2022-07-06'
 author: Jon Brown
-permalink: /blog/grove-technologiesranked-among-elite-managed-service-providers-on-channel-futures-nextgen-list/
+permalink: /blog/grove-technologies-ranked-among-elite-managed-service-providers-on-channel-futures-nextgen-list/
 published: true
-title: Grove TechnologiesRanked Among Elite Managed Service Providers on Channel Futures NextGen List
-description: Grove TechnologiesRanked Among Elite Managed Service Providers on Channel Futures NextGen List
+title: Grove Technologies Ranked Among Elite Managed Service Providers on Channel Futures NextGen List
+description: Grove Technologies Ranked Among Elite Managed Service Providers on Channel Futures NextGen List
 blogimgpath: 20220706Gr
 tags:
   - MacOS
@@ -19,7 +19,7 @@ cta: 3
 comments: true
 ---
 **Grove Technologies** has been named as one of the world's premier
-managed service providers on the [[prestigious Channel Futures 2022
+managed service providers on the [prestigious Channel Futures 2022
 NextGen 101
 rankings](https://www.channelfutures.com/msp-501/2022-channel-futures-nextgen-101-winners-part-2-50-1).
 
