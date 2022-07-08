@@ -26,4 +26,6 @@ Apple added a clever trick for finding the pointer to macOS---quickly
 slide your finger or shake your mouse back and forth horizontally a few
 times to enlarge the pointer briefly.
 
+
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220706Do/image2.png" class="img-fluid rounded m-2" width="700" />
