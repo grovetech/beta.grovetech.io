@@ -32,5 +32,7 @@ have configured it to your phone number. Precisely where the SIM card
 slot is on your iPhone varies a bit by model; Apple provides [full
 instructions](https://support.apple.com/en-us/HT201337).
 
+
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220706No/image2.png" class="img-fluid rounded m-2" width="700" />
 
