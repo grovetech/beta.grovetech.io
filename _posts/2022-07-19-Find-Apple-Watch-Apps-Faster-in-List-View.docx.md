@@ -26,5 +26,7 @@ an alphabetically sorted, scrolling list of all your apps. From then on,
 it's easy to press the Digital Crown to show the apps, turn it to
 scroll, and tap an app to launch it.
 
+
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220706Fi/image2.jpeg" class="img-fluid rounded m-2" width="700" />
 
