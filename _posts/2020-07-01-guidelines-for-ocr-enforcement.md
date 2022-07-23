@@ -31,7 +31,7 @@ IMPORTANT: Penalties will only  not be imposed for telehealth  related items. Pe
 
 Read more in this free attached E-Book below. 
 
-<embed src="{{site.site_cdn_}}/assets/img/attachments/Guidelines-for-OCR-Enforcement-Discretion-for-Telehealth-Remote-Communications.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
+<embed src="{{site.site_cdn_}}/assets/images/attachments/Guidelines-for-OCR-Enforcement-Discretion-for-Telehealth-Remote-Communications.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
 
 <a href="https://drive.google.com/file/d/1hpWNsDYyFx-Byv-aBPzPaz3q5OKbFH2E/view?usp=sharing" class="btn btn-primary d-block w-100 lead" style="color: white !important; font-weight: bold !important; text-decoration: none !important;">Download the PDF version here. </a>
 

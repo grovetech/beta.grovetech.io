@@ -271,4 +271,4 @@ Here you can see that while we have added the logo to Munki Report’s login scr
 
 Slides available for download [here](/assets/img/section/branding-munki.pdf).
 
-<embed src="/assets/img/section/branding-munki.pdf" width="100%" height="620px" class="d-none d-sm-block" type='application/pdf'/>
+<embed src="/assets/images/section/branding-munki.pdf" width="100%" height="620px" class="d-none d-sm-block" type='application/pdf'/>

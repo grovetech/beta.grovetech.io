@@ -34,7 +34,7 @@ Working remote has many benefits but also creates many cybersecurity risks. Here
 Looking for more tips or guidance on how to safely work from home? Contact US! Read more below and share if you found this useful!
 
 
-<embed src="{{site.site_cdn_}}/assets/img/attachments/Working-Securely-Tips.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
+<embed src="{{site.site_cdn_}}/assets/images/attachments/Working-Securely-Tips.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
 
 <a href="https://drive.google.com/file/d/1hpE5P8vPzrbL9iZqFHuOcW3VA_rcZ7s4/view?usp=sharing" class="btn btn-primary d-block w-100 lead" style="color: white !important; font-weight: bold !important; text-decoration: none !important;">Download the PDF version here. </a>
 

@@ -23,7 +23,7 @@ And so we believe that by raising awareness of these vulnerabilities and educati
 
 So without further ado, here are 31 cybersecurity tips for businesses to protect themselves.
 
-<embed src="{{site.site_cdn_}}/assets/img/attachments/Cybersecurity-Awareness-Tips.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
+<embed src="{{site.site_cdn_}}/assets/images/attachments/Cybersecurity-Awareness-Tips.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
 
 <a href="https://drive.google.com/file/d/1hw2dH5O-04dsfIEOBb2kZO9IqcQpvNvB/view?usp=sharing" class="btn btn-primary d-block w-100 lead" style="color: white !important; font-weight: bold !important; text-decoration: none !important;">Download the PDF version here. </a>
 

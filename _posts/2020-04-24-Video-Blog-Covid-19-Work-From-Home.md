@@ -33,7 +33,7 @@ Along with that we have come out with several new guides to keep your team safe 
 
 <a href="https://drive.google.com/file/d/1hzTIFQX0pVBtoo9wc4Xt0WAKbboAdTOK/view?usp=sharing" class="btn btn-primary d-block w-100 lead" style="color: white !important; font-weight: bold !important; text-decoration: none !important;">Download the PDF version here. </a>
 
-<embed src="{{site.site_cdn_}}/assets/img/attachments/Employee-WFH-Checklist-Grove-Technologies.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
+<embed src="{{site.site_cdn_}}/assets/images/attachments/Employee-WFH-Checklist-Grove-Technologies.pdf" width="650" height="620" type='application/pdf' class="d-none d-sm-block mb-10" />
 
 <a href="https://drive.google.com/file/d/1hs4iVQrlEeng5USxlsfuBMjb_TEUwGBe/view?usp=sharing" class="btn btn-primary d-block w-100 lead" style="color: white !important; font-weight: bold !important; text-decoration: none !important;">Download the PDF version here. </a>
 

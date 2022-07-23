@@ -123,3 +123,4 @@ window vertically or horizontally by dragging any edge or corner.
 Now that we've looked into the heart of the color picker to provide you
 with more knowledge, we hope you'll find the courage to use colors more
 confidently in your everyday Mac work!
+

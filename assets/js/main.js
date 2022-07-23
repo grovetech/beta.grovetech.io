@@ -144,8 +144,6 @@ var Pushwoosh = Pushwoosh || [];
 }]);
 
 
-
-
 // Listen for click on the document
 document.addEventListener('click', function (event) {
   
