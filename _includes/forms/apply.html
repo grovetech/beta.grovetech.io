@@ -1,33 +1,6 @@
 <section>
 <div class="container">
 
-<script src="https://cdn.tiny.cloud/1/ni1a8l909b7g1bkoo11i6v23x9rfia6fvgzmf3d4at5j30gd/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
- <script>
-      tinymce.init({
-        selector: '.application',
-        setup: function (editor) {
-        	var max = 200;
-			editor.on('submit', function(event) {
-			  var numChars = tinymce.activeEditor.plugins.wordcount.body.getCharacterCount();
-				  if (numChars > max) {
-					alert("Maximum " + max + " characters allowed.");
-					event.preventDefault();
-					return false;
-				  }
-			  });
-			editor.on('change', function () {
-				editor.save();
-			});
-    	},
-        width : "100%",
-		menubar: false,
-		toolbar_mode: 'wrap',
-		plugins: 'wordcount a11ychecker advcode casechange export formatpainter image editimage linkchecker autolink lists checklist media mediaembed pageembed permanentpen powerpaste table advtable tableofcontents tinymcespellchecker',
-		toolbar: 'wordcount | undo redo | styleselect | forecolor | bold italic | alignleft aligncenter alignright alignjustify | outdent indent | numlist bullist | link image editimage | code | pageembed permanentpen table tableofcontents'
-		  });
-    </script>
-
-
 	
 	<div class="w-full">
 	  <form action="https://formspree.io/f/xeqnvwln" method="POST" id="form-apply" name="form-apply">
@@ -93,3 +66,20 @@
 
 </div>
 </section>
+
+
+
+<script>
+const apply_resume = SUNEDITOR.create('apply_resume');
+const apply_coverletter = SUNEDITOR.create('apply_coverletter');
+
+apply_resume.onChange = (contents, core) => {
+apply_resume.save();
+}
+
+apply_coverletter.onChange = (contents, core) => {
+apply_coverletter.save();
+}
+
+
+</script>
