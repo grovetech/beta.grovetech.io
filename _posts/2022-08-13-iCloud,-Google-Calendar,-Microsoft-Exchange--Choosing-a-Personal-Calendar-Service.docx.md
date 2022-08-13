@@ -99,6 +99,7 @@ email address. Then adjust the permissions as desired.
 
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20220809iC/image4.png" class="img-fluid rounded m-2" width="700" />
 
+
 There are too many variables to get into the details of subscribing to
 shared calendars in [Google
 Calendar](https://support.google.com/calendar/answer/37100?hl=en&ref_topic=10510447)
