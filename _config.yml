@@ -53,7 +53,7 @@ avatar:
 site_url:           https://grovetech.co/
 base_href:          https://grovetech.co/
 site_cdn:           https://grovetech.co/
-#baseurl:             /site
+baseurl:             /site
 #map_token:          eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjlDQTZRU05UOEYifQ.eyJpc3MiOiIyRDRaN1dRN1JTIiwiaWF0IjoxNjM1MDkxNDAyLCJleHAiOjE2NjY1Njk2MDAsIm9yaWdpbiI6Imh0dHBzOi8vZ3JvdmV0ZWNoLmNvLyJ9.0v3q5-ccwgh8_fhyCmwW-ge9IMZwfccQuhYzshCz13RGh-J5HA4WW0seJOZlgcfeCL3dW68J7WH3jevt-E7odg
 
 production:          true

@@ -8,7 +8,7 @@ thumbnail: /assets/images/banner/mac_msp.png
 image: /assets/images/banner/mac_msp.png
 navsmheader: "Culture, Tools, Expertise & More"
 navheader: "🔒 Security at 🏛️ Grove Technologies"
-navpar: "Grove restores trust in small to enterprise businesses by enabling companies to prove and improve their security and compliance posture to their customers, prospects, and partners."
+navpar: "Privacy means people know what they’re signing up for, in plain English, and repeatedly. That’s what it means. I’m an optimist, I believe people are smart. And some people want to share more data than other people do. Ask them. Ask them every time. -- Steve Jobs"
 navbutt1: "Cybersecurity Services"
 navbutt1link: "products/ciso/"
 navbutt2: "About Us"
@@ -44,7 +44,7 @@ ogtype: page
 		</div>
 		<div class="max-w-2xl">
 		  <h3 class="mb-6 text-2xl font-semibold font-heading">Application Security</h3>
-		  <p class="text-xl text-gray-500">Grove employs and engages some of the industry’s best application security experts for third-party penetration tests. Our penetration testers evaluate the source code, running application, and the deployed environment. Grove also uses high-quality static analysis tooling provided by GitHub Advanced Security such as CodeQL, Secrets Scanner, and Dependabot to secure our product at every step of the development process.</p>
+		  <p class="text-xl text-gray-500">Grove employs and engages some of the industry’s best application security experts for third-party penetration tests. Our penetration testers evaluate the source code, running application, and the deployed environment. Grove also uses high-quality static analysis tooling provided by GitHub Advanced Security such as Dependabot. We also use Synk, Intruder, Datadog and FireHydrant to secure our product at every step of the development process.</p>
 		</div>
 	  </div>
 	  <div class="flex items-start">
@@ -55,7 +55,7 @@ ogtype: page
 		</div>
 		<div class="max-w-2xl">
 		  <h3 class="mb-6 text-2xl font-semibold font-heading">Infrastructure Security</h3>
-		  <p class="text-xl text-gray-500">Grove uses Amazon Web Services to host our application. We make full use of the security products embedded within the AWS ecosystem, including KMS, GuardDuty, and Inspector. In addition, we deploy our application using containers run on AWS managed services, meaning we typically do not manage servers or EC2 instances in production.</p>
+		  <p class="text-xl text-gray-500">Grove uses Amazon Web Services to host our application. We make full use of the security products embedded within the AWS ecosystem, including KMS, GuardDuty, and Inspector. In addition, we deploy our application using containers run on AWS managed services via Laravel Vapor, meaning we typically do not manage servers or EC2 instances in production.</p>
 		</div>
 	  </div>
 	</div>
@@ -91,12 +91,49 @@ ogtype: page
 </div>
 </section>
 
-{% include /reviews/review5.html %}
-{% include partners.html %}  
+
+{% include secpartners.html %}  
+
+<section class="relative py-20 lg:mb-0">
+<div class="container px-4 mx-auto">
+  <div class="relative flex flex-wrap items-center -mx-4">
+	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
+	  <img class="hidden xl:block absolute bottom-0 left-0 -ml-32 -mb-10" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/blue-dot-left-bars.svg" alt="Fancy Blue Dots">
+	  <img class="h-96 lg:h-128 w-full rounded-xl object-cover" src="{{ site.site_url }}/assets/images/services/security/nasa-Q1p7bh3SHj8-unsplash.jpg" alt="Cybersecurity Framework Readiness Services">
+	</div>
+	<div class="relative w-full lg:w-1/2 px-4">
+	  <div class="relative lg:pl-10 max-w-lg">
+		<span class="text-xs text-green-500 font-semibold">Trust Center</span>
+		<h2 class="mt-8 mb-6 lg:mb-10 lg:pr-8 text-4xl font-semibold font-heading">Learn how we secure your data.</h2>
+		<p class="text-xl text-gray-500 mb-6 lg:mb-12">Grove restores trust in small to enterprise businesses by enabling companies to prove and improve their security and compliance posture to their customers, prospects, and partners.</p>
+		<a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer" target="_blank" href="https://trust.grovetech.co/">Visit Trust Center</a> 
+	  </div>
+	</div>
+  </div>
+</div>
+</section>
 
 
+<section class="relative py-20">
+<div class="relative container px-4 mx-auto">
+  <div class="flex flex-wrap items-center -mx-4">
+	<div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
+	  <div class="max-w-lg">
+		<span class="text-xs text-green-500 font-semibold">Transparency In Security</span>
+		<h2 class="mt-8 mb-6 lg:mb-10 lg:pr-8 text-4xl font-semibold">Download Security Collateral.</h2>
+		<p class="mb-6 lg:mb-12 text-xl text-gray-500">Feel free to contact us, if you have compliance questions or your company requires us to fill in a questionnaire. We can help with cyber insurance fit as well. Fore more information on our compliance efforts visit our document download center.</p>
+		<a class="inline-block py-4 px-8 text-lg text-white font-medium leading-normal bg-green-500 transition duration-200 rounded cursor-pointer" href="https://trust.grovetech.co/documents/" target="_blank">Document Download Center</a> 
+	  </div>
+	</div>
+	<div class="relative w-full lg:w-1/2 px-4">
+	  <img class="rounded-xl object-cover lg:h-128" src="{{ site.site_url }}/assets/images/services/security/lewis-kang-ethe-ngugi-f5pTwLHCsAg-unsplash.jpg" alt="Your Trusted Security Advisor">
+	</div>
+  </div>
+</div>
+<img class="hidden xl:block absolute top-0 right-0 mt-52" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Little Yellow Dot">
+</section>
 
-{% include /awards.html %}
+
 
 {% include /forms/contact.html %}
 
