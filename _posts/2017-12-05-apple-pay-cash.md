@@ -2,7 +2,7 @@
 layout: post
 date: '2017-12-05 16:38 -0500'
 author: Jon Brown
-permalink: /blog/apple--pay-cash
+permalink: /blog/apple--pay-cash/
 published: true
 type: BlogPosting
 title: Apple Pay Cash
