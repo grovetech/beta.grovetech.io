@@ -1,5 +1,5 @@
 FROM jekyll/jekyll:pages
-FROM ruby:2.7.5-alpine3.15
+FROM ruby:2-alpine3.15
 
 COPY Gemfile* /srv/jekyll/
 
