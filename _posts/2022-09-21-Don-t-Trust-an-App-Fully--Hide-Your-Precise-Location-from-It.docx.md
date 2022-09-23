@@ -4,8 +4,8 @@ date: '2022-09-21'
 author: Jon Brown
 permalink: /blog/don-t-trust-an-app-fully--hide-your-precise-location-from-it/
 published: true
-title: Don-t Trust an App Fully- Hide Your Precise Location from It
-description: Don-t Trust an App Fully- Hide Your Precise Location from It
+title: "Don't Trust an App Fully Hide Your Precise Location from It"
+description: "Don't Trust an App Fully Hide Your Precise Location from It"
 blogimgpath: 20220905Do
 tags:
   - MacOS

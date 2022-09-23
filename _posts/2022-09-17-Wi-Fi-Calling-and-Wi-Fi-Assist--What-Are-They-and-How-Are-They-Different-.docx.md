@@ -4,8 +4,8 @@ date: '2022-09-17'
 author: Jon Brown
 permalink: /blog/wi-fi-calling-and-wi-fi-assist--what-are-they-and-how-are-they-different-/
 published: true
-title: Wi-Fi Calling and Wi-Fi Assist- What Are They and How Are They Different-
-description: Wi-Fi Calling and Wi-Fi Assist- What Are They and How Are They Different-
+title: Wi-Fi Calling and Wi-Fi Assist What Are They and How Are They Different
+description: Wi-Fi Calling and Wi-Fi Assist What Are They and How Are They Different
 blogimgpath: 20220905Wi
 tags:
   - MacOS
