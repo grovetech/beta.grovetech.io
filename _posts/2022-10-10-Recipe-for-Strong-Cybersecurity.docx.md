@@ -4,8 +4,8 @@ date: '2022-10-10'
 author: Jon Brown
 permalink: /blog/recipe-for-strong-cybersecurity/
 published: true
-title: Recipe for Strong Cybersecurity
-description: Recipe for Strong Cybersecurity
+title: "Cybersecurity Awareness Month: Recipe for Strong Cybersecurity"
+description: "Cybersecurity Awareness Month:Recipe for Strong Cybersecurity"
 blogimgpath: 20221006Re
 tags:
   - MacOS

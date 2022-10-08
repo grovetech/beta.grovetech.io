@@ -4,8 +4,8 @@ date: '2022-10-08'
 author: Jon Brown
 permalink: /blog/doctors-visit/
 published: true
-title: Doctor's Visit
-description: Doctor's Visit
+title: "Cybersecurity Awareness Month: Doctor's Visit"
+description: "Cybersecurity Awareness Month: Doctor's Visit"
 blogimgpath: 20221006Do
 tags:
   - MacOS

@@ -4,8 +4,8 @@ date: '2022-10-06'
 author: Jon Brown
 permalink: /blog/best-offense-is-a-good-defense/
 published: true
-title: Best Offense is a Good Defense
-description: Best Offense is a Good Defense
+title: "Cybersecurity Awareness Month: Best Offense is a Good Defense"
+description: "Cybersecurity Awareness Month: Best Offense is a Good Defense"
 blogimgpath: 20221006Be
 tags:
   - MacOS

@@ -4,8 +4,8 @@ date: '2022-10-09'
 author: Jon Brown
 permalink: /blog/security-questions-your-organization-should-be-asking-itself/
 published: true
-title: Security Questions Your Organization Should Be Asking Itself
-description: Security Questions Your Organization Should Be Asking Itself
+title: "Cybersecurity Awareness Month: Security Questions Your Organization Should Be Asking Itself"
+description: "Cybersecurity Awareness Month: Security Questions Your Organization Should Be Asking Itself"
 blogimgpath: 20221005Se
 tags:
   - MacOS

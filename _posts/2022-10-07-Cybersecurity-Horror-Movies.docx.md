@@ -4,8 +4,8 @@ date: '2022-10-07'
 author: Jon Brown
 permalink: /blog/cybersecurity-horror-movies/
 published: true
-title: Cybersecurity Horror Movies
-description: Cybersecurity Horror Movies
+title: "Cybersecurity Awareness Month: Cybersecurity Horror Movies"
+description: "Cybersecurity Awareness Month: Cybersecurity Horror Movies"
 blogimgpath: 20221006Cy
 tags:
   - MacOS
