@@ -61,7 +61,8 @@ production:          true
 #site_url:           http://localhost:4000
 #base_href:          http://localhost:4000
 #site_cdn:           http://localhost:4000
-map_token:          eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjlDQTZRU05UOEYifQ.eyJpc3MiOiIyRDRaN1dRN1JTIiwiaWF0IjoxNjM1MDgxMjUxLCJleHAiOjE2NjY1Njk2MDB9.jVQVc7lCS7UW-QgtO2pNoLAkMPJ9aJAIIwbud-dyk9OTKwkAMlna8c64aULH0iUgUfOpiX6E_7XTaG4mgEiG6w
+map_token:           eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjlDQTZRU05UOEYifQ.eyJpc3MiOiIyRDRaN1dRN1JTIiwiaWF0IjoxNjY2NjE1MTc0LCJleHAiOjE2OTgxMDU2MDB9.VRSDAqX-XY3HnL3xVEnWQoF_w0QNp6y8vDDxx0YDsCDNB19cUtYADNo2Dm8xQneU0P5BS7ifdk0MvDSfeUG49Q
+
 
 feed:
   path: atom.xml
