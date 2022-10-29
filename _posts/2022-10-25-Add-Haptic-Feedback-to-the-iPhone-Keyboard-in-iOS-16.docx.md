@@ -28,4 +28,3 @@ Keyboard Feedback. (While you're there, try turning off Sound; it may no
 longer be necessary.)
 
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20221005Ad/image2.jpeg" class="img-fluid rounded m-2" width="700" />
-
