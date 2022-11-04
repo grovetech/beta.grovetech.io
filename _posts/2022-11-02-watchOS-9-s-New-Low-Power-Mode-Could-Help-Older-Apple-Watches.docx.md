@@ -36,4 +36,6 @@ the screen to open Control Center, tapping the battery percentage
 button, and enabling the
 option.
 
+
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20221005wa/image2.jpeg" class="img-fluid rounded m-2" width="700" />
