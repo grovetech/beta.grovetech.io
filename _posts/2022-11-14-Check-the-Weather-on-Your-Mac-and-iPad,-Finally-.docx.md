@@ -32,4 +32,3 @@ cards for air quality and sunrise/sunset times. You no longer need to
 look elsewhere on the iPad and Mac for a basic weather app!
 
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20221107Ch/image2.jpeg" class="img-fluid rounded m-2" width="700" />
-
