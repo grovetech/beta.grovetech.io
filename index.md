@@ -84,7 +84,7 @@ ogtype: page
 		<div class="p-8 bg-white shadow-md rounded-lg">
 		  <span class="flex items-center justify-center mb-12 rounded-full w-20 h-20">
 			
-			<img class="" src="{{ site.site_url }}/assets/images/services/security/cmmc-rpo.png" alt="Grove Technologies CMMC RPO">
+			<img class="" src="{{ site.site_url }}/assets/images/services/security/cmmcrpo.png" alt="Grove Technologies CMMC RPO">
 			
 			</span>
 		  <h3 class="mb-6 text-2xl font-semibold"><a class="underline" href="https://cyberab.org/Catalog#!/c/s/Results/Format/list/Page/1/Size/9/Sort/Relevance?term=Grove%20Technologies" rel="noreferrer" target="_blank">CMMC RPO</a></h3>
@@ -97,7 +97,7 @@ ogtype: page
 		<div class="p-8 bg-white shadow-md rounded-lg">
 		  <span class="flex items-center justify-center mb-12 w-20 h-20">
 			
-			<img class="" src="{{ site.site_url }}/assets/images/services/security/cmmc-rp.png" alt="Grove Technologies CMMC RP">
+			<img class="" src="{{ site.site_url }}/assets/images/services/security/cmmcrp.png" alt="Grove Technologies CMMC RP">
 			
 			</span>
 		  <h3 class="mb-6 text-2xl font-semibold">CMMC RP</h3>
