@@ -55,9 +55,20 @@
     <input type="checkbox" class="hidden" id="footeralert">
 
     <div class="flex items-center justify-between w-full p-2 bg-green-500 shadow text-white">
-      <p class="p-3 text-lg font-semibold hidden md:block">NOTICE</p>
-          
-    <p class="p-3 text-lg text-center">We're closed Thursday and Friday, November 24th & 25th in observance of Thanksgiving.</p>
+      <p class="p-3 text-lg font-semibold hidden md:block">BLOG ALERT:</p>
+
+{% for post in site.posts limit:1 %}
+
+    <p class="p-3 text-lg text-center">
+    
+    <a href="{{ post.url | prepend: site.site_url }}">{{ post.title }}</a>
+    
+    </p>
+    
+{% endfor %}
+	
+	
+
 
       
    <!--
