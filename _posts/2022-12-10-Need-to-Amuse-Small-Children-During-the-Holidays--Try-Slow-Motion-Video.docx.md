@@ -29,4 +29,5 @@ towers to knock over while filming, giggled madly while watching the
 videos, and went on to brainstorm other activities to film in slow
 motion.
 
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2022/20221203Ne/image2.jpeg" class="img-fluid rounded m-2" width="700" />
