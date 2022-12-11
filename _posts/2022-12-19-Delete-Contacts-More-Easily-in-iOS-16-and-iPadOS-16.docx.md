@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2022-12-07'
+date: '2022-12-19'
 author: Jon Brown
 permalink: /blog/delete-contacts-more-easily-in-ios-16-and-ipados-16/
 published: true

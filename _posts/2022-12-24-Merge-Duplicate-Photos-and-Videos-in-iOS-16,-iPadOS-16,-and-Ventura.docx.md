@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2022-12-05'
+date: '2022-12-24'
 author: Jon Brown
 permalink: /blog/merge-duplicate-photos-and-videos-in-ios-16-ipados-16-and-ventura/
 published: true

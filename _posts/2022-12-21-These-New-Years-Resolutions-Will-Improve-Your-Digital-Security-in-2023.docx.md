@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2022-12-06'
+date: '2022-12-21'
 author: Jon Brown
 permalink: /blog/these-new-years-resolutions-will-improve-your-digital-security-in-2023/
 published: true

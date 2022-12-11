@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2022-12-09'
+date: '2022-12-12'
 author: Jon Brown
 permalink: /blog/you-can-now-use-siri-to-reboot-your-iphone-or-ipad-/
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2022-12-08'
+date: '2022-12-14'
 author: Jon Brown
 permalink: /blog/here-s-how-to-stop-getting-paste-permission-requests/
 published: true
