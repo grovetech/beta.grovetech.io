@@ -4,8 +4,8 @@ date: '2022-12-10'
 author: Jon Brown
 permalink: /blog/need-to-amuse-small-children-during-the-holidays--try-slow-motion-video/
 published: true
-title: Need to Amuse Small Children During the Holidays- Try Slow Motion Video
-description: Need to Amuse Small Children During the Holidays- Try Slow Motion Video
+title: "Need to Amuse Small Children During the Holidays? Try Slow Motion Video"
+description: "Need to Amuse Small Children During the Holidays? Try Slow Motion Video"
 blogimgpath: 20221203Ne
 tags:
   - MacOS
