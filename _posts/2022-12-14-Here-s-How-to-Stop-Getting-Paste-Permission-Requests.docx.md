@@ -4,8 +4,8 @@ date: '2022-12-14'
 author: Jon Brown
 permalink: /blog/here-s-how-to-stop-getting-paste-permission-requests/
 published: true
-title: Here-s How to Stop Getting Paste Permission Requests
-description: Here-s How to Stop Getting Paste Permission Requests
+title: "Here's How to Stop Getting Paste Permission Requests"
+description: "Here's How to Stop Getting Paste Permission Requests"
 blogimgpath: 20221203He
 tags:
   - MacOS
