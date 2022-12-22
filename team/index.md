@@ -30,7 +30,7 @@ ogtype: page
 	  <div class="p-6 border rounded-xl">
 		<div class="flex -mx-5 flex-wrap lg:flex-nowrap relative">
 		  <div class="relative ml-4 w-full mr-4 lg:mr-0 lg:w-36  mb-4 lg:mb-0 h-52 object-cover object-top rounded-xl bg-pink-500 flex items-center justify-center rounded-xl overflow-hidden">
-			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/mikaela.jpg" alt="Mikaela Donelan - Client Success & Project Manager">
+			<img class="w-full lg:h-52 md:h-96 h-52 object-cover object-top" src="{{ site.site_url }}/assets/images/avatars/team/new/mikaelanew.jpg" alt="Mikaela Donelan - Client Success & Project Manager">
 			
 			<div class="grid grid-cols-3 gap-1 absolute bottom-0 left-0 w-full lg:w-full md:w-1/3 place-items-center">
 			<div class="text-center"> 
