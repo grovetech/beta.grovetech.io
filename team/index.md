@@ -17,6 +17,8 @@ author: Jon Brown
 ogtype: page
 ---
 
+
+
 <section class="relative py-20">
 <img class="hidden lg:block absolute top-0 right-0 mt-52" src="{{ site.site_url }}/assets/zeus-assets/icons/dots/yellow-dot-right-shield.svg" alt="Yellow Shield">
 <div class="container px-5 mx-auto">
