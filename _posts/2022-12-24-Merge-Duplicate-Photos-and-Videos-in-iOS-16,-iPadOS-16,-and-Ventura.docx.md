@@ -112,3 +112,4 @@ which uses a different visual comparison engine and may identify more
 images that are sufficiently similar to qualify as duplicates in your
 mind. It costs $29.95, but you can use its free trial to see if it will
 help your duplicate problem.
+
