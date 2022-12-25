@@ -17,7 +17,7 @@ thumbnail: /assets/images/covers/2022/Header-DuplicatesPhotos.jpg
 cta: 1
 comments: true
 ---
-'s all too easy to end up with duplicate photos and videos in your
+It's all too easy to end up with duplicate photos and videos in your
 Photos library. The most common way is to use the Duplicate command, but
 we've seen duplicates appear due to accidentally repeated actions in
 other apps, repeated screenshots, multiple imports that include the same
