@@ -17,6 +17,29 @@ thumbnail: /assets/images/covers/2022/Header-LastPass.jpg
 cta: 1
 comments: true
 ---
+
+<style>
+ol {
+    list-style: block !important;
+    margin-left: 25px !important;
+    margin-bottom: 10px !important;
+    padding: 5 !important;
+}
+ul {
+  list-style: block !important;
+  list-style-type: square !important;
+  list-style-position: outside !important;
+  list-style-image: none !important;
+  margin-left: 25px !important;
+  margin-bottom: 10px !important;
+}
+h3 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+</style>
+
+
 We are writing this blog to educate you around the latest LastPass security breach event that we feel is important enough to share with all our clients not only clients specifically using LastPass. LastPass is a trusted password manager but as we are learning no technology is immune from security issues. The latest security issues are outlined by LastPass [here](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/).
 
 LastPass disclosed that "some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service." The reason why this is so critical and important to understand here is that using this technique the following information was accessed by the threat actor
@@ -25,6 +48,7 @@ LastPass disclosed that "some source code and technical information were stolen 
 
 * The threat actor copied information from backup that contained basic customer account information and related metadata including company names, end-user names, billing addresses, email addresses, telephone numbers, and the IP addresses from which customers were accessing the LastPass service.
 * The threat actor was also able to copy a backup of customer vault data from the encrypted storage container which is stored in a proprietary binary format that contains both unencrypted data, such as website URLs, as well as fully-encrypted sensitive fields such as website usernames and passwords, secure notes, and form-filled data.
+<br><br>
 
 Key things to remember:
 
@@ -34,6 +58,7 @@ Key things to remember:
 <li> There is no evidence that any unencrypted credit card data was accessed. LastPass does not store complete credit card numbers and credit card information is not archived in this cloud storage environment.</li>
 </ul>
 
+
 ### Our Concerns:
 
 <ol>
@@ -42,11 +67,14 @@ Key things to remember:
 <li> Instances where your Master Password was a reused password or followed a previously used password pattern -- for example, if you used “Rivers123” as a password somewhere else, and then you made your LastPass Master Password the same or something similar, like “Rivers1234” or “Rivers123!”</li>
 </ol>
 
+
+
 For #1 above, the corresponding sensitive data should be changed as soon as possible. For example, if you had a personal questions and answers in the Notes field of a password entry, you should change the personal questions and answers for that site (or just use MFA instead).
 
 For #’s 2 and 3 above (but especially for #3), all password entries in your LastPass Vault should be changed as soon as possible.
 
 ### What Should LastPass Customers Do?
+
 As a reminder, LastPass’ default master password settings and best practices include the following:
 
 <ul>
