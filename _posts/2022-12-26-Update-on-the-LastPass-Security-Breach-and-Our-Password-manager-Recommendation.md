@@ -19,13 +19,13 @@ comments: true
 ---
 
 <style>
-ol {
+.blog-post ol {
     list-style: block !important;
     margin-left: 25px !important;
     margin-bottom: 10px !important;
     padding: 5 !important;
 }
-ul {
+.blog-post ul {
   list-style: block !important;
   list-style-type: square !important;
   list-style-position: outside !important;
@@ -33,7 +33,7 @@ ul {
   margin-left: 25px !important;
   margin-bottom: 10px !important;
 }
-h3 {
+.blog-post h3 {
   margin-bottom: 10px;
   margin-top: 10px;
 }
