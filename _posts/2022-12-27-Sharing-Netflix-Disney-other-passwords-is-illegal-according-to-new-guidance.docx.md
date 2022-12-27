@@ -5,7 +5,7 @@ author: Jon Brown
 permalink: /blog/sharing-netflix-disney-other-passwords-is-illegal-according-to-new-guidance/
 published: true
 title: "Sharing Netflix, Disney, other passwords is illegal according to new guidance"
-description:" Sharing Netflix, Disney, other passwords is illegal according to new guidance"
+description: "Sharing Netflix, Disney, other passwords is illegal according to new guidance"
 blogimgpath: 20221226Sh
 tags:
   - MacOS
