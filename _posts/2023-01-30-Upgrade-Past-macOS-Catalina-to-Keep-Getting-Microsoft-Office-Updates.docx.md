@@ -29,4 +29,5 @@ work, but they won't receive enhancements, bug fixes, or security
 updates past October's 16.66 updates. Contact us if you have questions
 about appropriate upgrade paths.
 
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2023/20230102Up/image2.png" class="img-fluid rounded m-2" width="700" />
