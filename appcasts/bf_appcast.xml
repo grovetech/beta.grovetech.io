@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>BeFit Changelog</title>
+        <link>https://grovetech.co/appcasts/bf/bf_appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <generator>Feeder 4.4.1(5892) Mac App Store Version; Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <copyright>2023</copyright>
+        <pubDate>Sat, 07 Jan 2023 16:18:07 -0500</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2023 16:18:07 -0500</lastBuildDate>
+        <atom:link href="https://grovetech.co/appcasts/bf_appcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>BeFit Version 7.2.0</title>
+            <description><![CDATA[<p>macOS Monterey Support</p>
+
+
+<p>Bug Fixes</p>
+
+
+<p>M1 Support</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit-7.2.0.zip" length="7216330" type="application/zip" sparkle:dsaSignature="MC0CFAw1ygQlDIFfvEiLMI4miibBskGDAhUAgwpMOefLFXJmH5x/FQeoVV8PL6g=" sparkle:edSignature="/vR6AWvGuoyVdrKSc9Ti9vpqODIv/l/7Pa2u9AcUVUB16TMXHnL5+Hp1bO0Q3nDGOV+kImVbgSBV6BJYc3vGBg=="/>
+            <guid isPermaLink="false">C658CD1C-0C7F-4E46-89B7-97CE92711F20</guid>
+            <sparkle:version>7.2.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.2.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 7.1.0</title>
+            <description><![CDATA[<p>macOS Monterey Support&lt;br&gt;</p>
+
+
+<p>Bug Fixes&lt;br&gt;</p>
+
+
+<p>M1 Support</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFitTracker710.zip" length="7465544" type="application/zip" sparkle:dsaSignature="MCwCFBBLibtlZwU5DsYQRQMjT+UhImp/AhRP4tH5mb+NNKKqNaQuAirwicD3Aw==" sparkle:edSignature="I94cP4qhZFD2bBlo88gWCiXOpICZyPETkuVURN5f8j4WrpAGXy4vIv41DcH3wa+O6PS/gszZQYzn1jKhEnPcAQ=="/>
+            <guid isPermaLink="false">2E3F2386-331F-45C1-B040-AF5EEEAD71D4</guid>
+            <sparkle:version>7.1.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.1.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 7.0</title>
+            <description><![CDATA[BeFit for Mac is now free. After many years trying to make money as a developer I am resigned to doing so as a hobby. I will continue to add new features and accept donations. I appreciate all those that supported us and paid for the software in the past.]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit-7.0.zip" length="11718295" type="application/zip" sparkle:dsaSignature="MCwCFC9OScOfnWqDPCm0uela1g0jI3mZAhRWPV4kPWT82iBfNLAVnp7qK0N0Hw==" sparkle:edSignature="VwKnJHtjekZ/vojfhzrdbkj2VhAahL1eV+qaVP4cyoQO8RQ9O0Vb5k/At6snqaGobPmXs81yPSxQKlfSPxIQCA=="/>
+            <guid isPermaLink="false">551EC347-6D80-45C1-BFEB-298162D3A202</guid>
+            <sparkle:version>7.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 6.4</title>
+            <description><![CDATA[<p>- Moved BMI back into main UI</p>
+
+
+<p>- Updated top toolbar to use toolbar buttons</p>
+
+
+<p>- Removed preferences and deprecated code</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit-604.zip" length="12160117" type="application/zip" sparkle:dsaSignature="MC0CFE9EMYuE+tz5z5Vr05ZbyAXwEWHWAhUAiUcJt8ggx1iJA93pI5jg1AnQnRo=" sparkle:edSignature="oBbR4JnRZK+DuEKyIV3kOyY81VwxIUUkZSnEgEOLROVYw3Bo7pv2poUjXddWkJmrbPb++EbHr9/M+0XCxa32Cw=="/>
+            <guid isPermaLink="false">18B9E0B2-46A9-49E8-876C-C72379A4C3C6</guid>
+            <sparkle:version>6.4</sparkle:version>
+            <sparkle:shortVersionString>Version 6.4</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 6.3</title>
+            <description><![CDATA[<p>Dark Mode</p>
+
+
+<p>New GUI Interface</p>
+
+
+<p>Many bugs fixed</p>
+
+
+<p>Improved overall performance</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit-63.zip" length="12215838" type="application/zip" sparkle:dsaSignature="MC0CFQCcRm3DBoPZJw7j8zSI9uNzG64M9QIUM8NbxFmvSjTN1Z4Xwu8sth4iCG0=" sparkle:edSignature="tp6WhD26oh46WRkz8Inu0acZANLIIJ1qzAOfaZ6kReFCq6lSQzOOX9FYhqQMMjzsrnG12Lg+nstaiBumwO+8Dg=="/>
+            <guid isPermaLink="false">67EA7A3A-83DC-4816-A750-4D897760F527</guid>
+            <sparkle:version>6.3</sparkle:version>
+            <sparkle:shortVersionString>Version 6.3</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 6.1.1</title>
+            <description><![CDATA[<p>Completely rewritten in SWIFT</p>
+
+
+<p>Updated Privacy Policy and Website URL</p>
+
+
+<p>Notorized for 10.14 and higher</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/befit611.zip" length="12752444" type="application/zip" sparkle:dsaSignature="MCwCFDh1q3NVELDj4CTFJlp/03jbu8o7AhQaONb3F4sxB4Wyw5LvnqgqUpA2GA==" sparkle:edSignature="uI9dc5gRuS8whoPLkM2nZxE9QGYEw5JzCFV5i9jVeEVWRxZxd/AN3IvRNhg9tWCOxThzxtBn5PdWoCWbMnTfBQ=="/>
+            <guid isPermaLink="false">6FF1C5BD-BE2F-4D00-B964-8FBEDAEF6C48</guid>
+            <sparkle:version>6.1.1</sparkle:version>
+            <sparkle:shortVersionString>Version 6.1.1</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 6.0.5</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit605.zip" length="8687708" type="application/zip" sparkle:dsaSignature="MC0CFBzfMQ77Qs+VUkjjQjZw1uDqUDulAhUAiJASF5q+LtB88lMT2HIdvK9tm4g=" sparkle:edSignature="LnkR6sHbGiOR+vio/auDgu8pJDHHI6DnOkvc3ynUNwSm912MN6v4epix7ngyM13ZYpXi5E17zsyxh7ZdtEiPBA=="/>
+            <guid isPermaLink="false">70D56A30-D418-44D9-BF36-4AEDC3C42B3A</guid>
+            <sparkle:version>6.0.5</sparkle:version>
+            <sparkle:shortVersionString>Version 6.0.5</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 6.0</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit60.zip" length="7825710" type="application/zip" sparkle:dsaSignature="MCwCFHGh35yoNZcsS/2jsa695LlKcydOAhQBzErcwnZKwxkQ2BJt1kadmT0Zgg==" sparkle:edSignature="wquJrm03uYJ81ZOah7JuVMDA/bgKagT4tWxUnfgmw8mccPQqBZHLrse/pOT99rI9XcGcl25xbDQjKQLbubRyCw=="/>
+            <guid isPermaLink="false">604369C1-DD9E-4C8D-B1C7-86C602A6B365</guid>
+            <sparkle:version>6.0</sparkle:version>
+            <sparkle:shortVersionString>Version 6.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 5.0.1</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit501.zip" length="7513169" type="application/zip" sparkle:dsaSignature="MCwCExo2tinFuL9+SsGVF1l15jZ0++YCFQCUU7NRSWfva61mL3+A0sWqu/eb0w==" sparkle:edSignature="jJ++kt7+p3fro1u7JhUxytUVM8w946sjYhwKWW8alNWGRoMPRuGqQFDU23+EfEd9bzy3UMoC8MiX061w0oaOAw=="/>
+            <guid isPermaLink="false">798E20AA-DB17-463E-B43B-631251A7AA73</guid>
+            <sparkle:version>5.0.1</sparkle:version>
+            <sparkle:shortVersionString>Version 5.0.1</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Version 4.0.1</title>
+            <description><![CDATA[Update to Sparkle Framework for 10.10]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFit401.zip" length="7410157" type="application/zip" sparkle:dsaSignature="MCwCFGIPLlrY2hKJ0xu1+AyDkmGKbWvtAhRsoJ6FzIv/fWpeLzSt/aighPjoiA==" sparkle:edSignature="see8VUl5TlqQnaeW3CjpqGcnJS2lMq/JcGh2Go0BftCOEbkxXaGXuhODf+mtEZwBJjbJxf75ItbF3UX0oV/jAQ=="/>
+            <guid isPermaLink="false">E6303C56-F82B-4BFA-8E8A-C2C74836DFC6</guid>
+            <sparkle:version>4.0.1</sparkle:version>
+            <sparkle:shortVersionString>Version 4.0.1</sparkle:shortVersionString>
+        </item>
+    </channel>
+</rss>

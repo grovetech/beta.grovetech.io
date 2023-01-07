@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Animal Age Changelog</title>
+        <link>https://grovetech.co/appcasts/aa.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <generator>Feeder 4.4.1(5892) Mac App Store Version; Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <copyright>2023</copyright>
+        <pubDate>Sat, 07 Jan 2023 16:00:54 -0500</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2023 16:00:54 -0500</lastBuildDate>
+        <atom:link href="https://grovetech.co/appcasts/aa_appcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Animal Age Version 8.1.0</title>
+            <description><![CDATA[<p>macOS Monterey Support</p>
+
+
+<p>Bug Fixes</p>
+
+
+<p>M1 Support</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/AnimalAge-8.3.0.zip" length="1672362" type="application/zip" sparkle:dsaSignature="MCwCFA4IZXJTMn2G4W7rJMne5W1BsU+pAhRi4G3KOi66CuW8w+Fl6k9dJD1Yuw==" sparkle:edSignature="G9diVdkkKuVrdfVQlTDSSlgMGXYS/cK7Tfnu7JkquGazyFYbsBrMtwWasdTAZF4qdWR5DU7LPL8C3DVYrSO2CA=="/>
+            <guid isPermaLink="false">D919D6A4-FF34-4987-B749-1BE8B21A0E7B</guid>
+            <sparkle:version>8.1.0</sparkle:version>
+            <sparkle:shortVersionString>Version 8.1.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 8.0.8</title>
+            <description><![CDATA[<p>macOS Monterey Support</p>
+
+<p>Bug Fixes</p>
+
+<p>M1 Support</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/AnimalAge808.zip" length="5101486" type="application/zip" sparkle:dsaSignature="MCwCFEz2vlaXh+jwXpYU6YfO5+ujI2k2AhQfHW6EXwpZGFJgBXFKPcPJ2MfJRQ==" sparkle:edSignature="XxzBuuD6qvxTAU2aC+JwSdWVloPlBGK54NMBKxQxAj7M5a9+KlEKKg1qjgaEtqWLQuxDLq8o7L/anZapt+EDBQ=="/>
+            <guid isPermaLink="false">61C6467F-3EA4-4ED5-903F-D427B59BFCD3</guid>
+            <sparkle:version>8.0.8</sparkle:version>
+            <sparkle:shortVersionString>Version 8.0.8</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 8.0.7</title>
+            <description><![CDATA[Notarized for 10.14 and higher]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/AA807.zip" length="5544055" type="application/zip" sparkle:dsaSignature="MCwCFHf8ZOzqh6SVYPZE1BjuiIGtELOUAhQ4PzkEDoXWqpcykuQq7kxL13H3Rw==" sparkle:edSignature="yiLMbb5RdWSKe+4HUCwRQmL1/oAdYgD1d5P+y+KzggEs7tFvhct995teoRvs+Md548xRBhr28ZYrLvgX0RCgAA=="/>
+            <guid isPermaLink="false">F72278AE-1905-40D2-9480-744243F8CA28</guid>
+            <sparkle:version>8.0.7</sparkle:version>
+            <sparkle:shortVersionString>Version 8.0.7</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 8.0.6</title>
+            <description><![CDATA[- Completely rewritten in Swift 5]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/aage80.zip" length="5542706" type="application/zip" sparkle:dsaSignature="MC0CFC2H4cSR94QNQn2ap6Qs8SdBi9B5AhUAmnpToJuVFZQqeDUo7qStjpE4Q3U=" sparkle:edSignature="LL7zOiqo6MD/TRuA++HrcuZUfpauJ2zsFqP0nk4yTogedCGc133U8p4jgoI0UZr0u+Qqq7dTose6rf6/y5iKBQ=="/>
+            <guid isPermaLink="false">AAD3E42D-290E-45EC-97D7-206946951E8A</guid>
+            <sparkle:version>8.0.6</sparkle:version>
+            <sparkle:shortVersionString>Version 8.0.6</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 7.0</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/aage70.zip" length="1424831" type="application/zip" sparkle:dsaSignature="MCwCFAoxdWLoi4nwR0gvbc4V9Y9DOG+wAhRnT5UHGhLN8y49VRoXfqmZqZ/efg==" sparkle:edSignature="x/TJBdW0qz4UN7Sq1HYbAvKsHtCVmJMSqfgfuXFegvXxO0hUQ1BYaEiI9fP+HUNzMoYyZD43rEw3r4EDGFZ+CQ=="/>
+            <guid isPermaLink="false">0EAB4B12-AB80-4FFA-BBFE-04B9CD1472EF</guid>
+            <sparkle:version>7.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 3.0.1</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/aage301.zip" length="1498640" type="application/zip" sparkle:dsaSignature="MC0CFBCpjHUIPBExQiOOaimLTye3cxOlAhUAi+NrWN0Ew4eBh/qQdRjxeyQk4pY=" sparkle:edSignature="/LMtKesKuFk4PifYs7hFMl32BIcg/MyUVWpZwO/1aWdrpIim0qF7qQVOft+QtvCJSBODULmMb+sEXaLN70V0Cg=="/>
+            <guid isPermaLink="false">CF4681CD-69DB-458C-9640-8D89B1A4A04C</guid>
+            <sparkle:version>3.0.1</sparkle:version>
+            <sparkle:shortVersionString>Version 3.0.1</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 3.0</title>
+            <description><![CDATA[Streamlined code]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/aage30.zip" length="1222147" type="application/zip" sparkle:dsaSignature="MCwCFBWLR/sYnBnjPzKNi/ScXTxiOOtGAhQJ8/xVY6HJoaxgiXgvENi3Ms+78w==" sparkle:edSignature="fDeNU7r8tInAb4/EV7E6cyv97ZGp7VaqbwDoGKYOlBrBT5DHdrrkZ+Bc3OLr2/nFGTEhmGE/zrVVMDqI6t1UCQ=="/>
+            <guid isPermaLink="false">060F402A-876F-4BD6-B7BB-16F7D3EC9B98</guid>
+            <sparkle:version>3.0</sparkle:version>
+            <sparkle:shortVersionString>Version 3.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 2.0.3</title>
+            <description><![CDATA[Added the ability to submit feedback, support issues, feature requests and report bugs from within the application itself]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/aage203.zip" length="1542238" type="application/zip" sparkle:dsaSignature="MCwCFB+blYZq+9uNA/5D0gVhIki4Ag3nAhRnDdT31feTAeLuqd2rIhdzW9A0PA==" sparkle:edSignature="OEKTsg+f+v1jpfSvP6VEJxcpwwoZ/Ld+2CKW2F0SQNKWoInNXrYQ+5Lu8UD6j+ypLLG5GyC/fnijWm6QlsRlDw=="/>
+            <guid isPermaLink="false">BB8C3AD4-EA57-4B1A-BAB8-31CB0810E5F3</guid>
+            <sparkle:version>2.0.3</sparkle:version>
+            <sparkle:shortVersionString>Version 2.0.3</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 2.0.2</title>
+            <description><![CDATA[Minor Bug Fixes]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/aage202.zip" length="1498539" type="application/zip" sparkle:dsaSignature="MC0CFCQAXLz5te6QpHNcg9MTYGk0Knj2AhUAlWXoldYdxjAUlGNiIy3BkI8Y8Jo=" sparkle:edSignature="aLpOLsjIrlNJuwyeVFLTbuidfPIeQY6GQTkJHAMOLsyH2aQ4TUw+LnI6wL98euKp/CkuDQhSb5m6/jIAM54VDg=="/>
+            <guid isPermaLink="false">236AE4F1-82B8-4872-AFE2-1C2FAEC6359B</guid>
+            <sparkle:version>2.0.2</sparkle:version>
+            <sparkle:shortVersionString>Version 2.0.2</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Animal Age Version 2.0.1</title>
+            <description><![CDATA[Fixes spelling issues]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/aa201.zip" length="1295820" type="application/zip" sparkle:dsaSignature="MC0CFDngw59ztnRQxADqBPnTWc/Heio7AhUAlUnH7Iwzu/XEnpL7vpJ3tGLY8So=" sparkle:edSignature="a8G0FGkxm8TU3l1OMWyOBM5434shlKankE57UjxCk+ePJKgTn/1F9czO/pZDIgSArQ+kfGRKJkDCDRgvZPR2Bg=="/>
+            <guid isPermaLink="false">F4220BDA-D1FB-4D94-A0D2-38CB20D440DE</guid>
+            <sparkle:version>2.0.1</sparkle:version>
+            <sparkle:shortVersionString>Version 2.0.1</sparkle:shortVersionString>
+        </item>
+    </channel>
+</rss>

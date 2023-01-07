@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>BeFit Trial Changelog</title>
+        <link>https://grovetech.co/appcasts/bft_appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <generator>Feeder 4.4.1(5892) Mac App Store Version; Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <copyright>2023</copyright>
+        <pubDate>Sat, 07 Jan 2023 16:25:49 -0500</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2023 16:25:49 -0500</lastBuildDate>
+        <atom:link href="https://grovetech.co/appcasts/bft_appcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>BeFit Trial Version 7.1.0</title>
+            <description><![CDATA[<p>macOS Monterey Support</p>
+
+<p>Bug Fixes</p>
+
+<p>M1 Support</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/BeFitTracker710.zip" length="7465544" type="application/zip" sparkle:dsaSignature="MCwCFCEeMuUIExtUwqst9LOq9rV5EkFnAhR1F9RvUdnaRPa183q9Wxbpcg9zyg==" sparkle:edSignature="I94cP4qhZFD2bBlo88gWCiXOpICZyPETkuVURN5f8j4WrpAGXy4vIv41DcH3wa+O6PS/gszZQYzn1jKhEnPcAQ=="/>
+            <guid isPermaLink="false">A6212108-2ED0-4BBD-A45C-A8EFED983680</guid>
+            <sparkle:version>7.1.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.1.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 7.0</title>
+            <description><![CDATA[BeFit for Mac is now free. After many years trying to make money as a developer I am resigned to doing so as a hobby. I will continue to add new features and accept donations. I appreciate all those that supported us and paid for the software in the past.]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/BeFit-7.0tr.zip" length="11718295" type="application/zip" sparkle:dsaSignature="MCwCFAzkk+48+Qh2us3QBAOvHpbU2+giAhR/VJzAMPBcKB3SGP4xhStD4lMaBA==" sparkle:edSignature="VwKnJHtjekZ/vojfhzrdbkj2VhAahL1eV+qaVP4cyoQO8RQ9O0Vb5k/At6snqaGobPmXs81yPSxQKlfSPxIQCA=="/>
+            <guid isPermaLink="false">0B3F4F0A-2A5C-4FF9-B9C8-91203928CE80</guid>
+            <sparkle:version>7.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 6.4</title>
+            <description><![CDATA[<p>- Moved BMI back into main UI</p>
+
+<p>- Updated top toolbar to use toolbar buttons</p>
+
+<p>- Removed preferences and deprecated code</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/BeFit-604.zip" length="12160117" type="application/zip" sparkle:dsaSignature="MCwCFFpBt8sYgdNv1ZzuA12nTW3bDxGdAhRqvk3pnM59oRaOd7/nRQoUzU+0EQ==" sparkle:edSignature="oBbR4JnRZK+DuEKyIV3kOyY81VwxIUUkZSnEgEOLROVYw3Bo7pv2poUjXddWkJmrbPb++EbHr9/M+0XCxa32Cw=="/>
+            <guid isPermaLink="false">6B0A15DF-C9ED-4ADD-ABA2-AFC8583EDF82</guid>
+            <sparkle:version>6.4</sparkle:version>
+            <sparkle:shortVersionString>Version 6.4</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 6.3</title>
+            <description><![CDATA[<p>Dark Mode</p>
+
+<p>New GUI Interface</p>
+
+<p>Many bugs fixed</p>
+
+<p>Improved overall performance</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/BeFit-63.zip" length="12215838" type="application/zip" sparkle:dsaSignature="MCwCFFJWAo5Dn/Da9WhnKNAO3wEka9xfAhQZHTJZm6c5/UaHKR8jPkmH/SRObw==" sparkle:edSignature="tp6WhD26oh46WRkz8Inu0acZANLIIJ1qzAOfaZ6kReFCq6lSQzOOX9FYhqQMMjzsrnG12Lg+nstaiBumwO+8Dg=="/>
+            <guid isPermaLink="false">C9173FFD-1DFF-4F9F-8327-C7C341C8FD59</guid>
+            <sparkle:version>6.3</sparkle:version>
+            <sparkle:shortVersionString>Version 6.3</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 6.1.1</title>
+            <description><![CDATA[<p>Completely rewritten in SWIFT</p>
+
+<p>Updated Privacy Policy and Website URL</p>
+
+<p>Notorized for 10.14 and higher</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/demo611.zip" length="8838725" type="application/zip" sparkle:dsaSignature="MC0CFQCEUKEbgmmE5hndop+nxN04WSKWGQIUbjO2+0qjqXCeyr0xOPEB999/Uzo=" sparkle:edSignature="VgFInVFM+HrdROQuTaa0xJg3VU3ImkxFez8wf0w0vxv4Ftuc9xAkYfb6p6NniyhoM6Oyi5qcpPv9N0x6J6rEAQ=="/>
+            <guid isPermaLink="false">38FD543D-9436-45CF-A041-41053AC7B209</guid>
+            <sparkle:version>6.1.1</sparkle:version>
+            <sparkle:shortVersionString>Version 6.1.1</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 6.0.5</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/demo605.zip" length="4773540" type="application/zip" sparkle:dsaSignature="MCwCFCQVJgRgyqA56cmoXBnN9j+58IBAAhRdSbi6lfZdyVLMmUzPCleXB/p6Rg==" sparkle:edSignature="NXHSlox3Lp0Q2tZ++uNZAhlOp9fBCxKAJ2a2xiTi3+8aqtH4Tb9Kuy05TKxLsN4lrcb57IrtvTQIFrM2KyhCDA=="/>
+            <guid isPermaLink="false">B3872EB5-414A-41D5-9E47-C3455E6B310F</guid>
+            <sparkle:version>6.0.5</sparkle:version>
+            <sparkle:shortVersionString>Version 6.0.5</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 6.0</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/demo60.zip" length="3909653" type="application/zip" sparkle:dsaSignature="MCwCFG3BDnP1usnoGEidudAySz2TEQ6xAhRkCNjMo/CPjwK06CvQ1QZEDU1TCA==" sparkle:edSignature="H6kpScjoPEo7V2PGSikV3V83j7c8jNwZnC714DAPHf1CRkwTsjQzgoZ3KzhxRqzsfC749jiI1gJKiTME8Az1Aw=="/>
+            <guid isPermaLink="false">FFD834E7-6AB3-4F54-A4B0-92989CC03057</guid>
+            <sparkle:version>6.0</sparkle:version>
+            <sparkle:shortVersionString>Version 6.0</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 5.0.1</title>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/bftrial501.zip" length="3596238" type="application/zip" sparkle:dsaSignature="MCwCFC0nbnWcgRQNzclp/O45X45L1B3HAhROxJXt7qROPsD+pxAcXH5sKORkZg==" sparkle:edSignature="3/AhTyFpVJw4zZeqfYIJeNt5fwOhjP43/SsGpWMpDe/2CiBQvMIA7+MNEar2KlHss7UGD247rWzfZrePwvN0Bg=="/>
+            <guid isPermaLink="false">7EE5011A-3400-4A8D-A067-EC6B5BF82D38</guid>
+            <sparkle:version>5.0.1</sparkle:version>
+            <sparkle:shortVersionString>Version 5.0.1</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 4.0.1</title>
+            <description><![CDATA[Update to Sparkle Framework for 10.10]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/demo401.zip" length="3491478" type="application/zip" sparkle:dsaSignature="MCwCFFUKhwM0zZrL6THplhDCBd+pOjCAAhRAadFQ/fi2pZpRYoSSHwVbmPQ2hg==" sparkle:edSignature="IIUHO/QjDMPNfQ7r8GaqiXi/Wp4C1YYuoK28bsUaYiqlGBAZ18yqx3TAQtK9FO/ic0Wwa31xZJnn/pfkKziBDw=="/>
+            <guid isPermaLink="false">83235A30-331F-46B1-A3C7-B7D20704F426</guid>
+            <sparkle:version>4.0.1</sparkle:version>
+            <sparkle:shortVersionString>Version 4.0.1</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>BeFit Trial Version 4.0</title>
+            <description><![CDATA[Improved Caloric List UI and Graphing]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/demo40.zip" length="3499912" type="application/zip" sparkle:dsaSignature="MCwCFCXPgR9iREjxm7gjomdw64OBl/ZEAhR9EQzNycvtT6RAkJrorHrCeyYF1A==" sparkle:edSignature="5BhsMGcuB47MPvvEllbYY00o1tfZ956KQ9teWEvNPi4m36BOS/4PXzSxmJ20yWV6fV5nd1JOisMG5tjD2mZgAA=="/>
+            <guid isPermaLink="false">95106CB5-BC92-45D7-BF86-51B06DFC9B3D</guid>
+            <sparkle:version>4.0</sparkle:version>
+            <sparkle:shortVersionString>Version 4.0</sparkle:shortVersionString>
+        </item>
+    </channel>
+</rss>
