@@ -7,9 +7,9 @@
         <generator>Feeder 4.4.1(5892) Mac App Store Version; Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sat, 07 Jan 2023 14:37:10 -0500</pubDate>
-        <lastBuildDate>Sat, 07 Jan 2023 14:37:10 -0500</lastBuildDate>
-        <atom:link href="https://grovetech.co/appcasts/ms_appcast.php" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 07 Jan 2023 14:55:00 -0500</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2023 14:55:00 -0500</lastBuildDate>
+        <atom:link href="https://grovetech.co/appcasts/ms_appcast.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>Grove Support Version 8.5.0</title>
             <description><![CDATA[Security Updates]]></description>
