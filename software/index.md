@@ -93,7 +93,7 @@ ogtype: page
 		<h2 class="mt-8 mb-6 lg:mb-10 lg:pr-8 text-4xl font-semibold">Grove Support macOS</h2>
 		<p class="mb-6 lg:mb-12 text-xl text-gray-500">Open support cases right from within the app. Next-level support is always at your fingertips. You can book an appointment up to 60 days in advance within the app. We also handle emergency bookings and more.</p>
 
-		<a class="inline-block mr-0 lg:mr-4 -mt-2 lg:mb-0 mb-5" href="https://shine.grovedesigns.co/download.php?id=6" target="blank" rel="noreferrer">
+		<a class="inline-block mr-0 lg:mr-4 -mt-2 lg:mb-0 mb-5" href="https://grovetech.co/appcasts/ms/latest.zip" target="blank" rel="noreferrer">
 	  	  <div class="flex mt-3 w-48 h-14 bg-transparent text-black border border-black rounded-xl items-center justify-center">
             <div class="mr-3">
                 <svg viewBox="0 0 384 512" width="30" >

@@ -32,7 +32,7 @@ ogtype: page
             </div>
            </div>
 	  </a>
-	  <a class="text-xl rounded-xl border border-black py-2 px-4 mt-1 hidden lg:block" href="https://shine.grovedesigns.co/download.php?id=6" target="blank" rel="noreferrer">Download macOS App</a>
+	  <a class="text-xl rounded-xl border border-black py-2 px-4 mt-1 hidden lg:block" href="https://grovetech.co/appcasts/ms/latest.zip" target="blank" rel="noreferrer">Download macOS App</a>
 	</div>
   </div>
   <div>
@@ -102,7 +102,7 @@ ogtype: page
 		</div>
 	  </div>
 	  <div class="flex items-center">
-		  <a class="text-xl rounded-xl border border-black py-2 px-4 mt-14" href="https://shine.grovedesigns.co/download.php?id=6" target="blank" rel="noreferrer">Download macOS App</a>
+		  <a class="text-xl rounded-xl border border-black py-2 px-4 mt-14" href="https://grovetech.co/appcasts/ms/latest.zip" target="blank" rel="noreferrer">Download macOS App</a>
 	  </div>
 	  
 	  </div>
