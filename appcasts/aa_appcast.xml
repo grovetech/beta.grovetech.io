@@ -8,9 +8,25 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2023</copyright>
-        <pubDate>Sat, 07 Jan 2023 16:00:54 -0500</pubDate>
-        <lastBuildDate>Sat, 07 Jan 2023 16:00:54 -0500</lastBuildDate>
+        <pubDate>Sat, 07 Jan 2023 17:19:49 -0500</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2023 17:19:49 -0500</lastBuildDate>
         <atom:link href="https://grovetech.co/appcasts/aa_appcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Animal Age Version 8.4</title>
+            <description><![CDATA[<p>macOS Ventura Support</p>
+
+
+<p>Bug Fixes</p>
+
+
+<p>M1 Support</p>
+]]></description>
+            <pubDate>Sat, 07 Jan 2023 11:00:00 -0500</pubDate>
+            <enclosure url="https://storage.googleapis.com/appcasts/aa/AnimalAge_84.zip" length="1958035" type="application/zip" sparkle:dsaSignature="MC0CFBTICfPdR+XjPrmr3FYpUPpR2E51AhUAmqjcwMtZSN8UybRkk0xQHPZ+sjQ=" sparkle:edSignature="Ft8lbNoLsB/BKCMEf4CZ7IiGiKOm7IBEuNk9yOfNsqDdF5Evss3oepUCdptrG+a90VgQCXWZVXEkBD5N+5aoCw=="/>
+            <guid isPermaLink="false">834EFF0F-CC88-4EF6-9716-0AC75442DD27</guid>
+            <sparkle:version>8.4</sparkle:version>
+            <sparkle:shortVersionString>Version 8.4</sparkle:shortVersionString>
+        </item>
         <item>
             <title>Animal Age Version 8.1.0</title>
             <description><![CDATA[<p>macOS Monterey Support</p>
