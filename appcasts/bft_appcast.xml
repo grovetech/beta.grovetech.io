@@ -8,9 +8,22 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2023</copyright>
-        <pubDate>Sat, 07 Jan 2023 16:25:49 -0500</pubDate>
-        <lastBuildDate>Sat, 07 Jan 2023 16:25:49 -0500</lastBuildDate>
+        <pubDate>Sun, 08 Jan 2023 11:26:17 -0500</pubDate>
+        <lastBuildDate>Sun, 08 Jan 2023 11:26:17 -0500</lastBuildDate>
         <atom:link href="https://grovetech.co/appcasts/bft_appcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>BeFit Trial Version 7.3.0</title>
+            <description><![CDATA[<p>Sparkle Upgrade</p>
+
+<p>Bug Fixes</p>
+
+<p>M1 Support</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit-trial/BeFitTracker73.zip" length="7731194" type="application/zip" sparkle:dsaSignature="MCwCFDflC1gwPxHaW1hIqPuSp9cVogUBAhQoy5Qt0eJYXQTNNVdwXnWjrqI1uQ==" sparkle:edSignature="bpFrgbj7sseeM0mn/W6hT+NUMpMj929y62YdYt2ddAOBLjGQxvS3deumeZZ2Msvnv0zxMNOrB3gOjgYIa4LpDg=="/>
+            <guid isPermaLink="false">C24B5DF8-7EA3-4869-8AC3-1B7AF0F70028</guid>
+            <sparkle:version>7.3.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.3.0</sparkle:shortVersionString>
+        </item>
         <item>
             <title>BeFit Trial Version 7.1.0</title>
             <description><![CDATA[<p>macOS Monterey Support</p>

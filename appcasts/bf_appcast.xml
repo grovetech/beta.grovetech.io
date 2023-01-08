@@ -2,15 +2,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>BeFit Changelog</title>
-        <link>https://grovetech.co/appcasts/bf/bf_appcast.xml</link>
+        <link>https://grovetech.co/appcasts/bf_appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <generator>Feeder 4.4.1(5892) Mac App Store Version; Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2023</copyright>
-        <pubDate>Sat, 07 Jan 2023 16:18:07 -0500</pubDate>
-        <lastBuildDate>Sat, 07 Jan 2023 16:18:07 -0500</lastBuildDate>
+        <pubDate>Sun, 08 Jan 2023 11:26:21 -0500</pubDate>
+        <lastBuildDate>Sun, 08 Jan 2023 11:26:21 -0500</lastBuildDate>
         <atom:link href="https://grovetech.co/appcasts/bf_appcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>BeFit Version 7.30</title>
+            <description><![CDATA[<p>Sparkle Updates
+<br />Bug Fixes
+<br />M2 Support</p>
+]]></description>
+            <enclosure url="https://storage.googleapis.com/appcasts/befit/BeFitTracker73.zip" length="7731194" type="application/zip" sparkle:dsaSignature="MC4CFQCJkRxJzQFNE33gbYcB7YQUTgF7uQIVAI5G+cRqYPQYQTQDIaZRfX0Aq/N3" sparkle:edSignature="bpFrgbj7sseeM0mn/W6hT+NUMpMj929y62YdYt2ddAOBLjGQxvS3deumeZZ2Msvnv0zxMNOrB3gOjgYIa4LpDg=="/>
+            <guid isPermaLink="false">5FFE49C1-FA85-4E78-A77E-137690A45A7C</guid>
+            <sparkle:version>7.3.0</sparkle:version>
+            <sparkle:shortVersionString>Version 7.3.0</sparkle:shortVersionString>
+        </item>
         <item>
             <title>BeFit Version 7.2.0</title>
             <description><![CDATA[<p>macOS Monterey Support</p>
