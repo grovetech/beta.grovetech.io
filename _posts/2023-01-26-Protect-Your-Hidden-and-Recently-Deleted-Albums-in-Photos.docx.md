@@ -30,4 +30,6 @@ Use Face ID/Touch ID; in macOS 13 Ventura, choose Photos \> Settings \>
 General and select "Use Touch ID or password." From then on, opening
 those albums will require authentication.
 
+
+
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2023/20230102Pr/image2.png" class="img-fluid rounded m-2" width="700" />
