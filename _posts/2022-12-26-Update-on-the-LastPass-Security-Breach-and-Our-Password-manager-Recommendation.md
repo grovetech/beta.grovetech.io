@@ -40,6 +40,8 @@ comments: true
 </style>
 
 
+
+
 We are writing this blog to educate you around the latest LastPass security breach event that we feel is important enough to share with all our clients not only clients specifically using LastPass. LastPass is a trusted password manager but as we are learning no technology is immune from security issues. The latest security issues are outlined by LastPass [here](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/).
 
 LastPass disclosed that "some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service." The reason why this is so critical and important to understand here is that using this technique the following information was accessed by the threat actor
