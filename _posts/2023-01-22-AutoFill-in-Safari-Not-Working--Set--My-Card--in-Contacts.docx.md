@@ -4,8 +4,8 @@ date: '2023-01-22'
 author: Jon Brown
 permalink: /blog/autofill-in-safari-not-working--set--my-card--in-contacts/
 published: true
-title: AutoFill in Safari Not Working- Set -My Card- in Contacts
-description: AutoFill in Safari Not Working- Set -My Card- in Contacts
+title: "AutoFill in Safari Not Working? Set My Card in Contacts"
+description: "AutoFill in Safari Not Working? Set My Card in Contacts"
 blogimgpath: 20230102Au
 tags:
   - MacOS
@@ -26,5 +26,6 @@ Although we have no idea what caused the problem, the solution turned
 out to be simple. She went into Contacts, found her personal contact
 card, and chose Card \> Make This My Card. Give this a try if you're
 having trouble with AutoFill or haven't yet started using it in Safari.
+
 
 <img alt="Blog Photo" src="{{ site.site_cdn }}/assets/images/blog/2023/20230102Au/image2.png" class="img-fluid rounded m-2" width="700" />
